@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.genruntimeconfig.cache

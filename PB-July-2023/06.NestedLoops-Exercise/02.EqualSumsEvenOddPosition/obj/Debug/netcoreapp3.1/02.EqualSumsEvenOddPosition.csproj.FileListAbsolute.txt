@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/bin/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/02.EqualSumsEvenOddPosition/obj/Debug/netcoreapp3.1/02.EqualSumsEvenOddPosition.genruntimeconfig.cache

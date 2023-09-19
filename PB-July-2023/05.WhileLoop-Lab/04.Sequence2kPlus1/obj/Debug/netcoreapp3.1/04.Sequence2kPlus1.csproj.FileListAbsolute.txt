@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.genruntimeconfig.cache

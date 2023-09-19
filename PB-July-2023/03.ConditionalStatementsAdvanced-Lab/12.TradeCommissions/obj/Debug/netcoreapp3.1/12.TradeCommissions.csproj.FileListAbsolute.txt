@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.genruntimeconfig.cache

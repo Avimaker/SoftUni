@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/bin/Debug/netcoreapp3.1/05.SmallShop.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/05.SmallShop/obj/Debug/netcoreapp3.1/05.SmallShop.genruntimeconfig.cache

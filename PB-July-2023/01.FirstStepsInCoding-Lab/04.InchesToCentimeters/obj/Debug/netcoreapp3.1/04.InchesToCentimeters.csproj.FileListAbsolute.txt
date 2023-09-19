@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters.deps.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/bin/Debug/netcoreapp3.1/04.InchesToCentimeters.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/obj/Debug/netcoreapp3.1/04.InchesToCentimeters.genruntimeconfig.cache

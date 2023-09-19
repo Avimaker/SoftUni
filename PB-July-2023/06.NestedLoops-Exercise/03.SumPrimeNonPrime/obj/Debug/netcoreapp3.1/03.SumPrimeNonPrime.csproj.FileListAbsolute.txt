@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/netcoreapp3.1/03.SumPrimeNonPrime.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/netcoreapp3.1/03.SumPrimeNonPrime.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.genruntimeconfig.cache

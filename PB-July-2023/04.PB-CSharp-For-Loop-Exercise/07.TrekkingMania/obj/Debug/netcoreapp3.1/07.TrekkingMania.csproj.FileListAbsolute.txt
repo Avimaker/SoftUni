@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.genruntimeconfig.cache

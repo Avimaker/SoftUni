@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/bin/Debug/netcoreapp3.1/04.CleverLily.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/04.CleverLily/obj/Debug/netcoreapp3.1/04.CleverLily.genruntimeconfig.cache

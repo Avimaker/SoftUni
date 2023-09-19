@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.genruntimeconfig.cache

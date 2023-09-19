@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.genruntimeconfig.cache

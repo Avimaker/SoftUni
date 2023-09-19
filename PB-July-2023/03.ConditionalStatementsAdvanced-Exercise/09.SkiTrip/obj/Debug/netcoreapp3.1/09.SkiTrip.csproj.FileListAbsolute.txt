@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.genruntimeconfig.cache

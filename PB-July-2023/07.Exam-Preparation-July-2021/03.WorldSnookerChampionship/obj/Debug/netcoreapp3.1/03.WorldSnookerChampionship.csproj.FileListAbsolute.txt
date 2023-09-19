@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship.deps.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship.runtimeconfig.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship.runtimeconfig.dev.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/bin/Debug/netcoreapp3.1/03.WorldSnookerChampionship.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.AssemblyInfo.cs
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/obj/Debug/netcoreapp3.1/03.WorldSnookerChampionship.genruntimeconfig.cache

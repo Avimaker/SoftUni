@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/bin/Debug/netcoreapp3.1/01.Cinema.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/01.Cinema/obj/Debug/netcoreapp3.1/01.Cinema.genruntimeconfig.cache

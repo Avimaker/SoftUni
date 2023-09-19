@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.genruntimeconfig.cache

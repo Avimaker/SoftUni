@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{C4FD2694-3CCF-4F32-ABD7-5BA10D35E8A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.11.FruitShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="12.TradeCommissions/Program.cs">
+    <Files>
+      <File FileName="01.DayOfWeek/Program.cs" />
+      <File FileName="02.WeekendOrWorkingDay/Program.cs" />
+      <File FileName="03.AnimalType/Program.cs" />
+      <File FileName="04.PersonalTitles/Program.cs" />
+      <File FileName="05.SmallShop/Program.cs" />
+      <File FileName="06.NumberInRange/Program.cs" Line="1" Column="1" />
+      <File FileName="07.WorkingHours/Program.cs" />
+      <File FileName="08.CinemaTicket/Program.cs" />
+      <File FileName="09.FruitOrVegetable/Program.cs" />
+      <File FileName="10.InvalidNumber/Program.cs" />
+      <File FileName="11.FruitShop/Program.cs" Line="1" Column="1" />
+      <File FileName="12.TradeCommissions/Program.cs" Line="1" Column="1" />
+      <File FileName="11.FruitShopV2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.ConditionalStatementsAdvanced-Lab" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.AnimalType PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.SmallShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.WorkingHours PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.InvalidNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.FruitOrVegetable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.NumberInRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.PersonalTitles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.WeekendOrWorkingDay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.11.FruitShopV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.CinemaTicket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.TradeCommissions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/bin/Debug/netcoreapp3.1/07.MinNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/07.MinNumber/obj/Debug/netcoreapp3.1/07.MinNumber.genruntimeconfig.cache

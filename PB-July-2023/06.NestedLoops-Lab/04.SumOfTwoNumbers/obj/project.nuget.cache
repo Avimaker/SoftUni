@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWN0aZ7anWA/J7Y0GgLxluEytEhVVMWma9eaEyQbbEm771RGtqbIYN0Akgk8RvaKItAe7a0C2lAJPi5aOqbvlQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/04.SumOfTwoNumbers/04.SumOfTwoNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.genruntimeconfig.cache

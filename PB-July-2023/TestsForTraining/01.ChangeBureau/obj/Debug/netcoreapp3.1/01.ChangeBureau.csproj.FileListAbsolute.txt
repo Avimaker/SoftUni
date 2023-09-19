@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau.deps.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau.dll
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/bin/Debug/netcoreapp3.1/01.ChangeBureau.pdb
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.dll
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.pdb
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/01.ChangeBureau/obj/Debug/netcoreapp3.1/01.ChangeBureau.genruntimeconfig.cache

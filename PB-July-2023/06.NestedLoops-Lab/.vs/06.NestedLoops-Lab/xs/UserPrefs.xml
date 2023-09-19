@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4B59456E-1E0E-4317-97CC-353F791BBDBE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Combinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Building/Program.cs">
+    <Files>
+      <File FileName="01.Clock/Program.cs" />
+      <File FileName="02.MultiplicationTable/Program.cs" />
+      <File FileName="03.Combinations/Program.cs" />
+      <File FileName="04.SumOfTwoNumbers/Program.cs" Line="33" Column="1" />
+      <File FileName="05.Travelling/Program.cs" Line="25" Column="28" />
+      <File FileName="06.Building/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06.NestedLoops-Lab" expanded="True">
+            <Node name="01.Clock" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04.SumOfTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.05.Travelling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../01.Clock/Program.cs" line="9" column="16" endLine="9" endColumn="21" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01.Clock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Building PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

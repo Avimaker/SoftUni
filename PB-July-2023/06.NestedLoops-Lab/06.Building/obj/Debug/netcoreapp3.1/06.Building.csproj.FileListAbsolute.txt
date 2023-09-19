@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/bin/Debug/netcoreapp3.1/06.Building.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/06.Building/obj/Debug/netcoreapp3.1/06.Building.genruntimeconfig.cache

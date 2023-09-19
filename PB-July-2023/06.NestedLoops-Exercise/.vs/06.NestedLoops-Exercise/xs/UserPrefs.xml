@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EF40AB6F-F567-4C0C-A397-E3F89653BC1D}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.NumberPyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.05.SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.CinemaTickets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.SpecialNumbers/Program.cs">
+    <Files>
+      <File FileName="01.NumberPyramid/Program.cs" />
+      <File FileName="02.EqualSumsEvenOddPosition/Program.cs" />
+      <File FileName="03.SumPrimeNonPrime/Program.cs" />
+      <File FileName="04.TrainTheTrainers/Program.cs" />
+      <File FileName="05.SpecialNumbers/Program.cs" Line="24" Column="35" />
+      <File FileName="06.CinemaTickets/Program.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06.NestedLoops-Exercise" expanded="True">
+            <Node name="01.NumberPyramid" expanded="True" />
+            <Node name="05.SpecialNumbers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.04.TrainTheTrainers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

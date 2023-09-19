@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.genruntimeconfig.cache

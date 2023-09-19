@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti.deps.json
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti.runtimeconfig.json
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti.runtimeconfig.dev.json
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti.dll
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/bin/Debug/netcoreapp3.1/07.kofti.pdb
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.AssemblyInfo.cs
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.dll
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.pdb
+/Users/avimaker/Projects/PBOnlinePre-Exam12August2023/07.kofti/obj/Debug/netcoreapp3.1/07.kofti.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.genruntimeconfig.cache

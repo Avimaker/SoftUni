@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtAmhdGsvsqFbjf4AXlyDMO4QaCucbIUyTDgWX75ojUC2FIohcgXdQtpP4RqPceRvTJkogTcOw1Be7QLnT7QdQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/04.Sequence2kPlus1/04.Sequence2kPlus1.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony.deps.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony.runtimeconfig.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony.runtimeconfig.dev.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/bin/Debug/netcoreapp3.1/01.OscarsCeremony.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.AssemblyInfo.cs
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/01.OscarsCeremony/obj/Debug/netcoreapp3.1/01.OscarsCeremony.genruntimeconfig.cache

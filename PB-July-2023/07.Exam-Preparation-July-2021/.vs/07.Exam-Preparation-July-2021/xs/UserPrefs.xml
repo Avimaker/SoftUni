@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.Renovation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.Renovation/Program.cs">
+    <Files>
+      <File FileName="01.OscarsCeremony/Program.cs" />
+      <File FileName="02.MountainRun/Program.cs" />
+      <File FileName="03.WorldSnookerChampionship/Program.cs" />
+      <File FileName="04.Oscars/Program.cs" />
+      <File FileName="05.Renovation/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07.Exam-Preparation-July-2021" expanded="True">
+            <Node name="01.OscarsCeremony" expanded="True" />
+            <Node name="02.MountainRun" expanded="True" />
+            <Node name="03.WorldSnookerChampionship" expanded="True" />
+            <Node name="05.Renovation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="06.BarcodeGenerator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.Oscars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.WorldSnookerChampionship PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.MountainRun PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.BarcodeGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.OscarsCeremony PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OscarsCeremony", "01.OscarsCeremony\01.OscarsCeremony.csproj", "{457A9DCA-146F-43CE-B4C1-23614047D734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MountainRun", "02.MountainRun\02.MountainRun.csproj", "{DA8905E7-847A-4AFB-8179-C8370E6BD959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WorldSnookerChampionship", "03.WorldSnookerChampionship\03.WorldSnookerChampionship.csproj", "{1540B782-5B1E-4D28-9612-A152FFAB49E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Oscars", "04.Oscars\04.Oscars.csproj", "{C8B1462E-679A-4952-A0AC-6E45B031A131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Renovation", "05.Renovation\05.Renovation.csproj", "{E875E861-0FED-4D5D-B2B0-BB3EE57F480B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BarcodeGenerator", "06.BarcodeGenerator\06.BarcodeGenerator.csproj", "{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457A9DCA-146F-43CE-B4C1-23614047D734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457A9DCA-146F-43CE-B4C1-23614047D734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457A9DCA-146F-43CE-B4C1-23614047D734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457A9DCA-146F-43CE-B4C1-23614047D734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8905E7-847A-4AFB-8179-C8370E6BD959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8905E7-847A-4AFB-8179-C8370E6BD959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8905E7-847A-4AFB-8179-C8370E6BD959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8905E7-847A-4AFB-8179-C8370E6BD959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1540B782-5B1E-4D28-9612-A152FFAB49E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1540B782-5B1E-4D28-9612-A152FFAB49E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1540B782-5B1E-4D28-9612-A152FFAB49E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1540B782-5B1E-4D28-9612-A152FFAB49E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B1462E-679A-4952-A0AC-6E45B031A131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B1462E-679A-4952-A0AC-6E45B031A131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B1462E-679A-4952-A0AC-6E45B031A131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B1462E-679A-4952-A0AC-6E45B031A131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E875E861-0FED-4D5D-B2B0-BB3EE57F480B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E875E861-0FED-4D5D-B2B0-BB3EE57F480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E875E861-0FED-4D5D-B2B0-BB3EE57F480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E875E861-0FED-4D5D-B2B0-BB3EE57F480B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D56AE3-1FCE-415A-8BCE-7616E7C064C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3110EFFE-5BFC-4411-84B5-0AB3B5EAD57C}
+	EndGlobalSection
+EndGlobal

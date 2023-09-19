@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/bin/Debug/netcoreapp3.1/03.Vacation.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/03.Vacation/obj/Debug/netcoreapp3.1/03.Vacation.genruntimeconfig.cache

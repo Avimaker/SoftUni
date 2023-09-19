@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday.deps.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday.dll
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/bin/Debug/netcoreapp3.1/1.Birthday.pdb
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.dll
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.pdb
+/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/obj/Debug/netcoreapp3.1/1.Birthday.genruntimeconfig.cache

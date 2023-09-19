@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHeLiaEdnM7NLeUJUUvk4IujkhEqw+96wzLCn+xQ0HLdDMzQQKWA+sqsFW39mjHchO9piiVEx9tsBoctzWFTSQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

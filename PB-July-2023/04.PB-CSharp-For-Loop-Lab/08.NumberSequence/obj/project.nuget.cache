@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7QMfU/pzeJckYLuzq18+zM9hQ91qZ4u/aYJ2T6BpL0XVTNbOAg/Rg5h/sg7DDEq5i+CZwtn51VsPnKQbykMTg==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/08.NumberSequence/08.NumberSequence.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

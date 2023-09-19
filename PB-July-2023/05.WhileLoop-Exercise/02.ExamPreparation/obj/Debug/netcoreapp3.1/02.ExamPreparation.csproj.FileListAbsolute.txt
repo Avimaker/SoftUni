@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/bin/Debug/netcoreapp3.1/01.OldBooks.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/01.OldBooks/obj/Debug/netcoreapp3.1/01.OldBooks.genruntimeconfig.cache

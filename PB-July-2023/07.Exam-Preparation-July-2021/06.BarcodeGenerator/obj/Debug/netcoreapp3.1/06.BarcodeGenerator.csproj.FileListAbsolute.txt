@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator.deps.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator.runtimeconfig.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator.runtimeconfig.dev.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/bin/Debug/netcoreapp3.1/06.BarcodeGenerator.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.AssemblyInfo.cs
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/06.BarcodeGenerator/obj/Debug/netcoreapp3.1/06.BarcodeGenerator.genruntimeconfig.cache

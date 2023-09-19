@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.genruntimeconfig.cache

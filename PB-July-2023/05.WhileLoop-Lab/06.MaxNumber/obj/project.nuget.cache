@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1nqL19j3qv27W8+GzSNVsNAgfwAd0XyX/VSQnF1F9JqO3L8lM1EQuVUQm/JldCbe500hxC9+nSLb4uKsk3LnQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/06.MaxNumber/06.MaxNumber.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

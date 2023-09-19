@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Lab/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.genruntimeconfig.cache

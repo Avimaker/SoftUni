@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvtGbW24O2bxOYsnltR8RsPRnQWdp5ChOzNaqGGHdQyv3JnIKScNIHlmocT+b79kmsZUf7Sly1pDdJkrKyI9mQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

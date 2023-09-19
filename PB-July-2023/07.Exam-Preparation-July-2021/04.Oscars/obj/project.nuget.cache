@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5+Wb98ILq6yPSUexBvAqK0Zpp7xXIWmhHW1HNHdRIdTMqm49qy8mVKnExP6ZdQmxCnDwTT2t8RkB94fZ18/2Q==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/07.Exam-Preparation-July-2021/04.Oscars/04.Oscars.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

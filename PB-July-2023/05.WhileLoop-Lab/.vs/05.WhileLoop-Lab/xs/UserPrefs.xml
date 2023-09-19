@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6A387F48-CD13-46A2-8A68-D4CC476B236A}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.MinNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.Graduation/Program.cs">
+    <Files>
+      <File FileName="01.ReadText/Program.cs" />
+      <File FileName="02.Password/Program.cs" />
+      <File FileName="03.SumNumbers/Program.cs" />
+      <File FileName="04.Sequence2kPlus1/Program.cs" />
+      <File FileName="05.AccountBalance/Program.cs" Line="43" Column="1" />
+      <File FileName="06.MaxNumber/Program.cs" Line="19" Column="18" />
+      <File FileName="07.MinNumber/Program.cs" Line="16" Column="24" />
+      <File FileName="08.Graduation/Program.cs" Line="43" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.WhileLoop-Lab" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.ReadText PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.05.AccountBalance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Graduation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Sequence2kPlus1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.MaxNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.Password PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

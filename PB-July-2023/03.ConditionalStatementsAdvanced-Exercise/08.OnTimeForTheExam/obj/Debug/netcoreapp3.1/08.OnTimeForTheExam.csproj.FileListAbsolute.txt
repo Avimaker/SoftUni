@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.genruntimeconfig.cache

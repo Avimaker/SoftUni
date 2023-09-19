@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZiHk2xUR4AwXvRIZDjwys+H/TXlgXy84mt84uMlLrk8bjnh8j74ls6X8G6mTvkM8W9MujRlS5sltpzRTwcN+A==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/03.RectangleArea/03.RectangleArea.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

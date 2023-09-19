@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/bin/Debug/netcoreapp3.1/02.NumbersNTo1.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/02.NumbersNTo1/obj/Debug/netcoreapp3.1/02.NumbersNTo1.genruntimeconfig.cache

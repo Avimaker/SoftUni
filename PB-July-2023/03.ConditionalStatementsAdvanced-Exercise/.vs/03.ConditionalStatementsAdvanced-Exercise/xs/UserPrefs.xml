@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{8873025A-DC39-4A9A-8520-D17A3C88808E}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.HotelRoom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.09.SkiTrip PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.OperationsBetweenNumbers/Program.cs">
+    <Files>
+      <File FileName="01.Cinema/Program.cs" />
+      <File FileName="02.SummerOutfit/Program.cs" />
+      <File FileName="03.NewHouse/Program.cs" />
+      <File FileName="04.FishingBoat/Program.cs" />
+      <File FileName="05.Journey/Program.cs" />
+      <File FileName="06.OperationsBetweenNumbers/Program.cs" Line="17" Column="33" />
+      <File FileName="07.HotelRoom/Program.cs" Line="55" Column="1" />
+      <File FileName="08.OnTimeForTheExam/Program.cs" Line="1" Column="1" />
+      <File FileName="09.SkiTrip/Program.cs" Line="33" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.ConditionalStatementsAdvanced-Exercise" expanded="True">
+            <Node name="06.OperationsBetweenNumbers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.05.Journey PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.NewHouse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.SummerOutfit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.OnTimeForTheExam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Cinema PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.FishingBoat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.OperationsBetweenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

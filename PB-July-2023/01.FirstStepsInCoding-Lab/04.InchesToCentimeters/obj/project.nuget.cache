@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9tZVdN93fxj7Aq6xohav3WhkaU80hkrh+zYXfy08+gWd7YaqFIgVo77RnoxIUFHEz3ajfV8QZbbSas4z32zcg==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/04.InchesToCentimeters/04.InchesToCentimeters.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

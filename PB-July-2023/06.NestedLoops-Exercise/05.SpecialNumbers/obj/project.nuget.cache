@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAIN3fVaAOBusOErHFksv+IUPu38J9z9KYVukr4nVh99yMIHGHHOFTRk+4O259CaiQLDb13UyswERx66hFkyhQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/05.SpecialNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

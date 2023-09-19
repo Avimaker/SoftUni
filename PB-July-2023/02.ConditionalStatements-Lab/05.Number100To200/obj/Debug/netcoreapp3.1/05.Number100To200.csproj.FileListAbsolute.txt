@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/bin/Debug/netcoreapp3.1/05.Number100To200.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/05.Number100To200/obj/Debug/netcoreapp3.1/05.Number100To200.genruntimeconfig.cache

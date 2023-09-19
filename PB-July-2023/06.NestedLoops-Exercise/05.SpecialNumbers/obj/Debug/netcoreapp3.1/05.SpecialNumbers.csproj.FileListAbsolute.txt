@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/bin/Debug/netcoreapp3.1/05.SpecialNumbers.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/05.SpecialNumbers/obj/Debug/netcoreapp3.1/05.SpecialNumbers.genruntimeconfig.cache

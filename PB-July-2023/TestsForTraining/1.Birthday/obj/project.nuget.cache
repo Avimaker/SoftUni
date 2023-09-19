@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1N3RaWD9tKzPfJanOLJuY1z/z18pdGJcAvr8f+Qm/GAaRGH9lSeEn//wHyL1V+nt0CnNaB9pO+csK2IBG5LHw==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/TestsForTraining/1.Birthday/1.Birthday.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

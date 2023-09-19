@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1F16CF3A-18E7-4ECE-90D1-D041CD1D8D98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.Coins/Program.cs">
+    <Files>
+      <File FileName="01.OldBooks/Program.cs" Line="21" Column="20" />
+      <File FileName="02.ExamPreparation/Program.cs" Line="25" Column="32" />
+      <File FileName="03.Vacation/Program.cs" Line="35" Column="22" />
+      <File FileName="04.Walking/Program.cs" Line="37" Column="1" />
+      <File FileName="05.Coins/Program.cs" Line="14" Column="25" />
+      <File FileName="06.Cake/Program.cs" Line="23" Column="18" />
+      <File FileName="07.Moving/Program.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.WhileLoop-Exercise" expanded="True">
+            <Node name="05.Coins">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.ExamPreparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../01.OldBooks/Program.cs" line="30" column="19" endLine="30" endColumn="48" offsetX="-1" offsetY="-1" expression="bookName" liveUpdate="False" />
+    <Watch file="../../../04.Walking/Program.cs" line="10" column="16" endLine="10" endColumn="30" offsetX="-1" offsetY="-1" expression="totalSteps" liveUpdate="False" />
+    <Watch file="../../../05.Coins/Program.cs" line="18" column="19" endLine="18" endColumn="28" offsetX="-1" offsetY="-1" expression="resto" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01.OldBooks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Coins PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.07.Moving PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Vacation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Cake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Walking PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/bin/Debug/netcoreapp3.1/01.SumSeconds.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/01.SumSeconds/obj/Debug/netcoreapp3.1/01.SumSeconds.genruntimeconfig.cache

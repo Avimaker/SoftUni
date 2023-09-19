@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMtGD3Juw7AAV1UUAMQpRTEwBISfZzej+apMbjHiWYU9dH2THrPmPjdwWywr8Mjsgy7Zo2gaDdJa3NDp4+laUQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/02.Password/02.Password.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

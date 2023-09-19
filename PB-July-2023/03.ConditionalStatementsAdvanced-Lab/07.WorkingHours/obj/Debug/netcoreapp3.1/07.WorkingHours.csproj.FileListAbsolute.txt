@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/bin/Debug/netcoreapp3.1/07.WorkingHours.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/07.WorkingHours/obj/Debug/netcoreapp3.1/07.WorkingHours.genruntimeconfig.cache

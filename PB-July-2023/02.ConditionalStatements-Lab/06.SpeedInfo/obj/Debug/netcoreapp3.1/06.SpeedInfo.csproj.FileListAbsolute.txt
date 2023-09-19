@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/bin/Debug/netcoreapp3.1/06.SpeedInfo.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/06.SpeedInfo/obj/Debug/netcoreapp3.1/06.SpeedInfo.genruntimeconfig.cache

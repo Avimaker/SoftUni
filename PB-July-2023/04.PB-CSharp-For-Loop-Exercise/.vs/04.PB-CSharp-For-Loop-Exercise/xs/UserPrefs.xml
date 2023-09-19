@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{37ADB407-3F1C-4B5F-98F4-51DCCDF6DD47}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.TennisRanklist PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Histogram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Salary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Oscars/Program.cs">
+    <Files>
+      <File FileName="01.NumbersEndingIn7/Program.cs" />
+      <File FileName="02.HalfSumElement/Program.cs" />
+      <File FileName="03.Histogram/Program.cs" />
+      <File FileName="04.CleverLily/Program.cs" />
+      <File FileName="05.Salary/Program.cs" />
+      <File FileName="06.Oscars/Program.cs" Line="22" Column="14" />
+      <File FileName="07.TrekkingMania/Program.cs" />
+      <File FileName="08.TennisRanklist/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.PB-CSharp-For-Loop-Exercise" expanded="True">
+            <Node name="01.NumbersEndingIn7" expanded="True" />
+            <Node name="06.Oscars" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../04.CleverLily/Program.cs" line="12" column="16" endLine="12" endColumn="25" offsetX="-1" offsetY="-1" expression="money" liveUpdate="False" />
+    <Watch file="../../../04.CleverLily/Program.cs" line="13" column="16" endLine="13" endColumn="24" offsetX="-1" offsetY="-1" expression="toys" liveUpdate="False" />
+    <Watch file="../../../04.CleverLily/Program.cs" line="16" column="28" endLine="16" endColumn="29" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.CleverLily PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.NumbersEndingIn7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.HalfSumElement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Oscars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.TrekkingMania PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

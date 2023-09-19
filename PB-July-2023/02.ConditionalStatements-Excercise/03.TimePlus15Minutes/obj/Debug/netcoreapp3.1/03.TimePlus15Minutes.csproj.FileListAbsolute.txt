@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.genruntimeconfig.cache

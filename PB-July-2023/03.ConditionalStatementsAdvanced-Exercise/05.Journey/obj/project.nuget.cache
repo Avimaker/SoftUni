@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLlYCGTtLkjVYJqOs2i6InQeldSV0x5Zo4fXZeGJQzRTqtYyH0zrScI8Z1Ok3MbhBQM0eBiFkY8WrCD2RrQfMQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/05.Journey/05.Journey.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10.deps.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/bin/Debug/netcoreapp3.1/02.Nums1to10.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/02.Nums1to10/obj/Debug/netcoreapp3.1/02.Nums1to10.genruntimeconfig.cache

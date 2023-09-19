@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FL0pdycaO4Gc8l4q55k7S1Ryk8+8flxfLaDckDfLGqjpapZhfof31FrpoKm1WfXinkYD+J3EHx0UjNkP2Qdt6A==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/07.Exam-Preparation-July-2021/03.WorldSnookerChampionship/03.WorldSnookerChampionship.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

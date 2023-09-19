@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/bin/Debug/netcoreapp3.1/05.SuppliesForSchool.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/05.SuppliesForSchool/obj/Debug/netcoreapp3.1/05.SuppliesForSchool.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun.deps.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun.runtimeconfig.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun.runtimeconfig.dev.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/bin/Debug/netcoreapp3.1/02.MountainRun.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.AssemblyInfo.cs
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/02.MountainRun/obj/Debug/netcoreapp3.1/02.MountainRun.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit.deps.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit.runtimeconfig.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit.runtimeconfig.dev.json
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/bin/Debug/netcoreapp3.1/02.SummerOutfit.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.AssemblyInfo.cs
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.dll
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.pdb
+/Users/avimaker/Projects/03.ConditionalStatementsAdvanced-Exercise/02.SummerOutfit/obj/Debug/netcoreapp3.1/02.SummerOutfit.genruntimeconfig.cache

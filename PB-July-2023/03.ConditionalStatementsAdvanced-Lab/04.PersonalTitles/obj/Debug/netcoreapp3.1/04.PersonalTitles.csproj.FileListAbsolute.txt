@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/bin/Debug/netcoreapp3.1/04.PersonalTitles.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/04.PersonalTitles/obj/Debug/netcoreapp3.1/04.PersonalTitles.genruntimeconfig.cache

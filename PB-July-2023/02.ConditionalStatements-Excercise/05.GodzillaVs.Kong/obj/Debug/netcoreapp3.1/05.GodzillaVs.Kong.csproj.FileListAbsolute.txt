@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/bin/Debug/netcoreapp3.1/05.GodzillaVs.Kong.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/05.GodzillaVs.Kong/obj/Debug/netcoreapp3.1/05.GodzillaVs.Kong.genruntimeconfig.cache

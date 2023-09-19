@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/bin/Debug/netcoreapp3.1/04.ToyShop.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.dll
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.pdb
+/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Excercise/04.ToyShop/obj/Debug/netcoreapp3.1/04.ToyShop.genruntimeconfig.cache

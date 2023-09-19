@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixTG27Ct43cCB8O+nYa5Wdhb1+qnl1Es6uN8eulTA7Jc14wLfQTz091n3Daojs9j2djljRseymdKWVopmoymsg==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/09.YardGreening/09.YardGreening.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

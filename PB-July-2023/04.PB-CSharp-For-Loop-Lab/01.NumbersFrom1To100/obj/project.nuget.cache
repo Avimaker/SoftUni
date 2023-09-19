@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKSSgMbotcoTZf2l3gOe47pWJsm7JEJFoLfViTWYHV5DC7Opes7F3luXahf2l5PFG8IkKyARivyqM3iiYwl31w==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Lab/01.NumbersFrom1To100/01.NumbersFrom1To100.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

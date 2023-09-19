@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/bin/Debug/netcoreapp3.1/05.AccountBalance.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Lab/05.AccountBalance/obj/Debug/netcoreapp3.1/05.AccountBalance.genruntimeconfig.cache

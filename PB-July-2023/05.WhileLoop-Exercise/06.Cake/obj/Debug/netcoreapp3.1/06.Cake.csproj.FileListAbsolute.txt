@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.genruntimeconfig.cache

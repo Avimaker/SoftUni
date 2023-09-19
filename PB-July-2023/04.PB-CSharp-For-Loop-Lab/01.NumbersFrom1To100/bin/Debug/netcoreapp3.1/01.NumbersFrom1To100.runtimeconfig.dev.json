@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/avimaker/.dotnet/store/|arch|/|tfm|",
+      "/Users/avimaker/.nuget/packages"
+    ]
+  }
+}

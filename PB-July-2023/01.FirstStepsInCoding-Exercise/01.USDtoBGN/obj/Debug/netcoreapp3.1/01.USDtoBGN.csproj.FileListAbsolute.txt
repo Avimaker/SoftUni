@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.deps.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.dll
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.pdb
+/Users/avimaker/Projects/PB-July-2023/02.First Steps In Coding - Exercise/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement.deps.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/bin/Debug/netcoreapp3.1/02.HalfSumElement.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.dll
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.pdb
+/Users/avimaker/Projects/PB-July-2023/04.PB-CSharp-For-Loop-Exercise/02.HalfSumElement/obj/Debug/netcoreapp3.1/02.HalfSumElement.genruntimeconfig.cache

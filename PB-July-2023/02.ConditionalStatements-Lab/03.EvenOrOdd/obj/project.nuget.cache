@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vbXqwObM+85upP0FNi/jwg+VY3x89rMIdlYSSSKHhSjw7DSMLcS2H+vaDgk/if6YYTGTgSRNHLUoVcgSfTHbQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/02.ConditionalStatements-Lab/03.EvenOrOdd/03.EvenOrOdd.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

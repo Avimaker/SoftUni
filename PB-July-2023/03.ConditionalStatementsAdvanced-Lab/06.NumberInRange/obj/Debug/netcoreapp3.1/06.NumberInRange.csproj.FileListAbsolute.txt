@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange.deps.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/bin/Debug/netcoreapp3.1/06.NumberInRange.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.dll
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.pdb
+/Users/avimaker/Projects/PB-July-2023/03.ConditionalStatementsAdvanced-Lab/06.NumberInRange/obj/Debug/netcoreapp3.1/06.NumberInRange.genruntimeconfig.cache

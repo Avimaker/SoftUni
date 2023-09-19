@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation.deps.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation.runtimeconfig.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation.runtimeconfig.dev.json
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/bin/Debug/netcoreapp3.1/05.Renovation.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.AssemblyInfo.cs
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.dll
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.pdb
+/Users/avimaker/Projects/07.Exam-Preparation-July-2021/05.Renovation/obj/Debug/netcoreapp3.1/05.Renovation.genruntimeconfig.cache

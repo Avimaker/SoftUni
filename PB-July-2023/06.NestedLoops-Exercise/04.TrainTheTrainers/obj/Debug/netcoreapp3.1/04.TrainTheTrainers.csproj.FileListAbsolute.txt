@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers.deps.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/bin/Debug/netcoreapp3.1/04.TrainTheTrainers.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.dll
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.pdb
+/Users/avimaker/Projects/PB-July-2023/06.NestedLoops-Exercise/04.TrainTheTrainers/obj/Debug/netcoreapp3.1/04.TrainTheTrainers.genruntimeconfig.cache

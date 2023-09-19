@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.deps.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.dll
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.pdb
+/Users/avimaker/Projects/PB-July-2023/05.WhileLoop-Exercise/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.genruntimeconfig.cache

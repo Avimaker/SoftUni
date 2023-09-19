@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop.deps.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop.runtimeconfig.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop.runtimeconfig.dev.json
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/bin/Debug/netcoreapp3.1/08.PetShop.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.AssemblyInfo.cs
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.dll
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.pdb
+/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Lab/08.PetShop/obj/Debug/netcoreapp3.1/08.PetShop.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BBEF9EE2-0F76-4189-B9EE-2D24B67777E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.FinalCompetition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.kofti/Program.cs">
+    <Files>
+      <File FileName="01/Program.cs" />
+      <File FileName="02.FootballKit/Program.cs" />
+      <File FileName="03.FinalCompetition/Program.cs" />
+      <File FileName="04.Workout/Program.cs" Line="22" Column="24" />
+      <File FileName="05.HairSalon/Program.cs" />
+      <File FileName="06.MultiplyTable/Program.cs" />
+      <File FileName="07.kofti/Program.cs" Line="30" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PBOnlinePre-Exam12August2023" expanded="True">
+            <Node name="01" expanded="True" />
+            <Node name="04.Workout" expanded="True" />
+            <Node name="07.kofti" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.FootballKit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.kofti PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.06.MultiplyTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Workout PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.HairSalon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../04.Workout/Program.cs" line="10" column="19" endLine="10" endColumn="61" offsetX="-1" offsetY="-1" expression="totalKm" liveUpdate="False" />
+    <Watch file="../../../04.Workout/Program.cs" line="25" column="16" endLine="25" endColumn="23" offsetX="-1" offsetY="-1" expression="daylyKm" liveUpdate="False" />
+    <Watch file="../../../05.HairSalon/Program.cs" line="11" column="16" endLine="11" endColumn="26" offsetX="-1" offsetY="-1" expression="income" liveUpdate="False" />
+    <Watch file="../../../04.Workout/Program.cs" line="16" column="23" endLine="16" endColumn="72" offsetX="-1" offsetY="-1" expression="procent" liveUpdate="False" />
+    <Watch file="../../../07.kofti/Program.cs" line="12" column="19" endLine="12" endColumn="37" offsetX="-1" offsetY="-1" expression="totalKm" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

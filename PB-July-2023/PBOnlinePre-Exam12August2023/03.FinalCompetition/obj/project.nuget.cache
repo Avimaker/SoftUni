@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxQK+lRrf7R+WBdoeVvBMQNvqeZrYQHVSOyeHvUMEaVphT7BdF3e4R2AsNGdwc8tY04rJFQ95nxF8l8xb2ljEg==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/PBOnlinePre-Exam12August2023/03.FinalCompetition/03.FinalCompetition.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
