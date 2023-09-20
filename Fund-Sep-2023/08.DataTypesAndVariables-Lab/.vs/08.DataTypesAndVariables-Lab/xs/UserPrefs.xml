@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{A50DF0C6-7833-400A-8B46-01AA04B566F2}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11.RefactorVolumeOfPyramid FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.SpecialNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.ConvertMetersToKilometers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.PoundsToDollars FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="02.PoundsToDollars/Program.cs">
     <Files>
       <File FileName="01.ConvertMetersToKilometers/Program.cs" Line="1" Column="1" />
@@ -20,6 +18,16 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01.ConvertMetersToKilometers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10.LowerOrUpper FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04.CenturiesToMinutes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.12.RefactorSpecialNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.CharsToString FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.08.TownInfo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.ExactSumOfRealNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.ConcatNames FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.06.ReversedChars FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avimaker/Projects/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj": {}
+    "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj": {}
   },
   "projects": {
-    "/Users/avimaker/Projects/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj": {
+    "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avimaker/Projects/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj",
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj",
         "projectName": "02.PoundsToDollars",
-        "projectPath": "/Users/avimaker/Projects/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/02.PoundsToDollars.csproj",
         "packagesPath": "/Users/avimaker/.nuget/packages/",
-        "outputPath": "/Users/avimaker/Projects/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/obj/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/08.DataTypesAndVariables-Lab/02.PoundsToDollars/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avimaker/.nuget/NuGet/NuGet.Config"
