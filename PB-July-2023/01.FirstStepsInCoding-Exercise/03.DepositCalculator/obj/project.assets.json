@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/03.DepositCalculator.csproj",
+      "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/03.DepositCalculator.csproj",
       "projectName": "03.DepositCalculator",
-      "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/03.DepositCalculator.csproj",
+      "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/03.DepositCalculator.csproj",
       "packagesPath": "/Users/avimaker/.nuget/packages/",
-      "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/obj/",
+      "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/03.DepositCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/avimaker/.nuget/NuGet/NuGet.Config"

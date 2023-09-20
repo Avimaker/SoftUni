@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xq1l5cC13peviO2RjU6xeROkGCMvDal69F2bNqUzpBG2uSOCTKKgxcVNcl+esjkQF+qyxL/lEfT8cA9xsr9G0g==",
+  "dgSpecHash": "3/BBzDcuATy7HKJWvPKzFtbcQVZ5kwsmVp20E/45gLHTV44sEAlY8wx54GB14BlzlyVP57GKDVuJEluHB1v0SQ==",
   "success": true,
-  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
   "expectedPackageFiles": [
     "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

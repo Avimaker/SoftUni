@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/bin/Debug/net7.0/03.Vacation
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/bin/Debug/net7.0/03.Vacation.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/bin/Debug/net7.0/03.Vacation.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/bin/Debug/net7.0/03.Vacation.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/bin/Debug/net7.0/03.Vacation.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/refint/03.Vacation.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/03.Vacation.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/03.Vacation/obj/Debug/net7.0/ref/03.Vacation.dll

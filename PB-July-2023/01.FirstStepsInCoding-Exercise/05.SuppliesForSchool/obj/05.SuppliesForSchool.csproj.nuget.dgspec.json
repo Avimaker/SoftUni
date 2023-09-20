@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj": {}
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj": {}
   },
   "projects": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj": {
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
         "projectName": "05.SuppliesForSchool",
-        "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/05.SuppliesForSchool.csproj",
         "packagesPath": "/Users/avimaker/.nuget/packages/",
-        "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/obj/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/05.SuppliesForSchool/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avimaker/.nuget/NuGet/NuGet.Config"

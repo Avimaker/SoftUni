@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/bin/Debug/net7.0/10.RageExpenses
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/bin/Debug/net7.0/10.RageExpenses.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/bin/Debug/net7.0/10.RageExpenses.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/bin/Debug/net7.0/10.RageExpenses.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/bin/Debug/net7.0/10.RageExpenses.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/refint/10.RageExpenses.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/10.RageExpenses.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/10.RageExpenses/obj/Debug/net7.0/ref/10.RageExpenses.dll

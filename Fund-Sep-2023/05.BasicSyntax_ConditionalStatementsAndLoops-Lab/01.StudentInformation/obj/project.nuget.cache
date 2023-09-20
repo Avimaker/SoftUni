@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbdG78gZN9ILAiIkJOssSoUmua9u0GYQkZR41zy+27m5HuBv/CFrujMycihFpsJxtBiEEhsqJW5Kk3+djQ9jQw==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/01.StudentInformation/01.StudentInformation.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

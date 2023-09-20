@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/bin/Debug/net7.0/04.BackIn30Minutes
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/bin/Debug/net7.0/04.BackIn30Minutes.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/bin/Debug/net7.0/04.BackIn30Minutes.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/bin/Debug/net7.0/04.BackIn30Minutes.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/bin/Debug/net7.0/04.BackIn30Minutes.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/refint/04.BackIn30Minutes.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/04.BackIn30Minutes.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/04.BackIn30Minutes/obj/Debug/net7.0/ref/04.BackIn30Minutes.dll

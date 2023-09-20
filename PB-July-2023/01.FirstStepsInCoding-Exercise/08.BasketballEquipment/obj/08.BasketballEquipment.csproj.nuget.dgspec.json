@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj": {}
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj": {}
   },
   "projects": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj": {
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj",
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj",
         "projectName": "08.BasketballEquipment",
-        "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/08.BasketballEquipment.csproj",
         "packagesPath": "/Users/avimaker/.nuget/packages/",
-        "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/obj/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/08.BasketballEquipment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avimaker/.nuget/NuGet/NuGet.Config"

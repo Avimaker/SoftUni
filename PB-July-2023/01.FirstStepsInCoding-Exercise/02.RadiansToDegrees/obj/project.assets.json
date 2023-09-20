@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/02.RadiansToDegrees.csproj",
+      "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/02.RadiansToDegrees.csproj",
       "projectName": "02.RadiansToDegrees",
-      "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/02.RadiansToDegrees.csproj",
+      "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/02.RadiansToDegrees.csproj",
       "packagesPath": "/Users/avimaker/.nuget/packages/",
-      "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/obj/",
+      "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/02.RadiansToDegrees/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/avimaker/.nuget/NuGet/NuGet.Config"

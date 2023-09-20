@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{2D891697-321B-475E-84A3-F5CF446E762E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.05.Login PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Orders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Ages PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Division PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.RageExpenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.09.PadawanEquipment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Vacation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="11.Orders/Program.cs">
+    <Files>
+      <File FileName="01.Ages/Program.cs" />
+      <File FileName="03.Vacation/Program.cs" />
+      <File FileName="04.PrintАndSum/Program.cs" />
+      <File FileName="02.Division/Program.cs" />
+      <File FileName="05.Login/Program.cs" />
+      <File FileName="06.StrongNumber/Program.cs" />
+      <File FileName="07.VendingMachine/Program.cs" />
+      <File FileName="08.TriangleOfNumbers/Program.cs" Line="5" Column="1" />
+      <File FileName="09.PadawanEquipment/Program.cs" />
+      <File FileName="10.RageExpenses/Program.cs" Line="28" Column="3" />
+      <File FileName="11.Orders/Program.cs" Line="14" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.BasicSyntax_ConditionalStatementsAndLoops-Exercise" expanded="True">
+            <Node name="11.Orders">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.07.VendingMachine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.StrongNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.TriangleOfNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.PrintАndSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../08.TriangleOfNumbers/Program.cs" line="0" column="4" endLine="0" endColumn="37" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+    <Watch file="../../../08.TriangleOfNumbers/Program.cs" line="8" column="10" endLine="8" endColumn="15" offsetX="-1" offsetY="-1" expression="k" liveUpdate="False" />
+    <Watch file="../../../08.TriangleOfNumbers/Program.cs" line="4" column="9" endLine="4" endColumn="14" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+    <Watch file="../../../08.TriangleOfNumbers/Program.cs" line="15" column="1" endLine="15" endColumn="5" offsetX="-1" offsetY="-1" expression="digi" liveUpdate="False" />
+    <Watch file="../../../10.RageExpenses/Program.cs" line="6" column="7" endLine="6" endColumn="24" offsetX="-1" offsetY="-1" expression="totalExpenses" liveUpdate="False" />
+    <Watch file="../../../10.RageExpenses/Program.cs" line="8" column="9" endLine="8" endColumn="17" offsetX="-1" offsetY="-1" expression="game" liveUpdate="False" />
+    <Watch file="../../../10.RageExpenses/Program.cs" line="0" column="4" endLine="0" endColumn="50" offsetX="-1" offsetY="-1" expression="lostGamesCount" liveUpdate="False" />
+    <Watch file="../../../10.RageExpenses/Program.cs" line="8" column="19" endLine="8" endColumn="23" offsetX="-1" offsetY="-1" expression="game" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

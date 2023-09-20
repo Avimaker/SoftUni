@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/bin/Debug/net7.0/13.HolidaysBetweenTwoDates
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/bin/Debug/net7.0/13.HolidaysBetweenTwoDates.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/bin/Debug/net7.0/13.HolidaysBetweenTwoDates.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/bin/Debug/net7.0/13.HolidaysBetweenTwoDates.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/bin/Debug/net7.0/13.HolidaysBetweenTwoDates.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/refint/13.HolidaysBetweenTwoDates.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/13.HolidaysBetweenTwoDates.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/13.HolidaysBetweenTwoDates/obj/Debug/net7.0/ref/13.HolidaysBetweenTwoDates.dll

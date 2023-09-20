@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/bin/Debug/net7.0/11.MultiplicationTable2.0
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/bin/Debug/net7.0/11.MultiplicationTable2.0.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/bin/Debug/net7.0/11.MultiplicationTable2.0.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/bin/Debug/net7.0/11.MultiplicationTable2.0.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/bin/Debug/net7.0/11.MultiplicationTable2.0.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/refint/11.MultiplicationTable2.0.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/11.MultiplicationTable2.0.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Lab/11.MultiplicationTable2.0/obj/Debug/net7.0/ref/11.MultiplicationTable2.0.dll

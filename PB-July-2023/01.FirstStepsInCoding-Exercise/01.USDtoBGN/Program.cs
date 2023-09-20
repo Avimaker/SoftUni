@@ -14,4 +14,3 @@ namespace _01.USDtoBGN
         }
     }
 }
-

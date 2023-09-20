@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj": {}
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj": {}
   },
   "projects": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj": {
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj",
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj",
         "projectName": "01.USDtoBGN",
-        "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/01.USDtoBGN.csproj",
         "packagesPath": "/Users/avimaker/.nuget/packages/",
-        "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/obj/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/01.USDtoBGN/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avimaker/.nuget/NuGet/NuGet.Config"

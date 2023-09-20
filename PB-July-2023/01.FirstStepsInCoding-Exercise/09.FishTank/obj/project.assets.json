@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/09.FishTank.csproj",
+      "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/09.FishTank.csproj",
       "projectName": "09.FishTank",
-      "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/09.FishTank.csproj",
+      "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/09.FishTank.csproj",
       "packagesPath": "/Users/avimaker/.nuget/packages/",
-      "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/obj/",
+      "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/09.FishTank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/avimaker/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pn1DbAWv3Oeccq3EE+e3OBLWRuk/wpP5Q/HpCmlto2/OTs9p/m1+KWnvdUm/vY2bh1gruADRI9JWp4LYU2iBjQ==",
+  "dgSpecHash": "dlaLNzoZKsDDqof3P2zyTmK7ReHKstGqecnufy3c3CPJbHIjMlKZsZBn5kLbbHjxkW6378bgY9cucgptjCb6VQ==",
   "success": true,
-  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/04.VacationBooksList/04.VacationBooksList.csproj",
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/04.VacationBooksList/04.VacationBooksList.csproj",
   "expectedPackageFiles": [
     "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

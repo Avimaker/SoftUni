@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
+      "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
       "projectName": "07.FoodDelivery",
-      "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
+      "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
       "packagesPath": "/Users/avimaker/.nuget/packages/",
-      "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/obj/",
+      "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/avimaker/.nuget/NuGet/NuGet.Config"

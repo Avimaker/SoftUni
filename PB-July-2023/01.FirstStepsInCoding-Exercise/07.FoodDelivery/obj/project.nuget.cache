@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XRDrd/GOkG7u92gx6v7jPacAuCZAsOdqMwBpidH/Yltxt0bQ+1iy/RdZOrZJ61Y1uAZFx7V3sul2jYjhxa1E0g==",
+  "dgSpecHash": "3OXZdkpSjA5hmjD0ND3rEyoyoVVK8F+BoLa97C1fMANYPlkLUsucGhhaPAXe2CZCr1UVfs/yGj2QNVEaZBcksg==",
   "success": true,
-  "projectFilePath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/07.FoodDelivery/07.FoodDelivery.csproj",
   "expectedPackageFiles": [
     "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

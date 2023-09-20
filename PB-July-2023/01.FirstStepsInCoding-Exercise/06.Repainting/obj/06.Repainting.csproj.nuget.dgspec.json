@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj": {}
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj": {}
   },
   "projects": {
-    "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj": {
+    "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj",
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj",
         "projectName": "06.Repainting",
-        "projectPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/06.Repainting.csproj",
         "packagesPath": "/Users/avimaker/.nuget/packages/",
-        "outputPath": "/Users/avimaker/Projects/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/obj/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/PB-July-2023/01.FirstStepsInCoding-Exercise/06.Repainting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avimaker/.nuget/NuGet/NuGet.Config"

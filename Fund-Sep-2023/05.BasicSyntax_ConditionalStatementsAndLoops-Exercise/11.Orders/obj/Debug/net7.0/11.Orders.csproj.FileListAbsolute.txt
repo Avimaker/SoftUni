@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/bin/Debug/net7.0/11.Orders
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/bin/Debug/net7.0/11.Orders.deps.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/bin/Debug/net7.0/11.Orders.runtimeconfig.json
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/bin/Debug/net7.0/11.Orders.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/bin/Debug/net7.0/11.Orders.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.AssemblyInfo.cs
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/refint/11.Orders.dll
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.pdb
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/11.Orders.genruntimeconfig.cache
+/Users/avimaker/Projects/Fund-Sep-2023/05.BasicSyntax_ConditionalStatementsAndLoops-Exercise/11.Orders/obj/Debug/net7.0/ref/11.Orders.dll
