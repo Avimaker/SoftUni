@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/bin/Debug/net7.0/07.WaterOverflow
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/bin/Debug/net7.0/07.WaterOverflow.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/bin/Debug/net7.0/07.WaterOverflow.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/bin/Debug/net7.0/07.WaterOverflow.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/bin/Debug/net7.0/07.WaterOverflow.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/refint/07.WaterOverflow.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/07.WaterOverflow.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/07.WaterOverflow/obj/Debug/net7.0/ref/07.WaterOverflow.dll
