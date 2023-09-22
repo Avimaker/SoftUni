@@ -1,5 +1,27 @@
-﻿<Properties StartupConfiguration="{18E3EFCC-9B5C-4AA5-9746-4A8046D1774B}|Default">
+﻿<Properties StartupConfiguration="{688599B0-1FA5-405B-A020-46D7E0A4DB2A}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.SumDigits FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.SumDigits/Program.cs">
+    <Files>
+      <File FileName="01.IntegerOperations/Program.cs" Line="10" Column="12" />
+      <File FileName="02.SumDigits/Program.cs" Line="7" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09.DataTypesAndVariables-Exercise" expanded="True">
+            <Node name="02.SumDigits">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.01.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

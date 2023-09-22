@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/bin/Debug/net7.0/02.SumDigits
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/bin/Debug/net7.0/02.SumDigits.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/bin/Debug/net7.0/02.SumDigits.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/bin/Debug/net7.0/02.SumDigits.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/bin/Debug/net7.0/02.SumDigits.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/refint/02.SumDigits.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/02.SumDigits.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/02.SumDigits/obj/Debug/net7.0/ref/02.SumDigits.dll
