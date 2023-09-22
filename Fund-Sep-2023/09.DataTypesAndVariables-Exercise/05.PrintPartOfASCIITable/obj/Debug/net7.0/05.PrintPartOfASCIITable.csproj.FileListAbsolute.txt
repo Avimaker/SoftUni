@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/bin/Debug/net7.0/05.PrintPartOfASCIITable
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/bin/Debug/net7.0/05.PrintPartOfASCIITable.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/bin/Debug/net7.0/05.PrintPartOfASCIITable.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/bin/Debug/net7.0/05.PrintPartOfASCIITable.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/bin/Debug/net7.0/05.PrintPartOfASCIITable.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/refint/05.PrintPartOfASCIITable.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/05.PrintPartOfASCIITable.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/05.PrintPartOfASCIITable/obj/Debug/net7.0/ref/05.PrintPartOfASCIITable.dll

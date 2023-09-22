@@ -1,26 +1,40 @@
-﻿<Properties StartupConfiguration="{688599B0-1FA5-405B-A020-46D7E0A4DB2A}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.03.Elevator FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.SumDigits/Program.cs">
+﻿<Properties StartupConfiguration="{43FD11E0-F213-4BA3-B150-C153541ED306}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/Program.cs" relfile="04.SumOfChars/Program.cs" line="15" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.SumOfChars/Program.cs">
     <Files>
-      <File FileName="01.IntegerOperations/Program.cs" Line="10" Column="12" />
-      <File FileName="02.SumDigits/Program.cs" Line="7" Column="32" />
+      <File FileName="01.IntegerOperations/Program.cs" />
+      <File FileName="02.SumDigits/Program.cs" />
+      <File FileName="03.Elevator/Program.cs" />
+      <File FileName="04.SumOfChars/Program.cs" Line="24" Column="24" />
+      <File FileName="05.PrintPartOfASCIITable/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09.DataTypesAndVariables-Exercise" expanded="True">
-            <Node name="02.SumDigits">
+          <Node name="09.DataTypesAndVariables-Exercise">
+            <Node name="04.SumOfChars" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="05.PrintPartOfASCIITable" expanded="True" />
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.TriplesОfLatinLetters FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04.SumOfChars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../02.SumDigits/Program.cs" line="2" column="4" endLine="2" endColumn="12" offsetX="-1" offsetY="-1" expression="sume" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.03.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

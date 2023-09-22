@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/bin/Debug/net7.0/04.SumOfChars
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/bin/Debug/net7.0/04.SumOfChars.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/bin/Debug/net7.0/04.SumOfChars.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/bin/Debug/net7.0/04.SumOfChars.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/bin/Debug/net7.0/04.SumOfChars.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/refint/04.SumOfChars.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/04.SumOfChars.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/obj/Debug/net7.0/ref/04.SumOfChars.dll
