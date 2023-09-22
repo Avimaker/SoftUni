@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/bin/Debug/net7.0/06.TriplesОfLatinLetters
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/bin/Debug/net7.0/06.TriplesОfLatinLetters.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/bin/Debug/net7.0/06.TriplesОfLatinLetters.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/bin/Debug/net7.0/06.TriplesОfLatinLetters.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/bin/Debug/net7.0/06.TriplesОfLatinLetters.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/refint/06.TriplesОfLatinLetters.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/06.TriplesОfLatinLetters.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/obj/Debug/net7.0/ref/06.TriplesОfLatinLetters.dll
