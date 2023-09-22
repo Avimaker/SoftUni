@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPartOfASCIITable", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesОfLatinLetters", "06.TriplesОfLatinLetters\06.TriplesОfLatinLetters.csproj", "{073D541E-FEAD-4D8F-94C7-C9B7B2053B22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WaterOverflow", "07.WaterOverflow\07.WaterOverflow.csproj", "{C571E0A0-8869-4141-9154-272D5CA126CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BeerKegs", "08.BeerKegs\08.BeerKegs.csproj", "{B6EBD1CF-5911-471E-87D0-08F0C1D9451C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{073D541E-FEAD-4D8F-94C7-C9B7B2053B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{073D541E-FEAD-4D8F-94C7-C9B7B2053B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{073D541E-FEAD-4D8F-94C7-C9B7B2053B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C571E0A0-8869-4141-9154-272D5CA126CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C571E0A0-8869-4141-9154-272D5CA126CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C571E0A0-8869-4141-9154-272D5CA126CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C571E0A0-8869-4141-9154-272D5CA126CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EBD1CF-5911-471E-87D0-08F0C1D9451C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EBD1CF-5911-471E-87D0-08F0C1D9451C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EBD1CF-5911-471E-87D0-08F0C1D9451C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EBD1CF-5911-471E-87D0-08F0C1D9451C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

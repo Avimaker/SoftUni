@@ -29,9 +29,11 @@
   <MonoDevelop.Ide.ItemProperties.05.PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.TriplesОfLatinLetters FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.WaterOverflow FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.08.BeerKegs FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.04.SumOfChars PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../02.SumDigits/Program.cs" line="2" column="4" endLine="2" endColumn="12" offsetX="-1" offsetY="-1" expression="sume" liveUpdate="False" />
