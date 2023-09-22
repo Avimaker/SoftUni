@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/bin/Debug/net7.0/01.IntegerOperations
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/bin/Debug/net7.0/01.IntegerOperations.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/bin/Debug/net7.0/01.IntegerOperations.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/bin/Debug/net7.0/01.IntegerOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/bin/Debug/net7.0/01.IntegerOperations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/refint/01.IntegerOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/01.IntegerOperations.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/01.IntegerOperations/obj/Debug/net7.0/ref/01.IntegerOperations.dll
