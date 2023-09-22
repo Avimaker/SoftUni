@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{688599B0-1FA5-405B-A020-46D7E0A4DB2A}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Elevator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="02.SumDigits/Program.cs">
     <Files>
       <File FileName="01.IntegerOperations/Program.cs" Line="10" Column="12" />
