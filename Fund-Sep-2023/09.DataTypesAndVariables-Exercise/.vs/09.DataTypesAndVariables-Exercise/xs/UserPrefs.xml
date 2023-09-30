@@ -1,23 +1,31 @@
-﻿<Properties StartupConfiguration="{43FD11E0-F213-4BA3-B150-C153541ED306}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/04.SumOfChars/Program.cs" relfile="04.SumOfChars/Program.cs" line="15" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.SumOfChars/Program.cs">
+﻿<Properties StartupConfiguration="{C571E0A0-8869-4141-9154-272D5CA126CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../02.SumDigits/Program.cs" line="2" column="4" endLine="2" endColumn="12" offsetX="-1" offsetY="-1" expression="sume" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.WaterOverflow/Program.cs">
     <Files>
       <File FileName="01.IntegerOperations/Program.cs" />
       <File FileName="02.SumDigits/Program.cs" />
       <File FileName="03.Elevator/Program.cs" />
-      <File FileName="04.SumOfChars/Program.cs" Line="24" Column="24" />
-      <File FileName="05.PrintPartOfASCIITable/Program.cs" Line="3" Column="1" />
+      <File FileName="04.SumOfChars/Program.cs" />
+      <File FileName="05.PrintPartOfASCIITable/Program.cs" />
+      <File FileName="06.TriplesОfLatinLetters/Program.cs" />
+      <File FileName="07.WaterOverflow/Program.cs" Line="17" Column="2" />
+      <File FileName="08.BeerKegs/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="09.DataTypesAndVariables-Exercise">
-            <Node name="04.SumOfChars" expanded="True">
+            <Node name="01.IntegerOperations" expanded="True" />
+            <Node name="07.WaterOverflow" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="05.PrintPartOfASCIITable" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -26,17 +34,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.05.PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.06.TriplesОfLatinLetters FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.SumDigits PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.07.WaterOverflow FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.01.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.08.BeerKegs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.08.BeerKegs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/09.DataTypesAndVariables-Exercise/06.TriplesОfLatinLetters/Program.cs" relfile="06.TriplesОfLatinLetters/Program.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.04.SumOfChars PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../02.SumDigits/Program.cs" line="2" column="4" endLine="2" endColumn="12" offsetX="-1" offsetY="-1" expression="sume" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.03.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.WaterOverflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.TriplesОfLatinLetters PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

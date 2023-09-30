@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/bin/Debug/net7.0/04.ArrayRotation
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/bin/Debug/net7.0/04.ArrayRotation.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/bin/Debug/net7.0/04.ArrayRotation.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/bin/Debug/net7.0/04.ArrayRotation.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/bin/Debug/net7.0/04.ArrayRotation.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/refint/04.ArrayRotation.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/04.ArrayRotation.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/04.ArrayRotation/obj/Debug/net7.0/ref/04.ArrayRotation.dll

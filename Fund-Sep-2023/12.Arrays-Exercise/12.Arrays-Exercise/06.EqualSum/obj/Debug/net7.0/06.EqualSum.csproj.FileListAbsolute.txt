@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/bin/Debug/net7.0/06.EqualSum
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/bin/Debug/net7.0/06.EqualSum.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/bin/Debug/net7.0/06.EqualSum.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/bin/Debug/net7.0/06.EqualSum.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/bin/Debug/net7.0/06.EqualSum.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/refint/06.EqualSum.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/06.EqualSum.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/06.EqualSum/obj/Debug/net7.0/ref/06.EqualSum.dll

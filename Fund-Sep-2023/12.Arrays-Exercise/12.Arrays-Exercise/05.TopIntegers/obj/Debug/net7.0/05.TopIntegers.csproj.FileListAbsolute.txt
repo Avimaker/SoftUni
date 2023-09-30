@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/bin/Debug/net7.0/05.TopIntegers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/bin/Debug/net7.0/05.TopIntegers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/bin/Debug/net7.0/05.TopIntegers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/bin/Debug/net7.0/05.TopIntegers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/bin/Debug/net7.0/05.TopIntegers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/refint/05.TopIntegers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/05.TopIntegers.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/05.TopIntegers/obj/Debug/net7.0/ref/05.TopIntegers.dll

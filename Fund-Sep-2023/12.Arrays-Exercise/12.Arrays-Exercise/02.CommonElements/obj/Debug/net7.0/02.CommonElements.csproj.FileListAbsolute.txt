@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/bin/Debug/net7.0/02.CommonElements
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/bin/Debug/net7.0/02.CommonElements.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/bin/Debug/net7.0/02.CommonElements.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/bin/Debug/net7.0/02.CommonElements.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/bin/Debug/net7.0/02.CommonElements.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/refint/02.CommonElements.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/02.CommonElements.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/12.Arrays-Exercise/12.Arrays-Exercise/02.CommonElements/obj/Debug/net7.0/ref/02.CommonElements.dll
