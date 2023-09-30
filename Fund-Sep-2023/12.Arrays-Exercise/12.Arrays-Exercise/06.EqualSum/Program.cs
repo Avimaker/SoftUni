@@ -1,27 +1,33 @@
-﻿int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+﻿/*
+1 2 3 3
+ */
 
-for (int i = 0; i < numbers.Length; i++)
+// Input
+int[] numMasiv = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+for (int i = 0; i < numMasiv.Length; i++)
 {
     int sumeLeft = 0;
     int sumeRight = 0;
 
-    // Calculate the sum of elements to the left
+    // Calculate the sum of the left
     for (int j = 0; j < i; j++)
     {
-        sumeLeft += numbers[j];
+        sumeLeft += numMasiv[j];
     }
 
-    // Calculate the sum of elements to the right
-    for (int k = i + 1; k < numbers.Length; k++)
+    // Calculate the sum of the right
+    for (int k = i + 1; k < numMasiv.Length; k++)
     {
-        sumeRight += numbers[k];
+        sumeRight += numMasiv[k];
     }
 
     if (sumeLeft == sumeRight)
     {
         Console.WriteLine(i);
-        return; // Stop searching as we found the index
+        return;
+        //stop
     }
 }
 
-Console.WriteLine("no"); // No such index exists
+Console.WriteLine("no"); // No such element
