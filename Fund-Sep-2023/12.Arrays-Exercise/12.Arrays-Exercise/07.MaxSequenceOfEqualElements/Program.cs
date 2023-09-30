@@ -7,7 +7,7 @@ int[] masivNum = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
 int maxLength = 1;
 int currentLength = 1;
-int startIndex = 0;
+int repeatedNumberCell = 0;
 
 //Start process
 for (int i = 1; i < masivNum.Length; i++)
@@ -18,7 +18,7 @@ for (int i = 1; i < masivNum.Length; i++)
         if (currentLength > maxLength)
         {
             maxLength = currentLength;
-            startIndex = i - currentLength + 1;
+            repeatedNumberCell = i - currentLength + 1;
         }
     }
     else
@@ -27,7 +27,7 @@ for (int i = 1; i < masivNum.Length; i++)
     }
 }
 
-for (int i = startIndex; i < startIndex + maxLength; i++)
+for (int i = repeatedNumberCell; i < repeatedNumberCell + maxLength; i++)
 {
     Console.Write(masivNum[i] + " ");
 }
