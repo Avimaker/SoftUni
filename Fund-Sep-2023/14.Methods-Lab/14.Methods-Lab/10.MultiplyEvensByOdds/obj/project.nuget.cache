@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPPglshGYedtq6l8Wi0ZuIdsInmG4kZw9Ye/l4bsxZ1h6W0LrAmqX7WPfN2ObTkvtEm4idQqZHNW5cd6MToKew==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/10.MultiplyEvensByOdds/10.MultiplyEvensByOdds.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohjTawBGN8j2HTZFMRFmTdexF06AXtro5s3yorpZtchfZ6ALqbgZhmsWZUunCw9CIGJhXkepbv6tOQ6Fpd/DIw==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/06.CalculateRectangleArea.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

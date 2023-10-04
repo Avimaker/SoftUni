@@ -7,24 +7,37 @@ namespace _04.PrintingTriangle
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
+            PrintTriangle(number);
 
-            for (int row = 1; row <= number; row++)
-            {
-                PrintRow(row);
-            }
+        }
 
+        static void PrintTriangle(int number)
+        {
+            PrintTopPart(number);
+            PrintBottomPart(number);
+        }
+
+        static void PrintBottomPart(int number)
+        {
             for (int row = number - 1; row >= 1; row--)
             {
                 PrintRow(row);
             }
-
         }
 
-        private static void PrintRow(int row)
+        static void PrintTopPart(int number)
+        {
+            for (int row = 1; row <= number; row++)
+            {
+                PrintRow(row);
+            }
+        }
+
+        static void PrintRow(int row)
         {
             for (int col = 1; col <= row; col++)
             {
-                Console.Write(col+" ");
+                Console.Write(col + " ");
             }
             Console.WriteLine();
         }

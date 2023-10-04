@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/bin/Debug/netcoreapp3.1/06.CalculateRectangleArea.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/06.CalculateRectangleArea/obj/Debug/netcoreapp3.1/06.CalculateRectangleArea.genruntimeconfig.cache
