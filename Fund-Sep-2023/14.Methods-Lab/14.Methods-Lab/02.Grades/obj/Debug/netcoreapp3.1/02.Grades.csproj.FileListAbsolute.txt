@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/bin/Debug/netcoreapp3.1/02.Grades.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/02.Grades/obj/Debug/netcoreapp3.1/02.Grades.genruntimeconfig.cache

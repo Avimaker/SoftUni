@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{36DAFC8D-429F-40AD-A205-3853BD460F31}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.PrintingTriangle FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.SignOfIntegerNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Calculations/Program.cs">
+    <Files>
+      <File FileName="03.Calculations/Program.cs" Line="33" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="14.Methods-Lab" expanded="True">
+            <Node name="03.Calculations" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="14.Methods-Lab" expanded="True">
+            <Node name="01.SignOfIntegerNumbers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.SignOfIntegerNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Calculations PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/bin/Debug/netcoreapp3.1/04.PrintingTriangle.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/04.PrintingTriangle/obj/Debug/netcoreapp3.1/04.PrintingTriangle.genruntimeconfig.cache

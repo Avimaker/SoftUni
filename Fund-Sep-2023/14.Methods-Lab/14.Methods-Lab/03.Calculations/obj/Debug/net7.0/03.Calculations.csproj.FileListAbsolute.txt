@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/bin/Debug/net7.0/03.Calculations
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/bin/Debug/net7.0/03.Calculations.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/bin/Debug/net7.0/03.Calculations.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/bin/Debug/net7.0/03.Calculations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/bin/Debug/net7.0/03.Calculations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/refint/03.Calculations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/03.Calculations.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/03.Calculations/obj/Debug/net7.0/ref/03.Calculations.dll
