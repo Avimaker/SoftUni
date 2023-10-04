@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/bin/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/obj/Debug/netcoreapp3.1/01.SignOfIntegerNumbers.genruntimeconfig.cache

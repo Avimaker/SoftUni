@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C9l3ZL5xnzzfZXWgp0sL7FtkB845tz/b5BEvkrvWOoVqSshrwIJqemkz5lvBGSLsf+cFJ4QYS2VmqW9V0pspCw==",
+  "dgSpecHash": "9g1buFN4Ik4Oc+rfQXnlOEZIlcFGKOPbzfz+mgAzJkXl70VTVPWwGykXfZhZMET0ZFwTP0BOON5fMvOm9CLUCQ==",
   "success": true,
   "projectFilePath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/14.Methods-Lab/14.Methods-Lab/01.SignOfIntegerNumbers/01.SignOfIntegerNumbers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
