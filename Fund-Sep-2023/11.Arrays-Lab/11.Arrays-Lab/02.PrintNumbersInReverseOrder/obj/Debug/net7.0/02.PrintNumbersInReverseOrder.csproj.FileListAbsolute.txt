@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/bin/Debug/net7.0/02.PrintNumbersInReverseOrder
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/bin/Debug/net7.0/02.PrintNumbersInReverseOrder.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/bin/Debug/net7.0/02.PrintNumbersInReverseOrder.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/bin/Debug/net7.0/02.PrintNumbersInReverseOrder.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/bin/Debug/net7.0/02.PrintNumbersInReverseOrder.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/refint/02.PrintNumbersInReverseOrder.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/02.PrintNumbersInReverseOrder/obj/Debug/net7.0/ref/02.PrintNumbersInReverseOrder.dll
