@@ -15,7 +15,7 @@ namespace _11.MathOperations
             Console.WriteLine(result);
         }
 
-        private static double CalculateArea(double w, double h)
+        static double CalculateArea(double w, double h)
         {
             double area = w * h;
             return area;
