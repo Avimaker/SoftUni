@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/bin/Debug/netcoreapp3.1/09.PalindromeIntegers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/09.PalindromeIntegers/obj/Debug/netcoreapp3.1/09.PalindromeIntegers.genruntimeconfig.cache
