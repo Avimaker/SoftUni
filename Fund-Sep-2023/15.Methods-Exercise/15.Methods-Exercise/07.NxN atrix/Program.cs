@@ -13,19 +13,19 @@ namespace _07.NxN_atrix
             PrintMatrix(arr);
         }
 
-        static void PrintMatrix(int[] arr)
+        static void PrintMatrix(int[] arrayToPrint)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arrayToPrint.Length; i++)
             {
-                Console.WriteLine(string.Join(" ", arr));
+                Console.WriteLine(string.Join(" ", arrayToPrint));
             }
         }
 
-        static void FillArray(int number, int[] arr)
+        static void FillArray(int number, int[] arrayToPrint)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arrayToPrint.Length; i++)
             {
-                arr[i] = number;
+                arrayToPrint[i] = number;
             }
         }
     }
