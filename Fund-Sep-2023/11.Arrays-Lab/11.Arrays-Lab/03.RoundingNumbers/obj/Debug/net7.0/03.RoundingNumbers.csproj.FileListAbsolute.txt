@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/bin/Debug/net7.0/03.RoundingNumbers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/bin/Debug/net7.0/03.RoundingNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/bin/Debug/net7.0/03.RoundingNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/bin/Debug/net7.0/03.RoundingNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/bin/Debug/net7.0/03.RoundingNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/refint/03.RoundingNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/03.RoundingNumbers.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/03.RoundingNumbers/obj/Debug/net7.0/ref/03.RoundingNumbers.dll

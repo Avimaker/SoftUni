@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vl49YPe4L1dnEOCw4yA9t0DlLri1Mf0tewnHhy6W91xlJFn26T5EVMlrJlvlrtV5sn8OhUtG5RLT/JZXFJfXBA==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/01.SmallestOfThreeNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

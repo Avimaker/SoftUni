@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D53055C1-EF0F-4858-B11C-EB20E39313DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.PasswordValidator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.PalindromeIntegers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.CharactersInRange FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.SmallestOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.VowelsCount FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.06.MiddleCharacters FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.NxN_220atrix FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10.TopNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.AddAndSubtract FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.08.FactorialDivision FirstBuild="True" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/bin/Debug/net7.0/04.ReverseArrayOfStrings
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/bin/Debug/net7.0/04.ReverseArrayOfStrings.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/bin/Debug/net7.0/04.ReverseArrayOfStrings.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/bin/Debug/net7.0/04.ReverseArrayOfStrings.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/bin/Debug/net7.0/04.ReverseArrayOfStrings.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/refint/04.ReverseArrayOfStrings.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/04.ReverseArrayOfStrings.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/11.Arrays-Lab/11.Arrays-Lab/04.ReverseArrayOfStrings/obj/Debug/net7.0/ref/04.ReverseArrayOfStrings.dll
