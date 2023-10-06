@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/bin/Debug/netcoreapp3.1/07.NxN atrix.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/07.NxN atrix/obj/Debug/netcoreapp3.1/07.NxN atrix.genruntimeconfig.cache
