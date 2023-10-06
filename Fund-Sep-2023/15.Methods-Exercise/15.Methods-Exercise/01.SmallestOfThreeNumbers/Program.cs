@@ -6,7 +6,8 @@ namespace _01.SmallestOfThreeNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int n = int.Parse(Console.ReadLine());
         }
     }
 }

@@ -1,13 +1,45 @@
 ﻿<Properties StartupConfiguration="{D53055C1-EF0F-4858-B11C-EB20E39313DA}|Default">
-  <MonoDevelop.Ide.ItemProperties.04.PasswordValidator FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.09.PalindromeIntegers FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.03.CharactersInRange FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.01.SmallestOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.02.VowelsCount FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.06.MiddleCharacters FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.07.NxN_220atrix FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.10.TopNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.PalindromeIntegers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.TopNumber/Program.cs">
+    <Files>
+      <File FileName="02.VowelsCount/Program.cs" />
+      <File FileName="03.CharactersInRange/Program.cs" />
+      <File FileName="04.PasswordValidator/Program.cs" />
+      <File FileName="05.AddAndSubtract/Program.cs" />
+      <File FileName="06.MiddleCharacters/Program.cs" />
+      <File FileName="07.NxN atrix/Program.cs" Line="1" Column="1" />
+      <File FileName="09.PalindromeIntegers/Program.cs" Line="1" Column="1" />
+      <File FileName="10.TopNumber/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="15.Methods-Exercise" expanded="True">
+            <Node name="09.PalindromeIntegers" expanded="True" />
+            <Node name="10.TopNumber" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.05.AddAndSubtract FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.08.FactorialDivision FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.06.MiddleCharacters FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.PasswordValidator FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.CharactersInRange FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.NxN_220atrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.TopNumber FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.FactorialDivision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.SmallestOfThreeNumbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

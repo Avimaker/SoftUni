@@ -1,15 +1,11 @@
 ﻿<Properties StartupConfiguration="{4BAA4AB3-532C-4881-BC4D-251BF6F7E568}|Default">
-  <MonoDevelop.Ide.ItemProperties.05.SumEvenNumbers FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.ReverseArrayOfStrings PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="04.ReverseArrayOfStrings/Program.cs">
     <Files>
       <File FileName="01.DayOfWeek/Program.cs" />
-      <File FileName="02.PrintNumbersInReverseOrder/Program.cs" Line="2" Column="1" />
-      <File FileName="03.RoundingNumbers/Program.cs" Line="29" Column="1" />
+      <File FileName="02.PrintNumbersInReverseOrder/Program.cs" />
+      <File FileName="03.RoundingNumbers/Program.cs" />
       <File FileName="04.ReverseArrayOfStrings/Program.cs" Line="26" Column="1" />
-      <File FileName="05.SumEvenNumbers/Program.cs" Line="1" Column="1" />
+      <File FileName="05.SumEvenNumbers/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +14,7 @@
             <Node name="01.DayOfWeek" expanded="True" />
             <Node name="02.PrintNumbersInReverseOrder" expanded="True" />
             <Node name="03.RoundingNumbers" expanded="True" />
-            <Node name="04.ReverseArrayOfStrings">
+            <Node name="04.ReverseArrayOfStrings" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -29,8 +25,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.03.RoundingNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.05.SumEvenNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.ReverseArrayOfStrings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../03.RoundingNumbers/Program.cs" line="8" column="9" endLine="8" endColumn="30" offsetX="-1" offsetY="-1" expression="split" liveUpdate="False" />
     <Watch file="../../../03.RoundingNumbers/Program.cs" line="10" column="9" endLine="10" endColumn="43" offsetX="-1" offsetY="-1" expression="numbers" liveUpdate="False" />
