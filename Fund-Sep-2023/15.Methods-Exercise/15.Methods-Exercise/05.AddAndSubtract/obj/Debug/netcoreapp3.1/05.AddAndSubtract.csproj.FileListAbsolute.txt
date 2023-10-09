@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/bin/Debug/netcoreapp3.1/05.AddAndSubtract.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/05.AddAndSubtract/obj/Debug/netcoreapp3.1/05.AddAndSubtract.genruntimeconfig.cache
