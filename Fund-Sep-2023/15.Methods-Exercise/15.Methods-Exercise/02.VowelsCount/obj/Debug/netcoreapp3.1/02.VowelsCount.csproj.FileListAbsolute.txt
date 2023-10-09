@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/bin/Debug/netcoreapp3.1/02.VowelsCount.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/02.VowelsCount/obj/Debug/netcoreapp3.1/02.VowelsCount.genruntimeconfig.cache
