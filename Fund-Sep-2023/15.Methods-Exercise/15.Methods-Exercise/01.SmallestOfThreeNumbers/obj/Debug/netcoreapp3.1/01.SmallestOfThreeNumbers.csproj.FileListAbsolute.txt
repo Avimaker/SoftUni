@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/01.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/01.SmallestOfThreeNumbers.genruntimeconfig.cache
