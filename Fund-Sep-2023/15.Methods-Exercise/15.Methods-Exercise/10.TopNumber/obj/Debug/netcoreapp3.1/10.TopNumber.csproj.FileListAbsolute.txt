@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/bin/Debug/netcoreapp3.1/10.TopNumber.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/15.Methods-Exercise/15.Methods-Exercise/10.TopNumber/obj/Debug/netcoreapp3.1/10.TopNumber.genruntimeconfig.cache

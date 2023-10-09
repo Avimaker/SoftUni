@@ -1,25 +1,32 @@
-﻿<Properties StartupConfiguration="{ADA41883-F3DC-4D7B-A8B1-932A18D5474E}|Default">
-  <MonoDevelop.Ide.ItemProperties.09.PalindromeIntegers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.PasswordValidator/Program.cs">
+﻿<Properties StartupConfiguration="{F9B5E399-2F79-42DE-ABD0-206717CC9C81}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.FactorialDivision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.MiddleCharacters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.SmallestOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.TopNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.VowelsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.CharactersInRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.PasswordValidator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.TopNumber/Program.cs">
     <Files>
-      <File FileName="02.VowelsCount/Program.cs" Line="3" Column="15" />
-      <File FileName="03.CharactersInRange/Program.cs" Line="3" Column="15" />
-      <File FileName="04.PasswordValidator/Program.cs" Line="18" Column="1" />
+      <File FileName="02.VowelsCount/Program.cs" />
+      <File FileName="03.CharactersInRange/Program.cs" />
+      <File FileName="04.PasswordValidator/Program.cs" />
       <File FileName="05.AddAndSubtract/Program.cs" />
       <File FileName="06.MiddleCharacters/Program.cs" />
       <File FileName="07.NxN atrix/Program.cs" />
       <File FileName="09.PalindromeIntegers/Program.cs" />
-      <File FileName="10.TopNumber/Program.cs" Line="14" Column="1" />
-      <File FileName="01.SmallestOfThreeNumbers/Program.cs" Line="33" Column="1" />
+      <File FileName="10.TopNumber/Program.cs" Line="25" Column="16" />
+      <File FileName="01.SmallestOfThreeNumbers/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="15.Methods-Exercise">
+          <Node name="15.Methods-Exercise" expanded="True">
             <Node name="02.VowelsCount" expanded="True" />
-            <Node name="04.PasswordValidator" expanded="True" selected="True" />
-            <Node name="09.PalindromeIntegers" expanded="True" />
-            <Node name="10.TopNumber" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,13 +35,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.03.CharactersInRange PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.01.SmallestOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.08.FactorialDivision PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.VowelsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.07.NxN_220atrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../01.SmallestOfThreeNumbers/Program.cs" line="13" column="20" endLine="13" endColumn="21" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
@@ -44,12 +45,10 @@
     <Watch file="../../../03.CharactersInRange/Program.cs" line="17" column="53" endLine="17" endColumn="67" offsetX="-1" offsetY="-1" expression="letterTwoValue" liveUpdate="False" />
     <Watch file="../../../03.CharactersInRange/Program.cs" line="19" column="25" endLine="19" endColumn="63" offsetX="-1" offsetY="-1" expression="currentChar" liveUpdate="False" />
     <Watch file="../../../03.CharactersInRange/Program.cs" line="16" column="16" endLine="16" endColumn="36" offsetX="-1" offsetY="-1" expression="letterTwoCounter" liveUpdate="False" />
-    <Watch file="../../../04.PasswordValidator/Program.cs" line="12" column="16" endLine="12" endColumn="32" offsetX="-1" offsetY="-1" expression="digitCounter" liveUpdate="False" />
+    <Watch file="../../../04.PasswordValidator/Program.cs" line="9" column="17" endLine="9" endColumn="30" offsetX="-1" offsetY="-1" expression="isTrue" liveUpdate="False" />
+    <Watch file="../../../10.TopNumber/Program.cs" line="10" column="16" endLine="10" endColumn="24" offsetX="-1" offsetY="-1" expression="sume" liveUpdate="False" />
+    <Watch file="../../../10.TopNumber/Program.cs" line="14" column="21" endLine="14" endColumn="26" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.06.MiddleCharacters FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.04.PasswordValidator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.05.AddAndSubtract FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.10.TopNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.PalindromeIntegers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.AddAndSubtract PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
