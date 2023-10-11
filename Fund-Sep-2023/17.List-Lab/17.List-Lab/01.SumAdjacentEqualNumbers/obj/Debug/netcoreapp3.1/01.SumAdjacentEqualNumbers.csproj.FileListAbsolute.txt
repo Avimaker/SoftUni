@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/01.SumAdjacentEqualNumbers.genruntimeconfig.cache

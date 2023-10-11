@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7l7iLVamj4e5CuaRnJD41wePfFxc1rSEuxs1OdQ+8OSab6kOzc2jRRfHPLCDwVqEiea3IrsO3IVQ+/OuvubBDQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

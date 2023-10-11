@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{123E116F-382E-431D-8A4C-17520116E154}|Default">
+  <MonoDevelop.Ide.ItemProperties.1.BinaryDigitsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/16.BitwiseOperations-Lab/16.BitwiseOperations-Lab/1.BinaryDigitsCount/Program.cs" relfile="1.BinaryDigitsCount/Program.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../1.BinaryDigitsCount/Program.cs" line="7" column="7" endLine="7" endColumn="13" offsetX="-1" offsetY="-1" expression="number" liveUpdate="False" />
+    <Watch file="../../../1.BinaryDigitsCount/Program.cs" line="4" column="4" endLine="4" endColumn="21" offsetX="-1" offsetY="-1" expression="zeroesCounter" liveUpdate="False" />
+    <Watch file="../../../1.BinaryDigitsCount/Program.cs" line="5" column="4" endLine="5" endColumn="19" offsetX="-1" offsetY="-1" expression="onesCounter" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.2.BitAtPosition1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.BitAtPosition1/Program.cs">
+    <Files>
+      <File FileName="1.BinaryDigitsCount/Program.cs" Line="33" Column="1" />
+      <File FileName="2.BitAtPosition1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="16.BitwiseOperations-Lab" expanded="True">
+            <Node name="1.BinaryDigitsCount" expanded="True" />
+            <Node name="2.BitAtPosition1">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
