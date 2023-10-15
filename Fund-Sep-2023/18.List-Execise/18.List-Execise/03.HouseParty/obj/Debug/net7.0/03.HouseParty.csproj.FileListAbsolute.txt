@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/bin/Debug/net7.0/03.HouseParty
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/bin/Debug/net7.0/03.HouseParty.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/bin/Debug/net7.0/03.HouseParty.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/bin/Debug/net7.0/03.HouseParty.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/bin/Debug/net7.0/03.HouseParty.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/refint/03.HouseParty.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/03.HouseParty.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/03.HouseParty/obj/Debug/net7.0/ref/03.HouseParty.dll

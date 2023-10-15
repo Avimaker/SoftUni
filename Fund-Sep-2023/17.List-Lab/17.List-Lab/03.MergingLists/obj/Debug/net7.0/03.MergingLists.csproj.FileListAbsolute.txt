@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/bin/Debug/net7.0/03.MergingLists
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/bin/Debug/net7.0/03.MergingLists.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/bin/Debug/net7.0/03.MergingLists.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/bin/Debug/net7.0/03.MergingLists.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/bin/Debug/net7.0/03.MergingLists.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/refint/03.MergingLists.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/03.MergingLists.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/obj/Debug/net7.0/ref/03.MergingLists.dll

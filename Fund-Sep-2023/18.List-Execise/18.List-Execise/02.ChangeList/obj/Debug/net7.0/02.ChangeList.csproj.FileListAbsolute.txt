@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/bin/Debug/net7.0/02.ChangeList
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/bin/Debug/net7.0/02.ChangeList.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/bin/Debug/net7.0/02.ChangeList.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/bin/Debug/net7.0/02.ChangeList.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/bin/Debug/net7.0/02.ChangeList.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/refint/02.ChangeList.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/02.ChangeList.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/02.ChangeList/obj/Debug/net7.0/ref/02.ChangeList.dll
