@@ -63,10 +63,17 @@ class Program
 
         }
 
-        for (int i = 0; i < names.Count; i++)
-        {
-            Console.WriteLine($"{names[i]}");
-        }
+        //for (int i = 0; i < names.Count; i++)
+        //{
+        //    Console.WriteLine($"{names[i]}");
+        //}
+
+        Console.WriteLine(string.Join("\n", names)); // \n за нов ред
+
+        //foreach (string name in names)
+        //{
+        //    Console.WriteLine(names);
+        //}
 
     }
 }

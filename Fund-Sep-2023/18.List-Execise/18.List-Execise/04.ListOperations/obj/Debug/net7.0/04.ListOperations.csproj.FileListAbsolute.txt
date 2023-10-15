@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/bin/Debug/net7.0/04.ListOperations
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/bin/Debug/net7.0/04.ListOperations.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/bin/Debug/net7.0/04.ListOperations.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/bin/Debug/net7.0/04.ListOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/bin/Debug/net7.0/04.ListOperations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/refint/04.ListOperations.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/04.ListOperations.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/04.ListOperations/obj/Debug/net7.0/ref/04.ListOperations.dll

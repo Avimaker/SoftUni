@@ -1,22 +1,16 @@
 ﻿<Properties StartupConfiguration="{8512FA9D-5163-4FBA-B4D6-0C7FF88F2CB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.GaussTrick PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint conditionExpression="i == 6" file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/Program.cs" relfile="03.MergingLists/Program.cs" line="19" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../02.GaussTrick/Program.cs" line="15" column="18" endLine="15" endColumn="42" offsetX="-1" offsetY="-1" expression="result" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.01.SumAdjacentEqualNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="02.GaussTrick/Program.cs">
     <Files>
-      <File FileName="01.SumAdjacentEqualNumbers/Program.cs" Line="1" Column="1" />
+      <File FileName="01.SumAdjacentEqualNumbers/Program.cs" />
       <File FileName="02.GaussTrick/Program.cs" Line="18" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="17.List-Lab" expanded="True" />
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
@@ -24,6 +18,14 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.GaussTrick PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../02.GaussTrick/Program.cs" line="15" column="18" endLine="15" endColumn="42" offsetX="-1" offsetY="-1" expression="result" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01.SumAdjacentEqualNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.MergingLists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint conditionExpression="i == 6" file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/17.List-Lab/17.List-Lab/03.MergingLists/Program.cs" relfile="03.MergingLists/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
