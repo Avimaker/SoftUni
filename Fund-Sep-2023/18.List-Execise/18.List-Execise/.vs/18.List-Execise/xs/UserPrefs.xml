@@ -1,42 +1,39 @@
-﻿<Properties StartupConfiguration="{585FE65D-4E23-4E48-85BE-7E7A36902883}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.HouseParty PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.BombNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{FEB9690A-A4D9-46B4-9B20-6B49985E4721}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/Program.cs" relfile="05.BombNumbers/Program.cs" line="32" column="1" />
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/07.AppendArrays/Program.cs" relfile="07.AppendArrays/Program.cs" line="26" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.01.Train PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.06.CardsGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="06.CardsGame/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.AppendArrays/Program.cs">
     <Files>
       <File FileName="01.Train/Program.cs" />
       <File FileName="02.ChangeList/Program.cs" />
       <File FileName="03.HouseParty/Program.cs" />
-      <File FileName="04.ListOperations/Program.cs" Line="21" Column="1" />
-      <File FileName="05.BombNumbers/Program.cs" Line="46" Column="1" />
-      <File FileName="06.CardsGame/Program.cs" Line="24" Column="47" />
+      <File FileName="04.ListOperations/Program.cs" />
+      <File FileName="05.BombNumbers/Program.cs" />
+      <File FileName="06.CardsGame/Program.cs" Line="10" Column="12" />
+      <File FileName="07.AppendArrays/Program.cs" Line="31" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="18.List-Execise">
-            <Node name="06.CardsGame">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.BombNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Train PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../03.HouseParty/Program.cs" line="25" column="19" endLine="25" endColumn="44" offsetX="-1" offsetY="-1" expression="justName" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02.ChangeList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.CardsGame PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.ListOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.07.AppendArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.HouseParty PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.ChangeList PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
