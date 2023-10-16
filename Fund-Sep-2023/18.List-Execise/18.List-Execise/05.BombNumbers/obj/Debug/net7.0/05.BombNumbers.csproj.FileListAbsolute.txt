@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/bin/Debug/net7.0/05.BombNumbers
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/bin/Debug/net7.0/05.BombNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/bin/Debug/net7.0/05.BombNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/bin/Debug/net7.0/05.BombNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/bin/Debug/net7.0/05.BombNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/refint/05.BombNumbers.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/05.BombNumbers.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/18.List-Execise/18.List-Execise/05.BombNumbers/obj/Debug/net7.0/ref/05.BombNumbers.dll
