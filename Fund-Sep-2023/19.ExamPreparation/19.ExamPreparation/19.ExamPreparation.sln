@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ComputerStore", "04.Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ShootForTheWin", "05.ShootForTheWin\05.ShootForTheWin.csproj", "{6AE95898-A968-4A6E-8D97-C1E648735929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MemoryGame", "06.MemoryGame\06.MemoryGame.csproj", "{9D14210C-5F30-43AF-B2FB-17A855780A77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6AE95898-A968-4A6E-8D97-C1E648735929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE95898-A968-4A6E-8D97-C1E648735929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE95898-A968-4A6E-8D97-C1E648735929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D14210C-5F30-43AF-B2FB-17A855780A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D14210C-5F30-43AF-B2FB-17A855780A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D14210C-5F30-43AF-B2FB-17A855780A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D14210C-5F30-43AF-B2FB-17A855780A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
