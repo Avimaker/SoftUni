@@ -1,28 +1,24 @@
-﻿<Properties StartupConfiguration="{4661CC46-C062-4B7E-AF97-25A9FB442330}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/Program.cs" relfile="04.ComputerStore/Program.cs" line="17" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.04.ComputerStore PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.01.GuineaPig PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.TheLift PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{6AE95898-A968-4A6E-8D97-C1E648735929}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.ShootForTheWin PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.MovingTarget PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.TheLift PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.TheLift-Philip PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.ComputerStore/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.04.ComputerStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.ShootForTheWin/Program.cs">
     <Files>
       <File FileName="1.GuineaPig/Program.cs" />
       <File FileName="02.TheLift/Program.cs" Line="76" Column="1" />
       <File FileName="02.TheLift-Philip/Program.cs" />
       <File FileName="03.MovingTarget/Program.cs" Line="67" Column="1" />
-      <File FileName="04.ComputerStore/Program.cs" Line="23" Column="1" />
+      <File FileName="04.ComputerStore/Program.cs" Line="25" Column="12" />
+      <File FileName="05.ShootForTheWin/Program.cs" Line="44" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="19.ExamPreparation">
-            <Node name="04.ComputerStore" selected="True" />
+            <Node name="03.MovingTarget" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -34,6 +30,16 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../02.TheLift-Philip/Program.cs" line="14" column="12" endLine="14" endColumn="50" offsetX="-1" offsetY="-1" expression="people" liveUpdate="False" />
     <Watch file="../../../02.TheLift-Philip/Program.cs" line="16" column="14" endLine="19" endColumn="22" offsetX="-1" offsetY="-1" expression="wagons" liveUpdate="False" />
+    <Watch file="../../../04.ComputerStore/Program.cs" line="6" column="15" endLine="6" endColumn="31" offsetX="-1" offsetY="-1" expression="currentPrice" liveUpdate="False" />
+    <Watch file="../../../04.ComputerStore/Program.cs" line="9" column="15" endLine="9" endColumn="31" offsetX="-1" offsetY="-1" expression="inputs" liveUpdate="False" />
+    <Watch file="../../../04.ComputerStore/Program.cs" line="15" column="16" endLine="15" endColumn="30" offsetX="-1" offsetY="-1" expression="priceCheck &lt; 0" liveUpdate="False" />
+    <Watch file="../../../04.ComputerStore/Program.cs" line="10" column="15" endLine="10" endColumn="33" offsetX="-1" offsetY="-1" expression="custumer" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/Program.cs" relfile="05.ShootForTheWin/Program.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.GuineaPig PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

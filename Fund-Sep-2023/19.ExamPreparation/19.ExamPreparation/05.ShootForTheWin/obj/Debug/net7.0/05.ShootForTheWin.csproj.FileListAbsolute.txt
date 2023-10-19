@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/bin/Debug/net7.0/05.ShootForTheWin
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/bin/Debug/net7.0/05.ShootForTheWin.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/bin/Debug/net7.0/05.ShootForTheWin.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/bin/Debug/net7.0/05.ShootForTheWin.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/bin/Debug/net7.0/05.ShootForTheWin.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/refint/05.ShootForTheWin.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/05.ShootForTheWin.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/05.ShootForTheWin/obj/Debug/net7.0/ref/05.ShootForTheWin.dll
