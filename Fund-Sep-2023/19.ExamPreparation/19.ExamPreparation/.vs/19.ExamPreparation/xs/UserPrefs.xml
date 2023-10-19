@@ -1,26 +1,28 @@
-﻿<Properties StartupConfiguration="{13210103-7351-4284-A91E-3718B554EEB8}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.04.ComputerStore FirstBuild="True" />
+﻿<Properties StartupConfiguration="{4661CC46-C062-4B7E-AF97-25A9FB442330}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/Program.cs" relfile="04.ComputerStore/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.ComputerStore PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.GuineaPig PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.02.TheLift PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.MovingTarget PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.TheLift-Philip PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.MovingTarget/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.ComputerStore/Program.cs">
     <Files>
       <File FileName="1.GuineaPig/Program.cs" />
-      <File FileName="02.TheLift/Program.cs" />
-      <File FileName="02.TheLift-Philip/Program.cs" Line="84" Column="10" />
-      <File FileName="03.MovingTarget/Program.cs" Line="103" Column="1" />
+      <File FileName="02.TheLift/Program.cs" Line="76" Column="1" />
+      <File FileName="02.TheLift-Philip/Program.cs" />
+      <File FileName="03.MovingTarget/Program.cs" Line="67" Column="1" />
+      <File FileName="04.ComputerStore/Program.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="19.ExamPreparation" expanded="True">
-            <Node name="01.GuineaPig" expanded="True" />
-            <Node name="03.MovingTarget">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="19.ExamPreparation">
+            <Node name="04.ComputerStore" selected="True" />
           </Node>
         </State>
       </Pad>

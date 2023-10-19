@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/bin/Debug/net7.0/04.ComputerStore
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/bin/Debug/net7.0/04.ComputerStore.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/bin/Debug/net7.0/04.ComputerStore.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/bin/Debug/net7.0/04.ComputerStore.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/bin/Debug/net7.0/04.ComputerStore.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/refint/04.ComputerStore.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/04.ComputerStore.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/04.ComputerStore/obj/Debug/net7.0/ref/04.ComputerStore.dll
