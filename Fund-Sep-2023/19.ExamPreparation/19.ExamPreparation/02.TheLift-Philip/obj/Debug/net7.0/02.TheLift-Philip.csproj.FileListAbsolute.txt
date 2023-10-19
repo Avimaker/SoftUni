@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/bin/Debug/net7.0/02.TheLift-Philip
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/bin/Debug/net7.0/02.TheLift-Philip.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/bin/Debug/net7.0/02.TheLift-Philip.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/bin/Debug/net7.0/02.TheLift-Philip.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/bin/Debug/net7.0/02.TheLift-Philip.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/refint/02.TheLift-Philip.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/02.TheLift-Philip.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift-Philip/obj/Debug/net7.0/ref/02.TheLift-Philip.dll

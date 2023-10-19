@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/bin/Debug/net7.0/03.MovingTarget
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/bin/Debug/net7.0/03.MovingTarget.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/bin/Debug/net7.0/03.MovingTarget.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/bin/Debug/net7.0/03.MovingTarget.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/bin/Debug/net7.0/03.MovingTarget.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/refint/03.MovingTarget.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/03.MovingTarget.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/03.MovingTarget/obj/Debug/net7.0/ref/03.MovingTarget.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/bin/Debug/net7.0/02.TheLift
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/bin/Debug/net7.0/02.TheLift.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/bin/Debug/net7.0/02.TheLift.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/bin/Debug/net7.0/02.TheLift.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/bin/Debug/net7.0/02.TheLift.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/refint/02.TheLift.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/02.TheLift.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/19.ExamPreparation/19.ExamPreparation/02.TheLift/obj/Debug/net7.0/ref/02.TheLift.dll
