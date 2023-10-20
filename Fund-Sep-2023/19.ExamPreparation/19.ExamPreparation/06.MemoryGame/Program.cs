@@ -2,23 +2,23 @@
 1 1 2 2 3 3 4 4 5 5 
 1 0
 -1 0
-1 0 
-1 0 
-1 0 
+1 0
+1 0
+1 0
+end
+
+a 2 4 a 2 4
+0 3
+0 2
+0 1
+0 1
 end
 
 a 2 4 a 2 4 
-0 3 
+4 0
 0 2
 0 1
-0 1 
-end
-
-a 2 4 a 2 4 
-4 0 
-0 2
 0 1
-0 1 
 end
 
 
@@ -38,54 +38,66 @@ class Program
         int sequenceCheck = cards.Count;
         int middleOfSequence = cards.Count / 2;
         int movesCounter = 0;
-        string moves = default;
+        string input = default;
 
-        while ((moves = Console.ReadLine()) != "end")
+        while ((input = Console.ReadLine()) != "end")
         {
             movesCounter++;
-            string[] playIndex = moves.Split();
+            int[] inputIndexes = input.Split().Select(int.Parse).ToArray();
+            int firstIndex = inputIndexes[0];
+            int secondIndex = inputIndexes[1];
 
             string cheatNumber = $"-{movesCounter}a";
 
-            int moveOne = int.Parse(playIndex[0]);
-            int moveTwo = int.Parse(playIndex[1]);
-
-            if (moveOne == moveTwo || moveOne < 0 || moveOne > cards.Count - 1 || moveTwo < 0 || moveTwo > cards.Count - 1)
+            //cheat check
+            if (firstIndex == secondIndex ||
+                (firstIndex < 0 || firstIndex > cards.Count - 1) ||
+                (secondIndex < 0 || secondIndex > cards.Count - 1))
             {
-                Console.WriteLine("Invalid input! Adding additional elements to the board");//cheat
+                Console.WriteLine("Invalid input! Adding additional elements to the board");
                 cards.Insert(middleOfSequence - 1, cheatNumber);
                 cards.Insert(middleOfSequence - 1, cheatNumber);
             }
 
-            else if (cards[moveOne] == cards[moveTwo])
+            //normal case
+            else
             {
-                Console.WriteLine($"Congrats! You have found matching elements - {cards[moveOne]}!");
-                if (moveOne > moveTwo)
+                //hit two elements
+                if (cards[firstIndex] == cards[secondIndex])
                 {
-                    cards.RemoveAt(moveOne);
-                    cards.RemoveAt(moveTwo);
+                    Console.WriteLine($"Congrats! You have found matching elements - {cards[firstIndex]}!");
+                    if (firstIndex > secondIndex)
+                    {
+                        cards.RemoveAt(firstIndex);
+                        cards.RemoveAt(secondIndex);
+                    }
+                    else
+                    {
+                        cards.RemoveAt(firstIndex);
+                        cards.RemoveAt(secondIndex - 1);
+                    }
                 }
-                else
+                //hit two different ekements
+                else if (cards[firstIndex] != cards[secondIndex])
                 {
-                    cards.RemoveAt(moveTwo);
-                    cards.RemoveAt(moveOne);
+                    Console.WriteLine("Try again!");
                 }
-            }
-            else if (cards[moveOne] != cards[moveTwo])
-            {
-                Console.WriteLine("Try again!");
+
+                // hit all matching elements
+                if (cards.Count == 0)
+                {
+                    Console.WriteLine($"You have won in {movesCounter} turns!");
+                    break;
+                }
             }
 
-            if (cards.Count <= 1)
-            {
-                Console.WriteLine($"You have won in {movesCounter} turns!");
-                return;
-            }
+        }//input end
 
+        if (cards.Count != 0)
+        {
+            Console.WriteLine("Sorry you lose :(");
+            Console.WriteLine(string.Join(" ", cards));
         }
-
-        Console.WriteLine("Sorry you lose :(");
-        Console.WriteLine(string.Join(" ", cards));
     }
 
 }
