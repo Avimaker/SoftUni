@@ -1,5 +1,5 @@
 ﻿/*
-1 1 2 2 3 3 4 4 5 5 
+1 1 2 2 3 3 4 4 5 5
 1 0
 -1 0
 1 0
@@ -22,6 +22,19 @@ a 2 4 a 2 4
 end
 
 
+Пробвайте да дебъгнете с този примерен вход.
+ 
+1 d 5 5 d 1 a a
+-0 -5
+end
+ 
+Изход:
+ 
+Invalid input! Adding additional elements to the board
+Sorry you lose :(
+1 d 5 5 -1a -1a d 1 a a
+
+
 */
 
 
@@ -36,18 +49,19 @@ class Program
             .ToList();
 
         int sequenceCheck = cards.Count;
-        int middleOfSequence = cards.Count / 2;
         int movesCounter = 0;
         string input = default;
 
         while ((input = Console.ReadLine()) != "end")
         {
             movesCounter++;
+            int middleOfSequence = cards.Count / 2;
             int[] inputIndexes = input.Split().Select(int.Parse).ToArray();
             int firstIndex = inputIndexes[0];
             int secondIndex = inputIndexes[1];
 
             string cheatNumber = $"-{movesCounter}a";
+            string[] cheatNumberRange = new string[2] { cheatNumber, cheatNumber };
 
             //cheat check
             if (firstIndex == secondIndex ||
@@ -55,8 +69,7 @@ class Program
                 (secondIndex < 0 || secondIndex > cards.Count - 1))
             {
                 Console.WriteLine("Invalid input! Adding additional elements to the board");
-                cards.Insert(middleOfSequence - 1, cheatNumber);
-                cards.Insert(middleOfSequence - 1, cheatNumber);
+                cards.InsertRange(middleOfSequence, cheatNumberRange);
             }
 
             //normal case
