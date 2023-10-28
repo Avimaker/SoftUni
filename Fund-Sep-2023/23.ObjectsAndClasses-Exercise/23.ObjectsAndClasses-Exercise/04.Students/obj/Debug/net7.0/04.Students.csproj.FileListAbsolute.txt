@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/bin/Debug/net7.0/04.Students
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/bin/Debug/net7.0/04.Students.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/bin/Debug/net7.0/04.Students.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/bin/Debug/net7.0/04.Students.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/bin/Debug/net7.0/04.Students.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/refint/04.Students.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/04.Students.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/04.Students/obj/Debug/net7.0/ref/04.Students.dll

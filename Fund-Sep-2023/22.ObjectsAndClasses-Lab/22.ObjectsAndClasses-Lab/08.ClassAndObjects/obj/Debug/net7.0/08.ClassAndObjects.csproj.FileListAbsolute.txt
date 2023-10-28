@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/bin/Debug/net7.0/08.ClassAndObjects
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/bin/Debug/net7.0/08.ClassAndObjects.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/bin/Debug/net7.0/08.ClassAndObjects.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/bin/Debug/net7.0/08.ClassAndObjects.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/bin/Debug/net7.0/08.ClassAndObjects.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/refint/08.ClassAndObjects.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/08.ClassAndObjects.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/22.ObjectsAndClasses-Lab/22.ObjectsAndClasses-Lab/08.ClassAndObjects/obj/Debug/net7.0/ref/08.ClassAndObjects.dll

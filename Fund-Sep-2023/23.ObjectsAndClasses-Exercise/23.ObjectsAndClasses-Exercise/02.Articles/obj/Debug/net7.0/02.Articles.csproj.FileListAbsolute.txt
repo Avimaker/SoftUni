@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/bin/Debug/net7.0/02.Articles
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/bin/Debug/net7.0/02.Articles.deps.json
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/bin/Debug/net7.0/02.Articles.runtimeconfig.json
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/bin/Debug/net7.0/02.Articles.dll
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/bin/Debug/net7.0/02.Articles.pdb
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.AssemblyInfo.cs
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.dll
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/refint/02.Articles.dll
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.pdb
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/02.Articles.genruntimeconfig.cache
+/Users/avimaker/Projects/23.ObjectsAndClasses-Exercise/02.Articles/obj/Debug/net7.0/ref/02.Articles.dll

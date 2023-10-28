@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/bin/Debug/net7.0/01.Problem1
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/bin/Debug/net7.0/01.Problem1.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/bin/Debug/net7.0/01.Problem1.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/bin/Debug/net7.0/01.Problem1.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/bin/Debug/net7.0/01.Problem1.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/refint/01.Problem1.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/01.Problem1.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/21.RegularMidExam/21.RegularMidExam/01.Problem1/obj/Debug/net7.0/ref/01.Problem1.dll
