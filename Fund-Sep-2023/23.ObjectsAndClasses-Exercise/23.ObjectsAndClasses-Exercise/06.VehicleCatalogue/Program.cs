@@ -10,6 +10,7 @@ Ford
 Man
 Close the Catalogue
 
+
 truck Volvo blue 220
 truck Man red 350
 car Tesla silver 450
@@ -26,6 +27,7 @@ Close the Catalogue
 */
 
 using System.Collections.Generic;
+using System.Linq.Expressions;
 
 namespace _06.VehicleCatalogue;
 
@@ -46,11 +48,17 @@ class Vehicle
 
     public override string ToString()
     {
-        return $"Type: {Type}\n" +
+        return $"Type: {NewType()}\n" +
                $"Model: {Model}\n" +
                $"Color: {Color}\n" +
                $"Horsepower: {Horsepower}";
     }
+
+    public string NewType()
+    {
+        return char.ToUpper(Type[0]) + Type.Substring(1);
+    }
+
 }
 
 class Program
@@ -93,7 +101,7 @@ class Program
             if (indexCheck.Exists(x => x.Type == "car"))
             {
                 var hpCheck = indexCheck.Select(h => h.Horsepower).ToArray();
-                
+
                 carsCount++;
                 carsHpSum += hpCheck[0];
             }
@@ -109,7 +117,6 @@ class Program
 
             if (indexCheck.Exists(x => x.Type == "truck"))
             {
-
                 var hpCheck = indexCheck.Select(hp => hp.Horsepower).ToArray();
 
                 trucksCount++;
@@ -119,7 +126,7 @@ class Program
         double avgTrucksHp = trucksHpSum / trucksCount;
 
         Console.WriteLine($"Cars have average horsepower of: {avgCarsHp:F2}.");
-        Console.WriteLine($"Trucks  have average horsepower of: {avgTrucksHp:F2}.");
+        Console.WriteLine($"Trucks have average horsepower of: {avgTrucksHp:F2}.");
     }
 }
 

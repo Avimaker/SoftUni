@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/bin/Debug/net7.0/07.OrderByAge
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/bin/Debug/net7.0/07.OrderByAge.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/bin/Debug/net7.0/07.OrderByAge.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/bin/Debug/net7.0/07.OrderByAge.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/bin/Debug/net7.0/07.OrderByAge.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/refint/07.OrderByAge.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/07.OrderByAge.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/07.OrderByAge/obj/Debug/net7.0/ref/07.OrderByAge.dll
