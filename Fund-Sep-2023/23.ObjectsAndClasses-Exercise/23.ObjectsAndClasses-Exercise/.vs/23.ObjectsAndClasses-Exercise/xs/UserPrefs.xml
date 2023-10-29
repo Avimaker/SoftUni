@@ -1,15 +1,18 @@
-﻿<Properties StartupConfiguration="{CF7A9D7A-BC62-4106-8417-788A95506664}|Default">
+﻿<Properties StartupConfiguration="{A5199754-CF69-4524-8DB5-01E1383FF8E9}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/02.Articles2.0/Program.cs" relfile="02.Articles2.0/Program.cs" line="41" column="1" />
+      <Breakpoint enabled="false" file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/02.Articles2.0/Program.cs" relfile="02.Articles2.0/Program.cs" line="41" column="1" />
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/23.ObjectsAndClasses-Exercise/23.ObjectsAndClasses-Exercise/05.TeamworkProjects/Program.cs" relfile="05.TeamworkProjects/Program.cs" line="129" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.Articles2.0/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.TeamworkProjects/Program.cs">
     <Files>
       <File FileName="01.AdvertisementMessage/Program.cs" Line="97" Column="1" />
       <File FileName="02.Articles/Program.cs" Line="1" Column="1" />
-      <File FileName="03.Articles2.0/Program.cs" Line="21" Column="6" />
+      <File FileName="03.Articles2.0/Program.cs" Line="56" Column="9" />
+      <File FileName="04.Students/Program.cs" Line="43" Column="28" />
+      <File FileName="05.TeamworkProjects/Program.cs" Line="109" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,8 +20,15 @@
           <Node name="23.ObjectsAndClasses-Exercise" expanded="True">
             <Node name="01.AdvertisementMessage" expanded="True" />
             <Node name="02.Articles" expanded="True" />
-            <Node name="03.Articles2.0" selected="True" />
+            <Node name="03.Articles2.0" expanded="True" />
+            <Node name="04.Students" expanded="True" />
+            <Node name="05.TeamworkProjects" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="23.ObjectsAndClasses-Exercise" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -28,7 +38,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.04.Students PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Articles PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.TeamworkProjects FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.TeamworkProjects PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01.AdvertisementMessage PreferredExecutionTarget="MonoDevelop.Default" />

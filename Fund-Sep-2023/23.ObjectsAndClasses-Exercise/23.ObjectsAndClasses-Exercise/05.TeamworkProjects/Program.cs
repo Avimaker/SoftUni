@@ -36,7 +36,7 @@ class Team
 
     public string GetMembersString()
     {
-        Members = Members.OrderBy(name => name).ToList();
+        Members = Members.OrderBy(teamName => teamName).ToList();
 
         string result = "";
 
@@ -44,8 +44,8 @@ class Team
         {
             result += $"-- {Members[i]}\n";
         }
-        result += $"-- {Members[Members.Count - 1]}";
 
+        result += $"-- {Members[Members.Count - 1]}";
         return result;
     }
 }
@@ -75,7 +75,7 @@ class Program
             if (ifExistTeam)
             {
                 Console.WriteLine($"Team {teamName} was already created!");
-                break;
+                continue;
             }
 
             bool ifExistUser = false;
@@ -83,7 +83,7 @@ class Program
             if (ifExistUser)
             {
                 Console.WriteLine($"{creatorName} cannot create another team!");
-                break;
+                continue;
             }
 
             teams.Add(team);
