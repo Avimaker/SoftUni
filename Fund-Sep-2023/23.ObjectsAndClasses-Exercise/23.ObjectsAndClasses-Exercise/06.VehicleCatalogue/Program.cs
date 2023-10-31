@@ -24,6 +24,10 @@ Man
 Mack
 Close the Catalogue
 
+car Opel green 736
+End
+Close the Catalogue
+
 */
 
 using System.Collections.Generic;
@@ -106,7 +110,14 @@ class Program
                 carsHpSum += hpCheck[0];
             }
         }
-        double avgCarsHp = carsHpSum / carsCount;
+
+        double avgCarsHp = 0;
+        if (carsCount > 0)
+        {
+        avgCarsHp = carsHpSum / carsCount;
+        }
+
+
 
         // trucks horsepower check
         int trucksCount = 0;
@@ -123,7 +134,13 @@ class Program
                 trucksHpSum += hpCheck[0];
             }
         }
-        double avgTrucksHp = trucksHpSum / trucksCount;
+
+        double avgTrucksHp = 0;
+        if (trucksCount > 0)
+        {
+        avgTrucksHp = trucksHpSum / trucksCount;
+        }
+
 
         Console.WriteLine($"Cars have average horsepower of: {avgCarsHp:F2}.");
         Console.WriteLine($"Trucks have average horsepower of: {avgTrucksHp:F2}.");
