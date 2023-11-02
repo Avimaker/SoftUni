@@ -1,6 +1,34 @@
-﻿<Properties StartupConfiguration="{8FE7772A-477B-4D09-A07F-C95A92FE02BE}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.WordSynonyms FirstBuild="True" />
+﻿<Properties StartupConfiguration="{EEDE24C9-8A98-466B-A326-4F5BB41FDA27}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.WordSynonyms PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.CountRealNumbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.OddOccurrences FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.WordFilter/Program.cs">
+    <Files>
+      <File FileName="01.CountRealNumbers/Program.cs" Line="41" Column="10" />
+      <File FileName="02.OddOccurrences/Program.cs" Line="53" Column="14" />
+      <File FileName="03.WordSynonyms/Program.cs" Line="53" Column="64" />
+      <File FileName="04.WordFilter/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="25.AssociativeArrays">
+            <Node name="04.WordFilter">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.WordFilter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
