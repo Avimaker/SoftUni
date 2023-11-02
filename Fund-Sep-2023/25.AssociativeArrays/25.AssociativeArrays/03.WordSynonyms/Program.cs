@@ -1,4 +1,15 @@
-﻿namespace _03.WordSynonyms;
+﻿/*
+3
+cute
+adorable
+cute
+charming
+smart
+clever
+
+ */
+
+namespace _03.WordSynonyms;
 
 class Program
 {
@@ -22,12 +33,12 @@ class Program
                 dictionary[word] += ", " + synonym;
             }
 
+
+        }
             foreach (KeyValuePair<string, string> kvp in dictionary)
             {
                 Console.WriteLine($"{kvp.Key} - {kvp.Value}");
             }
-
-        }
     }
 }
 
