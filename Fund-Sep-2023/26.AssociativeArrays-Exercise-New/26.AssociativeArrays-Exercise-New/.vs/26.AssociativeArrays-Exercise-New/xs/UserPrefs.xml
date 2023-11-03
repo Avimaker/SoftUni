@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{A15E47D8-1C96-488D-BBCA-88C2937439D1}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.AMinerTask FirstBuild="True" />
 </Properties>
