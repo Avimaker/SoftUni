@@ -40,19 +40,19 @@ class Program
         }
 
         ////var 1 за изписване
-        //foreach (KeyValuePair<char, int> kvp in charOccurrences) //kvp вместо item за да свикна
-        //{
-        //    Console.WriteLine($"{kvp.Key} -> {kvp.Value}");
-        //}
+        foreach (KeyValuePair<char, int> kvp in charOccurrences) //kvp вместо item за да свикна
+        {
+            Console.WriteLine($"{kvp.Key} -> {kvp.Value}");
+        }
 
 
         // var 2 за изписване
-        foreach (var occuence in charOccurrences)
-        {
-            char character = occuence.Key;
-            int count = occuence.Value;
-            Console.WriteLine($"{character} -> {count}");
-        }
+        //foreach (var occuence in charOccurrences)
+        //{
+        //    char character = occuence.Key;
+        //    int count = occuence.Value;
+        //    Console.WriteLine($"{character} -> {count}");
+        //}
 
     }
 }
