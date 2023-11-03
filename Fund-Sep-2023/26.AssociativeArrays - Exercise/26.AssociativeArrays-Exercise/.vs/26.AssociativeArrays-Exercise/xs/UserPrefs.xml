@@ -1,19 +1,25 @@
-﻿<Properties StartupConfiguration="{001EF8E1-1E9F-4BD1-AE99-FBA2EA7B34EB}|Default">
+﻿<Properties StartupConfiguration="{A1DB87FA-1F3F-455F-B62C-F57057F0A041}|Default">
   <MonoDevelop.Ide.ItemProperties.02.AMinerTask PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.SoftUniParking/Program.cs">
+    <Files>
+      <File FileName="01.CountCharsInAString/Program.cs" Line="18" Column="26" />
+      <File FileName="02.AMinerTask/Program.cs" Line="41" Column="1" />
+      <File FileName="03.Orders/Program.cs" Line="68" Column="44" />
+      <File FileName="04.SoftUniParking/Program.cs" Line="72" Column="14" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="26.AssociativeArrays-Exercise" expanded="True" />
-        </State>
+        <State name="__root__" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.04.SoftUniParking FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.SoftUniParking FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
