@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/bin/Debug/net7.0/02.AMinerTask
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/bin/Debug/net7.0/02.AMinerTask.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/bin/Debug/net7.0/02.AMinerTask.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/bin/Debug/net7.0/02.AMinerTask.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/bin/Debug/net7.0/02.AMinerTask.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/refint/02.AMinerTask.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/02.AMinerTask.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays - Exercise/26.AssociativeArrays-Exercise/02.AMinerTask/obj/Debug/net7.0/ref/02.AMinerTask.dll
