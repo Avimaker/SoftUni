@@ -9,7 +9,7 @@ unregister Andy
 
 namespace _04.SoftUniParking;
 
-internal class User
+class User
 {
     public User(string userName, string licensePlateNumber)
     {
@@ -27,7 +27,7 @@ internal class User
     }
 }
 
-internal class Program
+class Program
 {
     static void Main()
     {
