@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B1047C39-98E5-4576-A4CF-3BC057986E00}|Default">
+﻿<Properties StartupConfiguration="{1B8E13A6-CBC5-4CB1-BE0D-146B4258B415}|Default">
   <MonoDevelop.Ide.ItemProperties.01.AdvertisementMessage PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -14,14 +14,14 @@
       <File FileName="03.Articles2.0/Program.cs" />
       <File FileName="04.Students/Program.cs" />
       <File FileName="05.TeamworkProjects/Program.cs" />
-      <File FileName="06.VehicleCatalogue/Program.cs" Line="82" Column="69" />
-      <File FileName="07.OrderByAge/Program.cs" Line="59" Column="14" />
+      <File FileName="06.VehicleCatalogue/Program.cs" Line="33" Column="34" />
+      <File FileName="07.OrderByAge/Program.cs" Line="18" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="23.ObjectsAndClasses-Exercise">
-            <Node name="06.VehicleCatalogue" expanded="True" />
+          <Node name="23.ObjectsAndClasses-Exercise" expanded="True">
+            <Node name="07.OrderByAge" expanded="True" />
           </Node>
         </State>
       </Pad>

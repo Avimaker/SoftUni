@@ -13,15 +13,17 @@
       <File FileName="02.AMinerTask/Program.cs" />
       <File FileName="03.Orders/Program.cs" />
       <File FileName="04.SoftUniParking/Program.cs" />
-      <File FileName="05.Courses/Program.cs" Line="50" Column="8" />
-      <File FileName="06.StudentAcademy/Program.cs" />
+      <File FileName="05.Courses/Program.cs" Line="58" Column="1" />
+      <File FileName="06.StudentAcademy/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="26.AssociativeArrays-Exercise-New">
+          <Node name="26.AssociativeArrays-Exercise-New" expanded="True">
             <Node name="01.CountCharsInAStringNew" expanded="True" />
-            <Node name="05.Courses" expanded="True" />
+            <Node name="05.Courses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="06.StudentAcademy" expanded="True" />
           </Node>
         </State>

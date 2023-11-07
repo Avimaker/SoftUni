@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/bin/Debug/net7.0/01.CountCharsInAStringNew
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/bin/Debug/net7.0/01.CountCharsInAStringNew.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/bin/Debug/net7.0/01.CountCharsInAStringNew.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/bin/Debug/net7.0/01.CountCharsInAStringNew.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/bin/Debug/net7.0/01.CountCharsInAStringNew.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/refint/01.CountCharsInAStringNew.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/01.CountCharsInAStringNew.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/26.AssociativeArrays-Exercise-New/26.AssociativeArrays-Exercise-New/01.CountCharsInAStringNew/obj/Debug/net7.0/ref/01.CountCharsInAStringNew.dll
