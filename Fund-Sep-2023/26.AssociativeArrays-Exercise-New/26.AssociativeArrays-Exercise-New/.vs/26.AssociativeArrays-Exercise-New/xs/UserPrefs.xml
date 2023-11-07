@@ -1,8 +1,38 @@
-﻿<Properties StartupConfiguration="{1379BF8D-1972-48FB-A226-746340D4B741}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.Orders FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{CC7A93FA-F5FE-438A-9041-BC805589DA80}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.StudentAcademy PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.04.SoftUniParking FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.05.Courses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.Courses/Program.cs">
+    <Files>
+      <File FileName="01.CountCharsInAStringNew/Program.cs" />
+      <File FileName="02.AMinerTask/Program.cs" />
+      <File FileName="03.Orders/Program.cs" />
+      <File FileName="04.SoftUniParking/Program.cs" />
+      <File FileName="05.Courses/Program.cs" Line="50" Column="8" />
+      <File FileName="06.StudentAcademy/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="26.AssociativeArrays-Exercise-New">
+            <Node name="01.CountCharsInAStringNew" expanded="True" />
+            <Node name="05.Courses" expanded="True" />
+            <Node name="06.StudentAcademy" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Orders FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.AMinerTask PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.Courses FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
