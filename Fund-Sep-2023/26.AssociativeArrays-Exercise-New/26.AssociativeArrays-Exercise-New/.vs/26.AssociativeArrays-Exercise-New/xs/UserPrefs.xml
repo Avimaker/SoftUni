@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{CC7A93FA-F5FE-438A-9041-BC805589DA80}|Default">
-  <MonoDevelop.Ide.ItemProperties.06.StudentAcademy PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.07.CompanyUsers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.AMinerTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.StudentAcademy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.04.SoftUniParking FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.05.Courses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="05.Courses/Program.cs">
     <Files>
       <File FileName="01.CountCharsInAStringNew/Program.cs" />
@@ -33,8 +32,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.05.Courses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.Orders FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.01.CountCharsInAStringNew PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.AMinerTask PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
