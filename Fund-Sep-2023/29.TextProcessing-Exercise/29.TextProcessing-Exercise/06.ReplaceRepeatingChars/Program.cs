@@ -6,8 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        //string input = Console.ReadLine();
-        string input = "aaaaabbbbbcdddeeeedssaa";
+        string input = Console.ReadLine();
+        //string input = "aaaaabbbbbcdddeeeedssaa";
 
         StringBuilder result = new StringBuilder();
 

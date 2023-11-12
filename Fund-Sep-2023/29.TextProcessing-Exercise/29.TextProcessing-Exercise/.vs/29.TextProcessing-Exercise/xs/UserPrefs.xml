@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{A5EE7292-2E11-46E1-A451-708489054246}|Default">
+﻿<Properties StartupConfiguration="{281615A5-D7C6-4FAC-A7AE-3678A1F546EF}|Default">
   <MonoDevelop.Ide.ItemProperties.03.ExtractFile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -30,6 +30,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.CharacterMultiplier PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.06.ReplaceRepeatingChars FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.06.ReplaceRepeatingChars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.StringExplosion FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
