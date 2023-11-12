@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/bin/Debug/net7.0/01.ValidUsernames
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/bin/Debug/net7.0/01.ValidUsernames.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/bin/Debug/net7.0/01.ValidUsernames.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/bin/Debug/net7.0/01.ValidUsernames.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/bin/Debug/net7.0/01.ValidUsernames.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/refint/01.ValidUsernames.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/01.ValidUsernames.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/01.ValidUsernames/obj/Debug/net7.0/ref/01.ValidUsernames.dll
