@@ -1,0 +1,5 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/03.ExtractFile/obj/Debug/netcoreapp3.1/03.ExtractFile.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/03.ExtractFile/obj/Debug/netcoreapp3.1/03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/03.ExtractFile/obj/Debug/netcoreapp3.1/03.ExtractFile.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/03.ExtractFile/obj/Debug/netcoreapp3.1/03.ExtractFile.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/03.ExtractFile/obj/Debug/netcoreapp3.1/03.ExtractFile.csproj.CoreCompileInputs.cache

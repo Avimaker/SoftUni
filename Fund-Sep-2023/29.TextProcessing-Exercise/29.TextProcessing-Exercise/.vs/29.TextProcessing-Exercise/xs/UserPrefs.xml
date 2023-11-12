@@ -1,20 +1,25 @@
-﻿<Properties StartupConfiguration="{EE6A5EA4-B724-4DC5-85DA-A13B0C87B7FF}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.ExtractFile FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{E9FC6BFA-6A00-477C-9336-913D5D638172}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.ExtractFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.CaesarCipher FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01.ValidUsernames PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="01.ValidUsernames/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.ExtractFile/Program.cs">
     <Files>
-      <File FileName="01.ValidUsernames/Program.cs" Line="15" Column="1" />
+      <File FileName="01.ValidUsernames/Program.cs" Line="30" Column="10" />
+      <File FileName="02.CharacterMultiplier/Program.cs" Line="30" Column="12" />
+      <File FileName="03.ExtractFile/Program.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="29.TextProcessing-Exercise" expanded="True">
-            <Node name="01.ValidUsernames">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="29.TextProcessing-Exercise">
+            <Node name="01.ValidUsernames" expanded="True" />
+            <Node name="02.CharacterMultiplier" expanded="True" />
+            <Node name="03.ExtractFile" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
