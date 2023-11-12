@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{E9FC6BFA-6A00-477C-9336-913D5D638172}|Default">
+﻿<Properties StartupConfiguration="{A5EE7292-2E11-46E1-A451-708489054246}|Default">
   <MonoDevelop.Ide.ItemProperties.03.ExtractFile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.04.CaesarCipher FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.CaesarCipher PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.05.MultiplyBigNumber FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.ValidUsernames PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="03.ExtractFile/Program.cs">
     <Files>
@@ -29,5 +30,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.CharacterMultiplier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.ReplaceRepeatingChars FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

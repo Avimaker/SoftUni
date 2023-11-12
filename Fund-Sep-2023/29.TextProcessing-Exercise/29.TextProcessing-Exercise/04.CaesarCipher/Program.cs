@@ -22,6 +22,7 @@ class Program
             //char passChar = (char)tempChar;
 
             pass.Append(passChar);
+            //pass.Append((char)(originalChar + 3));
 
         }
 
