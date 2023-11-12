@@ -21,7 +21,7 @@ class Program
         int extensionIndex = filePath.LastIndexOf('.');
 
 
-        fileName = filePath.Substring(lastSeparatorIndex + 1, extensionIndex - lastSeparatorIndex );
+        fileName = filePath.Substring(lastSeparatorIndex + 1, extensionIndex - lastSeparatorIndex - 1);
 
 
         Console.WriteLine($"File name: {fileName}");

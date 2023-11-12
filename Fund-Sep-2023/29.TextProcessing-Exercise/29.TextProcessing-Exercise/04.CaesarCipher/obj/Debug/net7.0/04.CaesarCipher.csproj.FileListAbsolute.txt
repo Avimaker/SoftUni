@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/bin/Debug/net7.0/04.CaesarCipher
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/bin/Debug/net7.0/04.CaesarCipher.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/bin/Debug/net7.0/04.CaesarCipher.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/bin/Debug/net7.0/04.CaesarCipher.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/bin/Debug/net7.0/04.CaesarCipher.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/refint/04.CaesarCipher.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/04.CaesarCipher.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/obj/Debug/net7.0/ref/04.CaesarCipher.dll
