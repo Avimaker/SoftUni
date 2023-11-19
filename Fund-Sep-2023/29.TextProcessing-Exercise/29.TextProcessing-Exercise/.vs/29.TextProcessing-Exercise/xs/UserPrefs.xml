@@ -1,26 +1,31 @@
-﻿<Properties StartupConfiguration="{281615A5-D7C6-4FAC-A7AE-3678A1F546EF}|Default">
+﻿<Properties StartupConfiguration="{F0755F7A-4C23-4B09-BE72-97F8B631DBA4}|Default">
   <MonoDevelop.Ide.ItemProperties.03.ExtractFile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/04.CaesarCipher/Program.cs" relfile="04.CaesarCipher/Program.cs" line="17" column="1" />
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/29.TextProcessing-Exercise/29.TextProcessing-Exercise/06.ReplaceRepeatingChars/Program.cs" relfile="06.ReplaceRepeatingChars/Program.cs" line="16" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.04.CaesarCipher PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.05.MultiplyBigNumber FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.ValidUsernames PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.ExtractFile/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.StringExplosion/Program.cs">
     <Files>
       <File FileName="01.ValidUsernames/Program.cs" Line="30" Column="10" />
       <File FileName="02.CharacterMultiplier/Program.cs" Line="30" Column="12" />
-      <File FileName="03.ExtractFile/Program.cs" Line="21" Column="1" />
+      <File FileName="03.ExtractFile/Program.cs" Line="21" Column="20" />
+      <File FileName="04.CaesarCipher/Program.cs" Line="22" Column="44" />
+      <File FileName="05.MultiplyBigNumber/Program.cs" Line="23" Column="1" />
+      <File FileName="06.ReplaceRepeatingChars/Program.cs" Line="23" Column="1" />
+      <File FileName="07.StringExplosion/Program.cs" Line="23" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="29.TextProcessing-Exercise">
-            <Node name="01.ValidUsernames" expanded="True" />
-            <Node name="02.CharacterMultiplier" expanded="True" />
-            <Node name="03.ExtractFile" expanded="True" selected="True" />
+          <Node name="29.TextProcessing-Exercise" expanded="True">
+            <Node name="07.StringExplosion" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -31,6 +36,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.CharacterMultiplier PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.ReplaceRepeatingChars PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.07.StringExplosion FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.StringExplosion PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
