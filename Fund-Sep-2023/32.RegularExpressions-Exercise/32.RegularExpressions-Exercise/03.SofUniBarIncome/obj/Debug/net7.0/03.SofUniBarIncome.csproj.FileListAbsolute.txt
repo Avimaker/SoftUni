@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/bin/Debug/net7.0/03.SofUniBarIncome
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/bin/Debug/net7.0/03.SofUniBarIncome.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/bin/Debug/net7.0/03.SofUniBarIncome.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/bin/Debug/net7.0/03.SofUniBarIncome.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/bin/Debug/net7.0/03.SofUniBarIncome.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/refint/03.SofUniBarIncome.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/03.SofUniBarIncome.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/03.SofUniBarIncome/obj/Debug/net7.0/ref/03.SofUniBarIncome.dll

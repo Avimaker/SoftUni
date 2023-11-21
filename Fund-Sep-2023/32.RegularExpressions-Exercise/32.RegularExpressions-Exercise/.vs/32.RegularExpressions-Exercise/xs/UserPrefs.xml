@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{3F28D11F-DC60-4477-B579-B3CAB3B8E206}|Default">
+﻿<Properties StartupConfiguration="{453DD48C-7A67-426A-9606-DA837861AF68}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.SofUniBarIncome FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.Furniture PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.Race FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.Race PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
