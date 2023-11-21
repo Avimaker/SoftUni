@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/bin/Debug/net7.0/02.Race
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/bin/Debug/net7.0/02.Race.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/bin/Debug/net7.0/02.Race.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/bin/Debug/net7.0/02.Race.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/bin/Debug/net7.0/02.Race.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/refint/02.Race.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/02.Race.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/32.RegularExpressions-Exercise/32.RegularExpressions-Exercise/02.Race/obj/Debug/net7.0/ref/02.Race.dll
