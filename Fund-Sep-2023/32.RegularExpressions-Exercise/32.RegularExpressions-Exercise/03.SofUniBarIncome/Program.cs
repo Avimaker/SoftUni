@@ -11,7 +11,7 @@ end of shift
 end of shift
 
 
-%(?<Name>[A-Z][a-z]+)%<(?<Product>[A-z]+)>\|(?<Count>\d+)\|(?<Price>\d+\.\d+)\$|(\d\d)\$
+(\%(?<Name>[A-Z][a-z]+)\%)([^|$%.]*\<(?<Product>\w+)\>[^|$%.]*)(\|(?<Count>\d+)\|[^|$%.]*?)((?<Price>\d+(?:\.\d+)?)\$)
  
 */
 

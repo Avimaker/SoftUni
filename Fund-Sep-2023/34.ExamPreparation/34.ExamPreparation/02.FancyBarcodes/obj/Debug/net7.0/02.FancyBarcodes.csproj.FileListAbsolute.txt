@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/bin/Debug/net7.0/02.FancyBarcodes
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/bin/Debug/net7.0/02.FancyBarcodes.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/bin/Debug/net7.0/02.FancyBarcodes.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/bin/Debug/net7.0/02.FancyBarcodes.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/bin/Debug/net7.0/02.FancyBarcodes.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/refint/02.FancyBarcodes.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/02.FancyBarcodes.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/02.FancyBarcodes/obj/Debug/net7.0/ref/02.FancyBarcodes.dll

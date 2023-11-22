@@ -1,19 +1,27 @@
 ﻿<Properties StartupConfiguration="{FD742220-26EA-4BFB-ABE0-FEDE455F5D67}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.Furniture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Race PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.03.SofUniBarIncome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="03.SofUniBarIncome/Program.cs">
     <Files>
-      <File FileName="01.Furniture/Program.cs" Line="50" Column="43" />
-      <File FileName="02.Race/Program.cs" Line="17" Column="12" />
-      <File FileName="03.SofUniBarIncome/Program.cs" Line="24" Column="2" />
+      <File FileName="01.Furniture/Program.cs" />
+      <File FileName="02.Race/Program.cs" />
+      <File FileName="03.SofUniBarIncome/Program.cs" Line="61" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="32.RegularExpressions-Exercise" expanded="True">
+            <Node name="01.Furniture" expanded="True" />
+            <Node name="03.SofUniBarIncome" expanded="True" />
+          </Node>
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
@@ -23,7 +31,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01.Furniture PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.Race PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
