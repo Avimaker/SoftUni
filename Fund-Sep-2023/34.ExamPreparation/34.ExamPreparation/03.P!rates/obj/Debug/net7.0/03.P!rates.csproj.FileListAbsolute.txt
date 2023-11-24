@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/bin/Debug/net7.0/03.P!rates
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/bin/Debug/net7.0/03.P!rates.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/bin/Debug/net7.0/03.P!rates.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/bin/Debug/net7.0/03.P!rates.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/bin/Debug/net7.0/03.P!rates.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/refint/03.P!rates.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/03.P!rates.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/obj/Debug/net7.0/ref/03.P!rates.dll

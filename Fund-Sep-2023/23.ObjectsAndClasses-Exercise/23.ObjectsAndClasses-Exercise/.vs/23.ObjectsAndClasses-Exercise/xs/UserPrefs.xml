@@ -1,27 +1,39 @@
 ﻿<Properties StartupConfiguration="{1B8E13A6-CBC5-4CB1-BE0D-146B4258B415}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.AdvertisementMessage PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.04.Students PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.VehicleCatalogue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.OrderByAge PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.TeamworkProjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.AdvertisementMessage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Articles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="07.OrderByAge/Program.cs">
     <Files>
       <File FileName="01.AdvertisementMessage/Program.cs" />
-      <File FileName="02.Articles/Program.cs" />
-      <File FileName="03.Articles2.0/Program.cs" />
-      <File FileName="04.Students/Program.cs" />
-      <File FileName="05.TeamworkProjects/Program.cs" />
-      <File FileName="06.VehicleCatalogue/Program.cs" Line="33" Column="34" />
-      <File FileName="07.OrderByAge/Program.cs" Line="18" Column="25" />
+      <File FileName="02.Articles/Program.cs" Line="94" Column="2" />
+      <File FileName="03.Articles2.0/Program.cs" Line="1" Column="1" />
+      <File FileName="04.Students/Program.cs" Line="1" Column="1" />
+      <File FileName="05.TeamworkProjects/Program.cs" Line="1" Column="1" />
+      <File FileName="06.VehicleCatalogue/Program.cs" Line="1" Column="1" />
+      <File FileName="07.OrderByAge/Program.cs" Line="48" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="23.ObjectsAndClasses-Exercise" expanded="True">
-            <Node name="07.OrderByAge" expanded="True" />
+          <Node name="23.ObjectsAndClasses-Exercise">
+            <Node name="01.AdvertisementMessage" expanded="True" />
+            <Node name="02.Articles" expanded="True" />
+            <Node name="03.Articles2.0" expanded="True" />
+            <Node name="04.Students" expanded="True" />
+            <Node name="05.TeamworkProjects" expanded="True" />
+            <Node name="06.VehicleCatalogue" expanded="True" />
+            <Node name="07.OrderByAge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -30,8 +42,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.04.Students PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.07.OrderByAge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.Articles PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

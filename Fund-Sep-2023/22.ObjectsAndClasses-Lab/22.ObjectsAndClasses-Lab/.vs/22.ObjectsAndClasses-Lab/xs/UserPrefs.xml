@@ -2,14 +2,17 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.06.StoreBoxes FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.07.VehicleCatalogue FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.04.Students2.0 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.BigFactorial FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.04.Students FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.08.ClassAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.Songs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.Students2.0 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.RandomizeWords FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.VehicleCatalogue FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.StoreBoxes FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="08.ClassAndObjects/Program.cs">
     <Files>
       <File FileName="01.RandomizeWords/Program.cs" Line="15" Column="1" />
@@ -19,13 +22,19 @@
       <File FileName="04.Students2.0/Program.cs" Line="1" Column="1" />
       <File FileName="06.StoreBoxes/Program.cs" Line="1" Column="1" />
       <File FileName="07.VehicleCatalogue/Program.cs" Line="1" Column="1" />
-      <File FileName="08.ClassAndObjects/Program.cs" Line="66" Column="1" />
+      <File FileName="08.ClassAndObjects/Program.cs" Line="93" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="22.ObjectsAndClasses-Lab" expanded="True">
-            <Node name="08.ClassAndObjects">
+          <Node name="22.ObjectsAndClasses-Lab">
+            <Node name="02.BigFactorial" expanded="True" />
+            <Node name="03.Songs" expanded="True" />
+            <Node name="04.Students" expanded="True" />
+            <Node name="04.Students2.0" expanded="True" />
+            <Node name="06.StoreBoxes" expanded="True" />
+            <Node name="07.VehicleCatalogue" expanded="True" />
+            <Node name="08.ClassAndObjects" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -36,7 +45,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.RandomizeWords PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.02.BigFactorial FirstBuild="True" />
 </Properties>
