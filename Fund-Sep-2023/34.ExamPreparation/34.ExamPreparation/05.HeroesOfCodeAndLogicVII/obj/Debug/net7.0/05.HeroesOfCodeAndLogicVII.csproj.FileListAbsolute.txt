@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/bin/Debug/net7.0/05.HeroesOfCodeAndLogicVII
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/bin/Debug/net7.0/05.HeroesOfCodeAndLogicVII.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/bin/Debug/net7.0/05.HeroesOfCodeAndLogicVII.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/bin/Debug/net7.0/05.HeroesOfCodeAndLogicVII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/bin/Debug/net7.0/05.HeroesOfCodeAndLogicVII.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/refint/05.HeroesOfCodeAndLogicVII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/05.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/05.HeroesOfCodeAndLogicVII/obj/Debug/net7.0/ref/05.HeroesOfCodeAndLogicVII.dll
