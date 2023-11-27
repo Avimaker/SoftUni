@@ -1,19 +1,16 @@
-﻿<Properties StartupConfiguration="{326635D7-2517-46CB-8DF5-B1DB864F6B99}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.ActivationKeys/Program.cs">
+﻿<Properties StartupConfiguration="{070BD663-B5AF-44A1-B8B1-2D9805A01F22}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.P!rates/Program.cs">
     <Files>
-      <File FileName="01.SecretChat/Program.cs" />
-      <File FileName="02.FancyBarcodes/Program.cs" />
-      <File FileName="03.P!rates/Program.cs" />
-      <File FileName="04.ActivationKeys/Program.cs" Line="19" Column="3" />
+      <File FileName="01.SecretChat/Program.cs" Line="1" Column="1" />
+      <File FileName="02.FancyBarcodes/Program.cs" Line="1" Column="1" />
+      <File FileName="03.P!rates/Program.cs" Line="72" Column="6" />
+      <File FileName="04.ActivationKeys/Program.cs" Line="88" Column="18" />
+      <File FileName="05.EmojiDetector/Program.cs" Line="9" Column="1" />
+      <File FileName="05.HeroesOfCodeAndLogicVII/Program.cs" Line="65" Column="56" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="34.ExamPreparation" expanded="True">
-            <Node name="01.SecretChat" expanded="True" />
-            <Node name="04.ActivationKeys" expanded="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
@@ -24,10 +21,14 @@
   <MonoDevelop.Ide.ItemProperties.02.FancyBarcodes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.ActivationKeys PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.05.HeroesOfCodeAndLogicVII FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.HeroesOfCodeAndLogicVII PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.SecretChat FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.EmojiDetector FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/03.P!rates/Program.cs" relfile="03.P!rates/Program.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

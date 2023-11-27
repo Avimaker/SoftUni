@@ -22,6 +22,8 @@ End
 
 */
 
+// with list not dictionarry
+
 namespace _05.HeroesOfCodeAndLogicVII;
 
 class Hero
