@@ -1,4 +1,21 @@
-﻿namespace _01.SecretChat;
+﻿/*
+heVVodar!gniV
+ChangeAll:|:V:|:l
+Reverse:|:!gnil
+InsertSpace:|:5
+Reveal
+
+Hiware?uiy
+ChangeAll:|:i:|:o
+Reverse:|:?uoy
+Reverse:|:jd
+InsertSpace:|:3
+InsertSpace:|:7
+Reveal
+ 
+*/
+
+namespace _01.SecretChat;
 
 class Program
 {

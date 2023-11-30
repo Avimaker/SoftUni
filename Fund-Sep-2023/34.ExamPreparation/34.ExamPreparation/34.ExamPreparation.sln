@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.EmojiDetector", "05.Emoj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HeroesOfCodeAndLogicVII", "05.HeroesOfCodeAndLogicVII\05.HeroesOfCodeAndLogicVII.csproj", "{808D4D33-7692-4145-A6DB-8D0A41D3B115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Password Reset", "06.Password Reset\06.Password Reset.csproj", "{4BFBFB59-7423-4500-880A-7535915A6571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MirrorWords", "07.MirrorWords\07.MirrorWords.csproj", "{86FC95AF-906C-4494-A790-3487C73923D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{808D4D33-7692-4145-A6DB-8D0A41D3B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808D4D33-7692-4145-A6DB-8D0A41D3B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808D4D33-7692-4145-A6DB-8D0A41D3B115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFBFB59-7423-4500-880A-7535915A6571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFBFB59-7423-4500-880A-7535915A6571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFBFB59-7423-4500-880A-7535915A6571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFBFB59-7423-4500-880A-7535915A6571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FC95AF-906C-4494-A790-3487C73923D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FC95AF-906C-4494-A790-3487C73923D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FC95AF-906C-4494-A790-3487C73923D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FC95AF-906C-4494-A790-3487C73923D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
