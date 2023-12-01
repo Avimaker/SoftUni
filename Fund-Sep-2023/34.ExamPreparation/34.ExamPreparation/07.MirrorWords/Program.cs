@@ -36,6 +36,14 @@ class Pair
 
 class Program
 {
+    public static string ReversedMirror(string mirror)
+    {
+        char[] reversedMirrorChar = mirror.ToCharArray();
+        Array.Reverse(reversedMirrorChar);
+        string reversedMirror = new string(reversedMirrorChar);
+        return reversedMirror;
+    }
+
     static void Main(string[] args)
     {
 
@@ -51,17 +59,12 @@ class Program
             string word = match.Groups["word"].Value;
             string mirror = match.Groups["mirror"].Value;
 
-            char[] reversedMirrorChar = mirror.ToCharArray();
-            Array.Reverse(reversedMirrorChar);
-            string reversedMirror = new string(reversedMirrorChar);
-
-            if (word == reversedMirror)
+            if (word == ReversedMirror(mirror))
             {
                 Pair currentPair = new Pair(word, mirror);
                 binded.Add(currentPair);
             }
         }
-
 
         if (matches.Count == 0)
         {

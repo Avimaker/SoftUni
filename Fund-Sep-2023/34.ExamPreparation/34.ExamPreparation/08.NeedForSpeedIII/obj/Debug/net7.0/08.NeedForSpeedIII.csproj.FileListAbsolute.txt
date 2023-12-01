@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/bin/Debug/net7.0/08.NeedForSpeedIII
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/bin/Debug/net7.0/08.NeedForSpeedIII.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/bin/Debug/net7.0/08.NeedForSpeedIII.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/bin/Debug/net7.0/08.NeedForSpeedIII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/bin/Debug/net7.0/08.NeedForSpeedIII.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/refint/08.NeedForSpeedIII.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/08.NeedForSpeedIII.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/08.NeedForSpeedIII/obj/Debug/net7.0/ref/08.NeedForSpeedIII.dll
