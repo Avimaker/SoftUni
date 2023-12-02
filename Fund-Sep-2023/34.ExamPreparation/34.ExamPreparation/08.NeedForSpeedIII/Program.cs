@@ -71,20 +71,24 @@ class Program
             {
                 case "Drive":
 
+
                     string name = arguments[1];
                     int distance = int.Parse(arguments[2]);
                     int fuel = int.Parse(arguments[3]);
 
-                    if (cars[name].Fuel < fuel)
+                    Car car = cars[name]; // така е по лесно спрямо по-долу както съм писал
+
+                    if (car.Fuel < fuel)
                     {
                         Console.WriteLine("Not enough fuel to make that ride");
                     }
                     else
                     {
-                        Console.WriteLine($"{name} driven for {distance} kilometers. {fuel} liters of fuel consumed.");
-                        cars[name].Fuel -= fuel;
+                        Console.WriteLine($"{car.Name} driven for {distance} kilometers. {fuel} liters of fuel consumed.");
+                        car.Fuel -= fuel;
+                        car.Milage += distance;
                     }
-                    if (cars[name].Milage >= 100_000)
+                    if (car.Milage >= 100_000)
                     {
                         Console.WriteLine($"Time to sell the {name}!");
                         cars.Remove(name);
@@ -116,6 +120,21 @@ class Program
                     break;
 
                 case "Revert":
+
+                    name = arguments[1];
+                    distance = int.Parse(arguments[2]);
+
+                    cars[name].Milage -= distance;
+
+                    if (cars[name].Milage < 10_000)
+                    {
+                        cars[name].Milage = 10_000;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{cars[name].Name} mileage decreased by {distance} kilometers");
+
+                    }
 
                     break;
             }

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/bin/Debug/net7.0/09.WorldTour
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/bin/Debug/net7.0/09.WorldTour.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/bin/Debug/net7.0/09.WorldTour.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/bin/Debug/net7.0/09.WorldTour.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/bin/Debug/net7.0/09.WorldTour.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/refint/09.WorldTour.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/09.WorldTour.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/09.WorldTour/obj/Debug/net7.0/ref/09.WorldTour.dll
