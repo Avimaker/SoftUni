@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{E6F576B5-0967-4E6E-8CFF-D518EA102890}|Default">
+﻿<Properties StartupConfiguration="{7A116A48-330C-4214-829C-F6AA446EB863}|Default">
   <MonoDevelop.Ide.ItemProperties.05.EmojiDetector FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.04.ActivationKeys PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.06.Password_220Reset PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.08.NeedForSpeedIII PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.10.DestinationMapper FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.FancyBarcodes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.P_221rates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.SecretChat FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
@@ -37,9 +38,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.11.PlantDiscovery FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.07.MirrorWords PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.05.HeroesOfCodeAndLogicVII PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.WorldTour FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.WorldTour PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

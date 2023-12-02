@@ -46,7 +46,7 @@ class Program
                 int startIndex = int.Parse(arguments[1]);
                 int endIndex = int.Parse(arguments[2]);
                 int indexCheck = inputRoute.Length;
-                int removeLength = endIndex - startIndex + 1;
+                int removeLength = endIndex - startIndex + 1; // така намирам дължината за махане, тук са ми дали полсения индекс да е включен и затова има и плюс 1
 
                 if (indexCheck > endIndex)
                 {

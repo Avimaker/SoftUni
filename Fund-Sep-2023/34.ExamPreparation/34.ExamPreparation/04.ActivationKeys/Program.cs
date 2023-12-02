@@ -34,7 +34,7 @@ class Program
             Console.WriteLine("Substring not found!");
         }
     }
-
+    // това ми е важно по стринговете, как се взима дължина за махане и последен
     static void Upper(int startIndex, int endIndex)
     {
         string prefix = activationKey.Substring(0, startIndex);

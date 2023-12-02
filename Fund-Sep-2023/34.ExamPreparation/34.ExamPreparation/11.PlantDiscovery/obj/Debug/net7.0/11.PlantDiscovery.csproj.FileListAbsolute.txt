@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/bin/Debug/net7.0/11.PlantDiscovery
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/bin/Debug/net7.0/11.PlantDiscovery.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/bin/Debug/net7.0/11.PlantDiscovery.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/bin/Debug/net7.0/11.PlantDiscovery.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/bin/Debug/net7.0/11.PlantDiscovery.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/refint/11.PlantDiscovery.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/11.PlantDiscovery.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/11.PlantDiscovery/obj/Debug/net7.0/ref/11.PlantDiscovery.dll
