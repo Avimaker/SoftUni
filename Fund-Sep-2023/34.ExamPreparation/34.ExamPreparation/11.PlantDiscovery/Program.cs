@@ -39,8 +39,6 @@ class Plant
     public string Name { get; set; }
     public int Rarity { get; set; }
     public List<double> Rate { get; set; }
-
-
 }
 
 
@@ -93,7 +91,6 @@ class Program
                 string name = arguments[1];
                 double rating = double.Parse(arguments[3]);
                 plants[name].Rate.Add(rating);
-
             }
 
             else if (actionCommand == "Update")
@@ -102,12 +99,12 @@ class Program
                 int rearity = int.Parse(arguments[3]);
                 plants[name].Rarity = rearity;
             }
+
             else if (actionCommand == "Reset")
             {
                 string name = arguments[1];
                 plants[name].Rate = new List<double>();
             }
-
         }
 
         Console.WriteLine("Plants for the exhibition:");
@@ -119,11 +116,12 @@ class Program
 
         foreach (var plant in plants)
         {
-            double plantAverage = plant.Value.Rate.Any() ? plant.Value.Rate.Average() : 0.0;
+            double plantAverage = plant.Value.Rate.Any()
+                ? plant.Value.Rate.Average()
+                : 0.0;
 
             Console.WriteLine($"- {plant.Key}; Rarity: {plant.Value.Rarity}; Rating: {plantAverage:f2}");
         }
-
 
     }
 }

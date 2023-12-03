@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/bin/Debug/net7.0/21.Zadacha01
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/bin/Debug/net7.0/21.Zadacha01.deps.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/bin/Debug/net7.0/21.Zadacha01.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/bin/Debug/net7.0/21.Zadacha01.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/bin/Debug/net7.0/21.Zadacha01.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/refint/21.Zadacha01.dll
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.pdb
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/21.Zadacha01.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Fund-Sep-2023/34.ExamPreparation/34.ExamPreparation/21.Zadacha01/obj/Debug/net7.0/ref/21.Zadacha01.dll
