@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/bin/Debug/net7.0/04.FastFood
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/bin/Debug/net7.0/04.FastFood.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/bin/Debug/net7.0/04.FastFood.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/bin/Debug/net7.0/04.FastFood.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/bin/Debug/net7.0/04.FastFood.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/refint/04.FastFood.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/04.FastFood.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/04.FastFood/obj/Debug/net7.0/ref/04.FastFood.dll

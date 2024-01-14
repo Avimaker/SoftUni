@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/bin/Debug/net7.0/02.BasicQueueOperations
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/bin/Debug/net7.0/02.BasicQueueOperations.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/bin/Debug/net7.0/02.BasicQueueOperations.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/bin/Debug/net7.0/02.BasicQueueOperations.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/bin/Debug/net7.0/02.BasicQueueOperations.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/refint/02.BasicQueueOperations.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/02.BasicQueueOperations.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/02.BasicQueueOperations/obj/Debug/net7.0/ref/02.BasicQueueOperations.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/bin/Debug/net7.0/05.FashionBoutique
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/bin/Debug/net7.0/05.FashionBoutique.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/bin/Debug/net7.0/05.FashionBoutique.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/bin/Debug/net7.0/05.FashionBoutique.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/bin/Debug/net7.0/05.FashionBoutique.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/refint/05.FashionBoutique.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/05.FashionBoutique.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/04.StacksAndQueues-Exercise/05.FashionBoutique/obj/Debug/net7.0/ref/05.FashionBoutique.dll

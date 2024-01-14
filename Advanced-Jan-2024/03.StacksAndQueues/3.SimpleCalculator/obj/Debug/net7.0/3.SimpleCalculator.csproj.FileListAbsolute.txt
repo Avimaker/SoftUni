@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/bin/Debug/net7.0/3.SimpleCalculator
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/bin/Debug/net7.0/3.SimpleCalculator.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/bin/Debug/net7.0/3.SimpleCalculator.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/bin/Debug/net7.0/3.SimpleCalculator.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/bin/Debug/net7.0/3.SimpleCalculator.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/refint/3.SimpleCalculator.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/3.SimpleCalculator.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/3.SimpleCalculator/obj/Debug/net7.0/ref/3.SimpleCalculator.dll

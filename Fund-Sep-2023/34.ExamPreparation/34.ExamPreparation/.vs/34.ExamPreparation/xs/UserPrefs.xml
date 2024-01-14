@@ -1,44 +1,38 @@
-﻿<Properties StartupConfiguration="{E1AD9553-6574-4EDD-8248-140249A805D3}|Default">
-  <MonoDevelop.Ide.ItemProperties.23.Zadacha03 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.06.Password_220Reset PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.08.NeedForSpeedIII PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.07.MirrorWords PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{353D1C88-4458-4D80-9BA1-073BAC2D279F}|Default">
   <MonoDevelop.Ide.ItemProperties.05.HeroesOfCodeAndLogicVII PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.01.SecretChat PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.10.DestinationMapper FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.05.EmojiDetector FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.21.Zadacha01 FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.22.Zadacha02 FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.11.PlantDiscovery PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.ActivationKeys PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.FancyBarcodes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.WorldTour PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.P_221rates PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="11.PlantDiscovery/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.09.WorldTour PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.23.Zadacha03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="21.Zadacha01/Program.cs">
     <Files>
-      <File FileName="01.SecretChat/Program.cs" Line="1" Column="1" />
-      <File FileName="02.FancyBarcodes/Program.cs" Line="1" Column="1" />
-      <File FileName="03.P!rates/Program.cs" Line="1" Column="1" />
-      <File FileName="04.ActivationKeys/Program.cs" Line="37" Column="81" />
+      <File FileName="01.SecretChat/Program.cs" />
+      <File FileName="02.FancyBarcodes/Program.cs" />
+      <File FileName="03.P!rates/Program.cs" />
+      <File FileName="04.ActivationKeys/Program.cs" />
       <File FileName="05.EmojiDetector/Program.cs" />
       <File FileName="05.HeroesOfCodeAndLogicVII/Program.cs" />
       <File FileName="06.Password Reset/Program.cs" />
       <File FileName="07.MirrorWords/Program.cs" />
-      <File FileName="08.NeedForSpeedIII/Program.cs" Line="76" Column="36" />
-      <File FileName="09.WorldTour/Program.cs" Line="51" Column="43" />
-      <File FileName="10.DestinationMapper/Program.cs" Line="1" Column="1" />
-      <File FileName="11.PlantDiscovery/Program.cs" Line="126" Column="6" />
+      <File FileName="08.NeedForSpeedIII/Program.cs" />
+      <File FileName="09.WorldTour/Program.cs" />
+      <File FileName="10.DestinationMapper/Program.cs" />
+      <File FileName="11.PlantDiscovery/Program.cs" />
+      <File FileName="21.Zadacha01/Program.cs" Line="112" Column="1" />
+      <File FileName="22.Zadacha02/Program.cs" />
+      <File FileName="23.Zadacha03/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="34.ExamPreparation">
+            <Node name="01.SecretChat" expanded="True" />
             <Node name="03.P!rates" expanded="True" />
             <Node name="04.ActivationKeys" expanded="True" />
+            <Node name="11.PlantDiscovery" expanded="True" />
+            <Node name="21.Zadacha01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -47,4 +41,20 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.FancyBarcodes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.DestinationMapper FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.22.Zadacha02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.21.Zadacha01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Password_220Reset PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.SecretChat FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.ActivationKeys PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.EmojiDetector FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.MirrorWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.NeedForSpeedIII PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

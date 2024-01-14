@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/bin/Debug/net7.0/1.ReverseAString
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/bin/Debug/net7.0/1.ReverseAString.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/bin/Debug/net7.0/1.ReverseAString.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/bin/Debug/net7.0/1.ReverseAString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/bin/Debug/net7.0/1.ReverseAString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/refint/1.ReverseAString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/1.ReverseAString.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/03.StacksAndQueues/1.ReverseAString/obj/Debug/net7.0/ref/1.ReverseAString.dll
