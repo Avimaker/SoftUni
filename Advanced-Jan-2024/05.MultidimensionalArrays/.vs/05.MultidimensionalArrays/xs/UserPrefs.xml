@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{826E30AD-ADF7-4D13-AB32-8E9CFE94520B}|Default">
+﻿<Properties StartupConfiguration="{647774ED-011D-4390-8F77-4C55A7E5392B}|Default">
+  <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

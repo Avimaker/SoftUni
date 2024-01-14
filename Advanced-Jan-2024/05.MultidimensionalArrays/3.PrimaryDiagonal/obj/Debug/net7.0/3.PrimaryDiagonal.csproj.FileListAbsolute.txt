@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/bin/Debug/net7.0/3.PrimaryDiagonal
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/bin/Debug/net7.0/3.PrimaryDiagonal.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/bin/Debug/net7.0/3.PrimaryDiagonal.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/bin/Debug/net7.0/3.PrimaryDiagonal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/bin/Debug/net7.0/3.PrimaryDiagonal.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/refint/3.PrimaryDiagonal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/3.PrimaryDiagonal.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/3.PrimaryDiagonal/obj/Debug/net7.0/ref/3.PrimaryDiagonal.dll
