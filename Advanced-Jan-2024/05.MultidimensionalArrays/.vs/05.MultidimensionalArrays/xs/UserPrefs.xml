@@ -1,6 +1,8 @@
-﻿<Properties StartupConfiguration="{647774ED-011D-4390-8F77-4C55A7E5392B}|Default">
-  <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal FirstBuild="True" />
+﻿<Properties StartupConfiguration="{5059986E-8CF0-4ED0-818D-A468DE4AC4A6}|Default">
+  <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5.SquareWithMaximumSum FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4.SymbolinMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
