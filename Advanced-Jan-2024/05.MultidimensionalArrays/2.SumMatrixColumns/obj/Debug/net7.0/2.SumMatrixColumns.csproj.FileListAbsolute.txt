@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/bin/Debug/net7.0/2.SumMatrixColumns
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/bin/Debug/net7.0/2.SumMatrixColumns.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/bin/Debug/net7.0/2.SumMatrixColumns.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/bin/Debug/net7.0/2.SumMatrixColumns.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/bin/Debug/net7.0/2.SumMatrixColumns.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/refint/2.SumMatrixColumns.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/2.SumMatrixColumns.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/2.SumMatrixColumns/obj/Debug/net7.0/ref/2.SumMatrixColumns.dll
