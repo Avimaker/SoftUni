@@ -10,7 +10,7 @@ asdd
 xczc
 qwee
 qefw
-4
+e
 
 */
 
@@ -42,6 +42,11 @@ class Program
                     Console.WriteLine($"({row}, {col})");
                     break;
                 }
+            }
+
+            if (found)
+            {
+                break;
             }
         }
 

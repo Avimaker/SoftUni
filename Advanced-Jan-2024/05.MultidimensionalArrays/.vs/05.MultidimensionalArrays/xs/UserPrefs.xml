@@ -1,8 +1,38 @@
-﻿<Properties StartupConfiguration="{5059986E-8CF0-4ED0-818D-A468DE4AC4A6}|Default">
+﻿<Properties StartupConfiguration="{FB344E90-B1CA-4B41-BFE7-8F3093FB95AF}|Default">
   <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.5.SquareWithMaximumSum FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../1.SumMatrixElements/Program.cs" line="22" column="12" endLine="22" endColumn="19" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/1.SumMatrixElements/Program.cs" relfile="1.SumMatrixElements/Program.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.5.SquareWithMaximumSum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.SquareWithMaximumSum/Program.cs">
+    <Files>
+      <File FileName="1.SumMatrixElements/Program.cs" Line="1" Column="1" />
+      <File FileName="2.SumMatrixColumns/Program.cs" Line="26" Column="14" />
+      <File FileName="3.PrimaryDiagonal/Program.cs" Line="25" Column="10" />
+      <File FileName="4.SymbolinMatrix/Program.cs" Line="25" Column="26" />
+      <File FileName="5.SquareWithMaximumSum/Program.cs" Line="67" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.MultidimensionalArrays">
+            <Node name="5.SquareWithMaximumSum" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.4.SymbolinMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
