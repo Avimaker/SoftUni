@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/bin/Debug/net7.0/2.SquaresInMatrix
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/bin/Debug/net7.0/2.SquaresInMatrix.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/bin/Debug/net7.0/2.SquaresInMatrix.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/bin/Debug/net7.0/2.SquaresInMatrix.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/bin/Debug/net7.0/2.SquaresInMatrix.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/refint/2.SquaresInMatrix.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/2.SquaresInMatrix.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/2.SquaresInMatrix/obj/Debug/net7.0/ref/2.SquaresInMatrix.dll

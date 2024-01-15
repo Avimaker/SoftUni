@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{9815221D-6650-40F8-958F-C08640E1AC50}|Default">
+﻿<Properties StartupConfiguration="{D7D28BA2-57D3-41BE-BB13-A33919D724C3}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="1.DiagonalDifference/Program.cs">
     <Files>
@@ -15,8 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.2.SquaresInMatrix FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.2.SquaresInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3.MaximalSum FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference-FastWay PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
