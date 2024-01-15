@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/bin/Debug/net7.0/1.DiagonalDifference
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/bin/Debug/net7.0/1.DiagonalDifference.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/bin/Debug/net7.0/1.DiagonalDifference.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/bin/Debug/net7.0/1.DiagonalDifference.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/bin/Debug/net7.0/1.DiagonalDifference.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/refint/1.DiagonalDifference.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/1.DiagonalDifference.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference/obj/Debug/net7.0/ref/1.DiagonalDifference.dll
