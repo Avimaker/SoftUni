@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/bin/Debug/net7.0/1.DiagonalDifference-FastWay
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/bin/Debug/net7.0/1.DiagonalDifference-FastWay.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/bin/Debug/net7.0/1.DiagonalDifference-FastWay.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/bin/Debug/net7.0/1.DiagonalDifference-FastWay.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/bin/Debug/net7.0/1.DiagonalDifference-FastWay.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/refint/1.DiagonalDifference-FastWay.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/1.DiagonalDifference-FastWay.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/1.DiagonalDifference-FastWay/obj/Debug/net7.0/ref/1.DiagonalDifference-FastWay.dll

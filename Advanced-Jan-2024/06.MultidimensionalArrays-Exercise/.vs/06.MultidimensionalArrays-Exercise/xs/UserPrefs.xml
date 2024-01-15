@@ -1,9 +1,5 @@
-﻿<Properties StartupConfiguration="{88E7A52D-9BE8-4610-AEDE-246FAE20B13E}|Default">
-  <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{9815221D-6650-40F8-958F-C08640E1AC50}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="1.DiagonalDifference/Program.cs">
     <Files>
       <File FileName="1.DiagonalDifference/Program.cs" Line="1" Column="1" />
@@ -19,6 +15,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2.SquaresInMatrix FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference-FastWay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
