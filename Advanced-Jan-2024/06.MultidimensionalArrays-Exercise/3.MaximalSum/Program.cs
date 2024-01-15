@@ -12,45 +12,66 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] input = Console.ReadLine()
-            .Split(", ")
-            .Select(int.Parse)
-            .ToArray();
+        int[] sizes = ReadIntArray();
 
-        int rows = input[0];
-        int cols = input[1];
+        int rows = sizes[0];
+        int cols = sizes[1];
+        int[][] matrix = new int[rows][];
 
-        int[,] matrix = ReadMatrix(rows, cols, ", ");
-
-        //Print Matrix
-        for (int row = 0; row < matrix.GetLength(0); row++)
+        for (int row = 0; row < rows; row++)
         {
-            for (int col = 0; col < matrix.GetLength(1); col++)
+            matrix[row] = ReadIntArray();
+        }
+
+        int maxSquareSum = 0;
+        int maxSquareRow = 0;
+        int maxSquareCol = 0;
+
+        for (int row = 0; row < rows - 2; row++)
+        {
+            for (int col = 0; col < cols - 2; col++)
             {
-                Console.Write($"{matrix[row, col]} ");
+                int currentSum = 0;
+
+                for (int srow = 0; srow < 3; srow++)
+                {
+                    for (int scol = 0; scol < 3; scol++)
+                    {
+                        currentSum += matrix[row + srow][col + scol];
+                    }
+                }
+
+                if (currentSum > maxSquareSum)
+                {
+                    maxSquareSum = currentSum;
+                    maxSquareRow = row;
+                    maxSquareCol = col;
+                }
+            }
+        }
+
+        Console.WriteLine($"Sum = {maxSquareSum}");
+
+        for (int r = maxSquareRow; r < maxSquareRow + 3; r++)
+        {
+            for (int c = maxSquareCol; c < maxSquareCol + 3; c++)
+            {
+                Console.Write($"{matrix[r][c]} ");
             }
             Console.WriteLine();
         }
 
+
     }
 
-    //Read Matrix Method
-    private static int[,] ReadMatrix(int rows, int cols, string separator)
+    private static int[] ReadIntArray()
     {
-        int[,] matrix = new int[rows, cols];
-
-        for (int row = 0; row < matrix.GetLength(0); row++)
-        {
-            int[] rowArray = Console.ReadLine().Split(separator).Select(int.Parse).ToArray();
-
-            for (int col = 0; col < matrix.GetLength(1); col++)
-            {
-                matrix[row, col] = rowArray[col];
-            }
-        }
-        return matrix;
-
-
+        return Console.ReadLine()
+            .Split(" ",StringSplitOptions.RemoveEmptyEntries)
+            .Select(int.Parse)
+            .ToArray();
     }
+
+   
 }
 

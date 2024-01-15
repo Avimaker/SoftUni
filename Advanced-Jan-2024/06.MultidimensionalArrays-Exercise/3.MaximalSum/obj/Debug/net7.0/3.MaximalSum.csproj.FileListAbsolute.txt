@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/bin/Debug/net7.0/3.MaximalSum
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/bin/Debug/net7.0/3.MaximalSum.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/bin/Debug/net7.0/3.MaximalSum.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/bin/Debug/net7.0/3.MaximalSum.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/bin/Debug/net7.0/3.MaximalSum.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/refint/3.MaximalSum.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/3.MaximalSum.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/3.MaximalSum/obj/Debug/net7.0/ref/3.MaximalSum.dll
