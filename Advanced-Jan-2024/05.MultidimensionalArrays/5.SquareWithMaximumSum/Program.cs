@@ -34,7 +34,7 @@ class Program
         int sqRows = squareInput[0];
         int sqCols = squareInput[1];
 
-        if (sqRows >= rows || sqCols >= cols)
+        if (sqRows > rows || sqCols > cols)
         {
             Console.WriteLine("Invalid square input!");
             return;
@@ -46,9 +46,9 @@ class Program
         int maxSquareRow = 0;
         int maxSquareCol = 0;
 
-        for (int row = 0; row < rows - 1; row++)
+        for (int row = 0; row < rows - (sqRows - 1); row++)
         {
-            for (int col = 0; col < cols - sqCols; col++)
+            for (int col = 0; col < cols - (sqCols - 1); col++)
             {
                 int squareSum = 0;
 

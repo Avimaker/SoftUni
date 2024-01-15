@@ -1,13 +1,19 @@
-﻿<Properties StartupConfiguration="{D7D28BA2-57D3-41BE-BB13-A33919D724C3}|Default">
+﻿<Properties StartupConfiguration="{B3151058-8290-4303-B386-F70091E5C2AB}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="1.DiagonalDifference/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.SquaresInMatrix/Program.cs">
     <Files>
       <File FileName="1.DiagonalDifference/Program.cs" Line="1" Column="1" />
+      <File FileName="1.DiagonalDifference-FastWay/Program.cs" Line="2" Column="1" />
+      <File FileName="2.SquaresInMatrix/Program.cs" Line="22" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="06.MultidimensionalArrays-Exercise" expanded="True" />
+          <Node name="06.MultidimensionalArrays-Exercise">
+            <Node name="2.SquaresInMatrix" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -17,9 +23,11 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.2.SquaresInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.3.MaximalSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3.MaximalSum PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference-FastWay PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
