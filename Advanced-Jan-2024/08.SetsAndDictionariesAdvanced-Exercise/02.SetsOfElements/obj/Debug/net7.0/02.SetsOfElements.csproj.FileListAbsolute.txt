@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/bin/Debug/net7.0/02.SetsOfElements
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/bin/Debug/net7.0/02.SetsOfElements.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/bin/Debug/net7.0/02.SetsOfElements.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/bin/Debug/net7.0/02.SetsOfElements.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/bin/Debug/net7.0/02.SetsOfElements.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/refint/02.SetsOfElements.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/02.SetsOfElements.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/02.SetsOfElements/obj/Debug/net7.0/ref/02.SetsOfElements.dll
