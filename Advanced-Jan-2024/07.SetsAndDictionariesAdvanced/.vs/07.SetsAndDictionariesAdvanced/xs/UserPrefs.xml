@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{36A21057-D14C-42AF-8EF9-AFE5895FEE53}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.CountSameValuesInArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.CountSameValuesInArray/Program.cs">
+    <Files>
+      <File FileName="01.CountSameValuesInArray/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07.SetsAndDictionariesAdvanced" expanded="True">
+            <Node name="01.CountSameValuesInArray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

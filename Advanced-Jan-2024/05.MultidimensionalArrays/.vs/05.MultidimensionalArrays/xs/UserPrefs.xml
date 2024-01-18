@@ -1,35 +1,22 @@
 ﻿<Properties StartupConfiguration="{FB344E90-B1CA-4B41-BFE7-8F3093FB95AF}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../1.SumMatrixElements/Program.cs" line="22" column="12" endLine="22" endColumn="19" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.1.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/1.SumMatrixElements/Program.cs" relfile="1.SumMatrixElements/Program.cs" line="31" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.5.SquareWithMaximumSum PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.4.SymbolinMatrix PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="5.SquareWithMaximumSum/Program.cs">
     <Files>
       <File FileName="1.SumMatrixElements/Program.cs" />
       <File FileName="2.SumMatrixColumns/Program.cs" />
-      <File FileName="3.PrimaryDiagonal/Program.cs" Line="47" Column="6" />
+      <File FileName="3.PrimaryDiagonal/Program.cs" />
       <File FileName="4.SymbolinMatrix/Program.cs" />
-      <File FileName="5.SquareWithMaximumSum/Program.cs" Line="103" Column="2" />
+      <File FileName="5.SquareWithMaximumSum/Program.cs" Line="14" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="05.MultidimensionalArrays">
+          <Node name="05.MultidimensionalArrays" expanded="True">
             <Node name="1.SumMatrixElements" expanded="True" />
             <Node name="3.PrimaryDiagonal" expanded="True" />
             <Node name="4.SymbolinMatrix" expanded="True" />
-            <Node name="5.SquareWithMaximumSum" expanded="True" />
+            <Node name="5.SquareWithMaximumSum" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -38,4 +25,19 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4.SymbolinMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.SumMatrixElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5.SquareWithMaximumSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/05.MultidimensionalArrays/1.SumMatrixElements/Program.cs" relfile="1.SumMatrixElements/Program.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.3.PrimaryDiagonal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../1.SumMatrixElements/Program.cs" line="22" column="12" endLine="22" endColumn="19" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.2.SumMatrixColumns PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
