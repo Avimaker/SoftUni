@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/bin/Debug/net7.0/06.Wardrobe
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/bin/Debug/net7.0/06.Wardrobe.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/bin/Debug/net7.0/06.Wardrobe.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/bin/Debug/net7.0/06.Wardrobe.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/bin/Debug/net7.0/06.Wardrobe.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/refint/06.Wardrobe.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/06.Wardrobe.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/06.Wardrobe/obj/Debug/net7.0/ref/06.Wardrobe.dll

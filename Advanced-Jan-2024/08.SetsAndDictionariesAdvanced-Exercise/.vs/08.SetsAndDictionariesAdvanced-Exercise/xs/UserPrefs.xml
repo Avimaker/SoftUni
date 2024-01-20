@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{5A8131B2-82BE-4E49-B558-D4F7F4952D1E}|Default">
-  <MonoDevelop.Ide.ItemProperties.05.CountSymbols FirstBuild="True" />
+﻿<Properties StartupConfiguration="{8BA36590-F034-4435-B82C-D82D0D334995}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.CountSymbols PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.PeriodicTable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.UniqueUsernames PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.SetsOfElements PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.Wardrobe FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.04.EvenTimes PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="01.UniqueUsernames/Program.cs">
