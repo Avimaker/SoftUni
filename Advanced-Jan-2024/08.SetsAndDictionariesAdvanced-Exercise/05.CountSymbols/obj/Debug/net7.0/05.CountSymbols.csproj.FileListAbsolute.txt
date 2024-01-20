@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/bin/Debug/net7.0/05.CountSymbols
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/bin/Debug/net7.0/05.CountSymbols.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/bin/Debug/net7.0/05.CountSymbols.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/bin/Debug/net7.0/05.CountSymbols.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/bin/Debug/net7.0/05.CountSymbols.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/refint/05.CountSymbols.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/05.CountSymbols.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/05.CountSymbols/obj/Debug/net7.0/ref/05.CountSymbols.dll
