@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{0BF56ED5-DEC2-4181-8806-A72A68F8E6CC}|Default">
+﻿<Properties StartupConfiguration="{5DC4A6D2-016B-42D6-B0A3-532DB878B7A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.PeriodicTable FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.UniqueUsernames PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.SetsOfElements FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.SetsOfElements PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />

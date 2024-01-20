@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/bin/Debug/net7.0/03.PeriodicTable
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/bin/Debug/net7.0/03.PeriodicTable.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/bin/Debug/net7.0/03.PeriodicTable.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/bin/Debug/net7.0/03.PeriodicTable.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/bin/Debug/net7.0/03.PeriodicTable.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/refint/03.PeriodicTable.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/03.PeriodicTable.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/03.PeriodicTable/obj/Debug/net7.0/ref/03.PeriodicTable.dll
