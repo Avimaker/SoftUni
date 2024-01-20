@@ -121,5 +121,17 @@ class Program
             && col >= 0
             && col < jaggedArray[row].Length;
     }
+
+    //check isValid matrix
+    //static bool ValidateCell(int row, int col, int size)
+    //{
+    //    return
+    //        row >= 0
+    //        && row < size
+    //        && col >= 0
+    //        && col < size;
+    //}
+
+    
 }
 
