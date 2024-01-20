@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/bin/Debug/net6.0/01.OddLines
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/bin/Debug/net6.0/01.OddLines.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/bin/Debug/net6.0/01.OddLines.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/bin/Debug/net6.0/01.OddLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/bin/Debug/net6.0/01.OddLines.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/refint/01.OddLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/01.OddLines.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/09.StreamsFilesAndDirectories/01.OddLines/obj/Debug/net6.0/ref/01.OddLines.dll

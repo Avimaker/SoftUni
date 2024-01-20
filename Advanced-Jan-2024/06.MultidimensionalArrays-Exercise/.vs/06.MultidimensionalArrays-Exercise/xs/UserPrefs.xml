@@ -1,20 +1,29 @@
-﻿<Properties StartupConfiguration="{E45F3667-46FA-4ED6-9B8A-729E9C357E34}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{DD4714F4-F42D-4797-A278-C11B27573B89}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="5.SnakeMoves/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="7.KnightGame/Program.cs">
     <Files>
       <File FileName="1.DiagonalDifference/Program.cs" />
       <File FileName="1.DiagonalDifference-FastWay/Program.cs" />
       <File FileName="2.SquaresInMatrix/Program.cs" />
       <File FileName="3.MaximalSum/Program.cs" />
-      <File FileName="3.MaximalSum_ET/Program.cs" />
-      <File FileName="4.MatrixShuffling/Program.cs" Line="46" Column="21" />
+      <File FileName="3.MaximalSum_ET/Program.cs" Line="1" Column="1" />
+      <File FileName="4.MatrixShuffling/Program.cs" />
       <File FileName="5.SnakeMoves/Program.cs" Line="47" Column="14" />
+      <File FileName="6.JaggedArrayManipulator/Program.cs" Line="82" Column="1" />
+      <File FileName="7.KnightGame/Program.cs" Line="39" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="06.MultidimensionalArrays-Exercise">
+            <Node name="6.JaggedArrayManipulator" expanded="True" />
+            <Node name="7.KnightGame" expanded="True" />
+          </Node>
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
@@ -30,5 +39,5 @@
   <MonoDevelop.Ide.ItemProperties.1.DiagonalDifference-FastWay PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2.SquaresInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.6.JaggedArrayManipulator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.7.KnightGame FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.7.KnightGame PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

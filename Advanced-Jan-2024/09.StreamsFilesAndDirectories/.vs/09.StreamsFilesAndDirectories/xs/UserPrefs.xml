@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FCD96B90-DBFE-465C-BB4C-71138D345274}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.02.LineNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.WordCount FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.LineNumbers/Program.cs">
+    <Files>
+      <File FileName="02.LineNumbers/Program.cs" Line="32" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09.StreamsFilesAndDirectories" expanded="True">
+            <Node name="01.OddLines" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
