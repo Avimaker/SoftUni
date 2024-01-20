@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/bin/Debug/net7.0/04.EvenTimes
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/bin/Debug/net7.0/04.EvenTimes.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/bin/Debug/net7.0/04.EvenTimes.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/bin/Debug/net7.0/04.EvenTimes.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/bin/Debug/net7.0/04.EvenTimes.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/refint/04.EvenTimes.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/04.EvenTimes.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/08.SetsAndDictionariesAdvanced-Exercise/04.EvenTimes/obj/Debug/net7.0/ref/04.EvenTimes.dll
