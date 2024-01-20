@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/bin/Debug/net7.0/7.KnightGame
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/bin/Debug/net7.0/7.KnightGame.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/bin/Debug/net7.0/7.KnightGame.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/bin/Debug/net7.0/7.KnightGame.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/bin/Debug/net7.0/7.KnightGame.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/refint/7.KnightGame.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/7.KnightGame.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/06.MultidimensionalArrays-Exercise/7.KnightGame/obj/Debug/net7.0/ref/7.KnightGame.dll
