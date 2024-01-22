@@ -23,7 +23,7 @@ public class LineNumbers
 
         for (int i = 0; i < lines.Length; i++)
         {
-            int lettersCount = lines[i].Count(char.IsLetter);
+            int lettersCount = lines[i].Count(ch => char.IsLetter(ch));
             int symbolsCount = lines[i].Count(char.IsPunctuation);
 
             text.Append($"Line {i + 1}: {lines[i]} ({lettersCount})({symbolsCount})");

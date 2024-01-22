@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/bin/Debug/net6.0/03.CopyBinaryFile.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/refint/03.CopyBinaryFile.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/03.CopyBinaryFile.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/03.CopyBinaryFile/obj/Debug/net6.0/ref/03.CopyBinaryFile.dll

@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{7FDC7CD0-446B-4D14-8666-98B02DE2EC59}|Default">
+﻿<Properties StartupConfiguration="{0E24B02D-E6DC-4F96-AE9D-B3B30D88833A}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.CopyBinaryFile FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01.EvenLines PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="01.EvenLines/Program.cs">
@@ -23,6 +24,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.02.LineNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.LineNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
