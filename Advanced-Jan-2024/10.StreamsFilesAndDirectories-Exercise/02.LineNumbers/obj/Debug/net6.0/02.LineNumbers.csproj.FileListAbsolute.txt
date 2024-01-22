@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/bin/Debug/net6.0/02.LineNumbers
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/bin/Debug/net6.0/02.LineNumbers.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/bin/Debug/net6.0/02.LineNumbers.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/bin/Debug/net6.0/02.LineNumbers.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/bin/Debug/net6.0/02.LineNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/refint/02.LineNumbers.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/02.LineNumbers.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/02.LineNumbers/obj/Debug/net6.0/ref/02.LineNumbers.dll
