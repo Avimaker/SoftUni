@@ -23,6 +23,10 @@
             {
                 writer.Write(buffer, 0, size);
             }
+
+            //method file
+            //File.Copy(inputFilePath, outputFilePath);
+
         }
     }
 }

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers", "02.LineNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CopyBinaryFile", "03.CopyBinaryFile\03.CopyBinaryFile.csproj", "{0BDD5C7F-4B95-4A77-99E9-9CF519978410}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DirectoryTraversal", "04.DirectoryTraversal\04.DirectoryTraversal.csproj", "{796A170B-3109-4AA7-BC51-70EBA6720AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0BDD5C7F-4B95-4A77-99E9-9CF519978410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BDD5C7F-4B95-4A77-99E9-9CF519978410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BDD5C7F-4B95-4A77-99E9-9CF519978410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796A170B-3109-4AA7-BC51-70EBA6720AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796A170B-3109-4AA7-BC51-70EBA6720AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796A170B-3109-4AA7-BC51-70EBA6720AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796A170B-3109-4AA7-BC51-70EBA6720AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

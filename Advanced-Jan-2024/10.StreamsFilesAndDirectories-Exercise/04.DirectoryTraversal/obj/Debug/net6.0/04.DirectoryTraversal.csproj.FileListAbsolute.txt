@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/bin/Debug/net6.0/04.DirectoryTraversal
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/bin/Debug/net6.0/04.DirectoryTraversal.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/bin/Debug/net6.0/04.DirectoryTraversal.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/bin/Debug/net6.0/04.DirectoryTraversal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/bin/Debug/net6.0/04.DirectoryTraversal.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/refint/04.DirectoryTraversal.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/04.DirectoryTraversal.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/obj/Debug/net6.0/ref/04.DirectoryTraversal.dll

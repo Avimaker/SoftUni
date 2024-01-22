@@ -1,0 +1,10 @@
+.docx
+--~$-CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 0.158kb
+--04-CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 166.201kb
+.zip
+--04-CSharp-Advanced-Streams-Files-and-Directories-Exercise-Resources.zip - 9.546kb
+--Skeleton_6.0-Exercise.zip - 46.088kb
+.DS_Store
+--.DS_Store - 6.004kb
+.sln
+--10.StreamsFilesAndDirectories-Exercise.sln - 2.595kb
