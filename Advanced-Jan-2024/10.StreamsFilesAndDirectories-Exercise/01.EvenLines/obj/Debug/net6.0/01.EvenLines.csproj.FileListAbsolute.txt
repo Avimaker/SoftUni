@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/bin/Debug/net6.0/01.EvenLines
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/bin/Debug/net6.0/01.EvenLines.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/bin/Debug/net6.0/01.EvenLines.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/bin/Debug/net6.0/01.EvenLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/bin/Debug/net6.0/01.EvenLines.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/refint/01.EvenLines.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/01.EvenLines.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/01.EvenLines/obj/Debug/net6.0/ref/01.EvenLines.dll

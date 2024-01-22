@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7FDC7CD0-446B-4D14-8666-98B02DE2EC59}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.EvenLines PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.EvenLines/Program.cs">
+    <Files>
+      <File FileName="01.EvenLines/Program.cs" Line="26" Column="6" />
+      <File FileName="01.EvenLines/text.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10.StreamsFilesAndDirectories-Exercise" expanded="True">
+            <Node name="01.EvenLines" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
