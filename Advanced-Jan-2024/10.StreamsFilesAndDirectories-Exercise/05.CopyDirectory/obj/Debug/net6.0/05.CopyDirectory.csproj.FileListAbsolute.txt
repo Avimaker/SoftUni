@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/bin/Debug/net6.0/05.CopyDirectory
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/bin/Debug/net6.0/05.CopyDirectory.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/bin/Debug/net6.0/05.CopyDirectory.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/bin/Debug/net6.0/05.CopyDirectory.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/bin/Debug/net6.0/05.CopyDirectory.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/refint/05.CopyDirectory.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/05.CopyDirectory.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/05.CopyDirectory/obj/Debug/net6.0/ref/05.CopyDirectory.dll

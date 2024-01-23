@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/bin/Debug/net6.0/06.ZipAndExtracts
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/bin/Debug/net6.0/06.ZipAndExtracts.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/bin/Debug/net6.0/06.ZipAndExtracts.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/bin/Debug/net6.0/06.ZipAndExtracts.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/bin/Debug/net6.0/06.ZipAndExtracts.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/refint/06.ZipAndExtracts.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/06.ZipAndExtracts.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/06.ZipAndExtracts/obj/Debug/net6.0/ref/06.ZipAndExtracts.dll

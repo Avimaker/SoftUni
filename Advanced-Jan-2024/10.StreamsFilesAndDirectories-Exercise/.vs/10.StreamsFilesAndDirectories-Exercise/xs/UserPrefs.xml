@@ -1,22 +1,20 @@
-﻿<Properties StartupConfiguration="{0BDD5C7F-4B95-4A77-99E9-9CF519978410}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.03.CopyBinaryFile PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.EvenLines PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.DirectoryTraversal FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="01.EvenLines/Program.cs">
+﻿<Properties StartupConfiguration="{54B34009-3035-48AA-954F-2F7AEDF2A1FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.ZipAndExtracts FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/10.StreamsFilesAndDirectories-Exercise/04.DirectoryTraversal/Program.cs" relfile="04.DirectoryTraversal/Program.cs" line="59" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.05.CopyDirectory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.CopyBinaryFile/Program.cs">
     <Files>
-      <File FileName="01.EvenLines/Program.cs" Line="26" Column="6" />
-      <File FileName="01.EvenLines/text.txt" />
+      <File FileName="03.CopyBinaryFile/Program.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10.StreamsFilesAndDirectories-Exercise" expanded="True">
-            <Node name="01.EvenLines" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="10.StreamsFilesAndDirectories-Exercise">
+            <Node name="03.CopyBinaryFile" expanded="True" />
+            <Node name="04.DirectoryTraversal" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,6 +23,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.DirectoryTraversal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.EvenLines PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.CopyBinaryFile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.LineNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
