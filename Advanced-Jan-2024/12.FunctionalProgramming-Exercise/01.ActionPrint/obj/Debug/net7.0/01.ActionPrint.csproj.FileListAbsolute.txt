@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/bin/Debug/net7.0/01.ActionPrint
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/bin/Debug/net7.0/01.ActionPrint.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/bin/Debug/net7.0/01.ActionPrint.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/bin/Debug/net7.0/01.ActionPrint.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/bin/Debug/net7.0/01.ActionPrint.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/refint/01.ActionPrint.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/01.ActionPrint.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/01.ActionPrint/obj/Debug/net7.0/ref/01.ActionPrint.dll
