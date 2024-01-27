@@ -1,8 +1,11 @@
-﻿<Properties StartupConfiguration="{9E785C4E-FAAC-48C0-9BF1-C629E4A55CC9}|Default">
+﻿<Properties StartupConfiguration="{D1C0C2A5-2AD7-41A8-88B7-738227AB5EA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.ReverseAndExclude PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.ActionPrint PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.KnightsOfHonor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.FindEvensOrOdds PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.AppliedArithmetics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.08.ListOfPredicates FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.PredicateForNames PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.AppliedArithmetics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.CustomMinFunction PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
