@@ -24,24 +24,24 @@ class Program
 
         string command = Console.ReadLine();
 
-        Predicate<int> result = x => x % 2 == 0;
+        Predicate<int> isEven = x => x % 2 == 0;
 
         if (command == "even")
         {
             foreach (var number in range)
             {
-                if (result(number))
+                if (isEven(number))
                 {
                     Console.Write($"{number} ");
                 }
             }
 
         }
-        if (command == "odd")
+        else if (command == "odd")
         {
             foreach (var number in range)
             {
-                if (!result(number))
+                if (!isEven(number))
                 {
                     Console.Write($"{number} ");
                 }

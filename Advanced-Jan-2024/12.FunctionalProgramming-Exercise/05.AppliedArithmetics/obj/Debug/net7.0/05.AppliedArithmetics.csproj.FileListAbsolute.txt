@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/bin/Debug/net7.0/05.AppliedArithmetics
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/bin/Debug/net7.0/05.AppliedArithmetics.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/bin/Debug/net7.0/05.AppliedArithmetics.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/bin/Debug/net7.0/05.AppliedArithmetics.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/bin/Debug/net7.0/05.AppliedArithmetics.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/refint/05.AppliedArithmetics.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/05.AppliedArithmetics.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/05.AppliedArithmetics/obj/Debug/net7.0/ref/05.AppliedArithmetics.dll
