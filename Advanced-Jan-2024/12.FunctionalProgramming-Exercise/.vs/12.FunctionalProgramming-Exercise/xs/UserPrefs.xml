@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{5810A27E-8744-4BF7-BF73-E32AFC953A5B}|Default">
+﻿<Properties StartupConfiguration="{652E06D7-C3C0-4A3F-A474-4A0366D1EB13}|Default">
   <MonoDevelop.Ide.ItemProperties.01.ActionPrint PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.KnightsOfHonor FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.KnightsOfHonor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.CustomMinFunction FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
