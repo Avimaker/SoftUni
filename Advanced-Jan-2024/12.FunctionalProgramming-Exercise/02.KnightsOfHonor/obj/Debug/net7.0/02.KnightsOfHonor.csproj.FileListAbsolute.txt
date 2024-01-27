@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/bin/Debug/net7.0/02.KnightsOfHonor
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/bin/Debug/net7.0/02.KnightsOfHonor.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/bin/Debug/net7.0/02.KnightsOfHonor.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/bin/Debug/net7.0/02.KnightsOfHonor.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/bin/Debug/net7.0/02.KnightsOfHonor.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/refint/02.KnightsOfHonor.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/02.KnightsOfHonor.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/02.KnightsOfHonor/obj/Debug/net7.0/ref/02.KnightsOfHonor.dll
