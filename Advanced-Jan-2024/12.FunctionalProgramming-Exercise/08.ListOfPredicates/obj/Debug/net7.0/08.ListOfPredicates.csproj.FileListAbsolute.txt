@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/bin/Debug/net7.0/08.ListOfPredicates
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/bin/Debug/net7.0/08.ListOfPredicates.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/bin/Debug/net7.0/08.ListOfPredicates.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/bin/Debug/net7.0/08.ListOfPredicates.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/bin/Debug/net7.0/08.ListOfPredicates.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/refint/08.ListOfPredicates.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/08.ListOfPredicates.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/08.ListOfPredicates/obj/Debug/net7.0/ref/08.ListOfPredicates.dll
