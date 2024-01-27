@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{9EBDC62A-53AC-4B2A-B837-6717980FC57A}|Default">
+﻿<Properties StartupConfiguration="{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}|Default">
   <MonoDevelop.Ide.ItemProperties.06.ReverseAndExclude PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.ActionPrint PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.KnightsOfHonor PreferredExecutionTarget="MonoDevelop.Default" />
@@ -7,6 +7,8 @@
   <MonoDevelop.Ide.ItemProperties.07.PredicateForNames PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.AppliedArithmetics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.CustomMinFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.ThePartyReservationFilterModule PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.09.PredicateParty_221 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.PredicateParty_221 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.TriFunction FirstBuild="True" />
 </Properties>

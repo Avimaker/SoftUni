@@ -35,8 +35,8 @@ class Program
 
                 foreach (string person in peopleToDouble)
                 {
-                    int index = people.FindIndex(p => p == person);//намира индекса на човекам който ще добавяме
-                    people.Insert(index + 1, person);// добавяме на индекса, който намерихме
+                    int index = people.FindIndex(p => p == person);//намира индекса на човека, който ще добавяме
+                    people.Insert(index + 1, person);// добавяме след индекса, който намерихме
                 }
             }
         }

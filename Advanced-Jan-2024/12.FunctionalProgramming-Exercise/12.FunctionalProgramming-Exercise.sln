@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ListOfPredicates", "08.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PredicateParty!", "09.PredicateParty!\09.PredicateParty!.csproj", "{30D3A980-0030-4BC4-865E-3439E7DF53D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ThePartyReservationFilterModule", "10.ThePartyReservationFilterModule\10.ThePartyReservationFilterModule.csproj", "{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.TriFunction", "11.TriFunction\11.TriFunction.csproj", "{12E38A77-6BF0-4925-AF21-3910384B9867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{30D3A980-0030-4BC4-865E-3439E7DF53D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D3A980-0030-4BC4-865E-3439E7DF53D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D3A980-0030-4BC4-865E-3439E7DF53D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E86BB45-4DD1-4ADE-B4F8-F087249AC1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E38A77-6BF0-4925-AF21-3910384B9867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E38A77-6BF0-4925-AF21-3910384B9867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E38A77-6BF0-4925-AF21-3910384B9867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E38A77-6BF0-4925-AF21-3910384B9867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
