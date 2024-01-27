@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{652E06D7-C3C0-4A3F-A474-4A0366D1EB13}|Default">
+﻿<Properties StartupConfiguration="{CC1F89B6-E981-43B7-A64C-498B0622D882}|Default">
   <MonoDevelop.Ide.ItemProperties.01.ActionPrint PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.KnightsOfHonor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.03.CustomMinFunction FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.FindEvensOrOdds FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.CustomMinFunction PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
