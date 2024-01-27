@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/bin/Debug/net7.0/11.TriFunction
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/bin/Debug/net7.0/11.TriFunction.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/bin/Debug/net7.0/11.TriFunction.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/bin/Debug/net7.0/11.TriFunction.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/bin/Debug/net7.0/11.TriFunction.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/refint/11.TriFunction.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/11.TriFunction.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/12.FunctionalProgramming-Exercise/11.TriFunction/obj/Debug/net7.0/ref/11.TriFunction.dll
