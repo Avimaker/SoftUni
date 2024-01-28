@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/bin/Debug/net6.0/Car
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/bin/Debug/net6.0/Car.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/bin/Debug/net6.0/Car.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/bin/Debug/net6.0/Car.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/bin/Debug/net6.0/Car.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/refint/Car.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/Car.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/13.DefiningClasses/01.Car/obj/Debug/net6.0/ref/Car.dll

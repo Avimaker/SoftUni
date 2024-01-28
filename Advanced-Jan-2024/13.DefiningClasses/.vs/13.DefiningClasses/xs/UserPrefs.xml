@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C1A681E9-F86B-41B8-BA43-E2C4A7EFD7D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.CarEngineAndTires/Car.cs">
+    <Files>
+      <File FileName="01.Car/Program.cs" Line="12" Column="9" />
+      <File FileName="01.Car/Car.cs" Line="14" Column="1" />
+      <File FileName="02.CarExtension/Program.cs" Line="19" Column="13" />
+      <File FileName="02.CarExtension/Car.cs" Line="26" Column="12" />
+      <File FileName="03.CarConstructors/StartUp.cs" Line="20" Column="12" />
+      <File FileName="03.CarConstructors/Car.cs" Line="88" Column="1" />
+      <File FileName="04.CarEngineAndTires/StartUp.cs" Line="36" Column="1" />
+      <File FileName="04.CarEngineAndTires/Engine.cs" Line="19" Column="6" />
+      <File FileName="04.CarEngineAndTires/Car.cs" Line="50" Column="1" />
+      <File FileName="04.CarEngineAndTires/Tire.cs" Line="2" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="13.DefiningClasses" expanded="True">
+            <Node name="CarEngineAndTires" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarExtension PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CarEngineAndTires PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Car PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.05.SpecialCars FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CarConstructors PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
