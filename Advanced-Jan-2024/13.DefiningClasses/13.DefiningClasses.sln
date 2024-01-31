@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarConstructors", "03.CarCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarEngineAndTires", "04.CarEngineAndTires\CarEngineAndTires.csproj", "{C1A681E9-F86B-41B8-BA43-E2C4A7EFD7D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialCars", "05.SpecialCars\05.SpecialCars.csproj", "{F54E5209-3C9D-407D-8817-F7F1E0B35A70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialCars", "05.SpecialCars\SpecialCars.csproj", "{F54E5209-3C9D-407D-8817-F7F1E0B35A70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

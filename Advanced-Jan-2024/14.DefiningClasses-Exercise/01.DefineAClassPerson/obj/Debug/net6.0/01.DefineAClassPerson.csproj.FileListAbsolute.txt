@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/bin/Debug/net6.0/01.DefineAClassPerson
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/bin/Debug/net6.0/01.DefineAClassPerson.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/bin/Debug/net6.0/01.DefineAClassPerson.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/bin/Debug/net6.0/01.DefineAClassPerson.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/bin/Debug/net6.0/01.DefineAClassPerson.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/refint/01.DefineAClassPerson.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/01.DefineAClassPerson.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/01.DefineAClassPerson/obj/Debug/net6.0/ref/01.DefineAClassPerson.dll
