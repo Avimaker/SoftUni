@@ -1,5 +1,4 @@
-﻿using System;
-namespace DefiningClasses;
+﻿namespace DefiningClasses;
 
 public class Person
 {
