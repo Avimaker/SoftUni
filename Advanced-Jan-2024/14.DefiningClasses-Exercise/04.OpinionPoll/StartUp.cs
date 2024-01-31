@@ -39,7 +39,7 @@ public class StartUp
 
         foreach (var member in sortedMembersOver30.People)
         {
-            Console.WriteLine($"{member.Name} {member.Age}");
+            Console.WriteLine($"{member.Name} - {member.Age}");
         }
 
     }
