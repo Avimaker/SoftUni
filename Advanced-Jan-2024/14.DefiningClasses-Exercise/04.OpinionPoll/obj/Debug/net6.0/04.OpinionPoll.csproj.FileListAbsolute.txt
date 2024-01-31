@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/bin/Debug/net6.0/04.OpinionPoll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/bin/Debug/net6.0/04.OpinionPoll.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/bin/Debug/net6.0/04.OpinionPoll.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/bin/Debug/net6.0/04.OpinionPoll.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/bin/Debug/net6.0/04.OpinionPoll.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/refint/04.OpinionPoll.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/04.OpinionPoll.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/04.OpinionPoll/obj/Debug/net6.0/ref/04.OpinionPoll.dll
