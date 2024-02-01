@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OldestFamilyMember", "03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.OpinionPoll", "04.OpinionPoll\04.OpinionPoll.csproj", "{7885624C-422B-4BE4-9532-21B0E1702304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpeedRacing", "06.SpeedRacing\06.SpeedRacing.csproj", "{19D5D119-CAF6-4FDF-B224-3E0AA316B8A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7885624C-422B-4BE4-9532-21B0E1702304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7885624C-422B-4BE4-9532-21B0E1702304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7885624C-422B-4BE4-9532-21B0E1702304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D5D119-CAF6-4FDF-B224-3E0AA316B8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D5D119-CAF6-4FDF-B224-3E0AA316B8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D5D119-CAF6-4FDF-B224-3E0AA316B8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D5D119-CAF6-4FDF-B224-3E0AA316B8A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

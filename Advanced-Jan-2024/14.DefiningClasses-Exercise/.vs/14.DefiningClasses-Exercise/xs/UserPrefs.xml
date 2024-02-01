@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{C7BA089B-790F-46A5-9EDD-AD12F23C0E46}|Default">
+﻿<Properties StartupConfiguration="{7885624C-422B-4BE4-9532-21B0E1702304}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +17,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.06.SpeedRacing FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01.DefineAClassPerson PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.OldestFamilyMember PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.OpinionPoll FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.OpinionPoll PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
