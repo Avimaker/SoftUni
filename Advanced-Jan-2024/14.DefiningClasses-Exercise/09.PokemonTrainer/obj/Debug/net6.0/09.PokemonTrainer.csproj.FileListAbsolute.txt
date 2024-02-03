@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/bin/Debug/net6.0/09.PokemonTrainer
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/bin/Debug/net6.0/09.PokemonTrainer.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/bin/Debug/net6.0/09.PokemonTrainer.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/bin/Debug/net6.0/09.PokemonTrainer.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/bin/Debug/net6.0/09.PokemonTrainer.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/refint/09.PokemonTrainer.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/09.PokemonTrainer.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/14.DefiningClasses-Exercise/09.PokemonTrainer/obj/Debug/net6.0/ref/09.PokemonTrainer.dll
