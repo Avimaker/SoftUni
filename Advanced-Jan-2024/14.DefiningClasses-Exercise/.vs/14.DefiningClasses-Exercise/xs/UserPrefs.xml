@@ -1,13 +1,9 @@
-﻿<Properties StartupConfiguration="{B026CA9F-30EC-4644-BA95-CBB8486D5717}|Default">
+﻿<Properties StartupConfiguration="{3F8D9952-05D4-4D7A-BF43-A90DEFF6224F}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="14.DefiningClasses-Exercise" expanded="True">
-            <Node name="OldestFamilyMember">
-              <Node name=".DS_Store" selected="True" />
-            </Node>
-          </Node>
+          <Node name="14.DefiningClasses-Exercise" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -17,13 +13,15 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.08.CarSalesman PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.06.SpeedRacing PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.DefineAClassPerson PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.OldestFamilyMember PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.RawData PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.OpinionPoll PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.09.PokemonTrainer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.PokemonTrainer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
