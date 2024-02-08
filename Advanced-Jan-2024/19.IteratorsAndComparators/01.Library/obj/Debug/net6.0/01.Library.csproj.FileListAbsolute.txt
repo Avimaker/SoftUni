@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/01.Library
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/01.Library.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/01.Library.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/01.Library.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/01.Library.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/refint/01.Library.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/01.Library.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/ref/01.Library.dll

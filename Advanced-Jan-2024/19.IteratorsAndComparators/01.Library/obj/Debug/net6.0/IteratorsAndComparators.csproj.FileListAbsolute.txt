@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/IteratorsAndComparators
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/IteratorsAndComparators.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/IteratorsAndComparators.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/IteratorsAndComparators.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/bin/Debug/net6.0/IteratorsAndComparators.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/refint/IteratorsAndComparators.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/IteratorsAndComparators.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/19.IteratorsAndComparators/01.Library/obj/Debug/net6.0/ref/IteratorsAndComparators.dll

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{567B6E0B-29E0-4308-A294-8DFDC2362A08}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IteratorsAndComparators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.Library/Library.cs">
+    <Files>
+      <File FileName="01.Library/Book.cs" Line="19" Column="6" IsPinned="True" />
+      <File FileName="01.Library/Library.cs" Line="48" Column="10" />
+      <File FileName="01.Library/StartUp.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="19.IteratorsAndComparators" expanded="True">
+            <Node name="IteratorsAndComparators">
+              <Node name="Library.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

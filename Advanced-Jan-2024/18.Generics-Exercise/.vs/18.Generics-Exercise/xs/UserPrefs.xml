@@ -1,12 +1,38 @@
-﻿<Properties StartupConfiguration="{06390B70-E70F-47A1-AD4E-86D08B501274}|Default">
+﻿<Properties StartupConfiguration="{BF6406FF-0737-42BD-BE08-E386404D4169}|Default">
   <MonoDevelop.Ide.ItemProperties.03.GenericSwapMethodString PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.ThreeupleV2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.ThreeupleV2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.07.Tuple PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.GenericSwapMethodInteger PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.GenericBoxOfInteger PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.08.Threeuple PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.GenericCountMethodString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../05.GenericCountMethodString/StartUp.cs" line="36" column="16" endLine="36" endColumn="23" offsetX="-1" offsetY="-1" expression="element" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.GenericBoxOfString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/StartUp.cs" relfile="05.GenericCountMethodString/StartUp.cs" line="37" column="1" />
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/08.Threeuple/StartUp.cs" relfile="08.Threeuple/StartUp.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.06.GenericCountMethodDouble PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.ThreeupleV2/StartUp.cs">
+    <Files>
+      <File FileName="08.Threeuple/Threeuple.cs" Line="1" Column="1" />
+      <File FileName="08.Threeuple/StartUp.cs" Line="59" Column="1" />
+      <File FileName="09.ThreeupleV2/StartUp.cs" Line="12" Column="14" />
+      <File FileName="09.ThreeupleV2/Threeuple.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
