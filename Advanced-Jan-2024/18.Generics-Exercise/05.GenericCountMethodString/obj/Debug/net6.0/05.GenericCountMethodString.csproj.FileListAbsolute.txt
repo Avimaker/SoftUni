@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/bin/Debug/net6.0/05.GenericCountMethodString
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/bin/Debug/net6.0/05.GenericCountMethodString.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/bin/Debug/net6.0/05.GenericCountMethodString.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/bin/Debug/net6.0/05.GenericCountMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/bin/Debug/net6.0/05.GenericCountMethodString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/refint/05.GenericCountMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/05.GenericCountMethodString.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/05.GenericCountMethodString/obj/Debug/net6.0/ref/05.GenericCountMethodString.dll

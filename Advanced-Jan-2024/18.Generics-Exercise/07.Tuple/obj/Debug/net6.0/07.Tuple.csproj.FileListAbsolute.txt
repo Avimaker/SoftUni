@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/bin/Debug/net6.0/07.Tuple
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/bin/Debug/net6.0/07.Tuple.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/bin/Debug/net6.0/07.Tuple.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/bin/Debug/net6.0/07.Tuple.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/bin/Debug/net6.0/07.Tuple.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/refint/07.Tuple.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/07.Tuple.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/07.Tuple/obj/Debug/net6.0/ref/07.Tuple.dll

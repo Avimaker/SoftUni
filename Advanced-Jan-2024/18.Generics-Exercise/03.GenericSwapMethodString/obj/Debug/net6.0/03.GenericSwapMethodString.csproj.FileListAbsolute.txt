@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/bin/Debug/net6.0/03.GenericSwapMethodString
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/bin/Debug/net6.0/03.GenericSwapMethodString.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/bin/Debug/net6.0/03.GenericSwapMethodString.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/bin/Debug/net6.0/03.GenericSwapMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/bin/Debug/net6.0/03.GenericSwapMethodString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/refint/03.GenericSwapMethodString.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/03.GenericSwapMethodString.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/18.Generics-Exercise/03.GenericSwapMethodString/obj/Debug/net6.0/ref/03.GenericSwapMethodString.dll

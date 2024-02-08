@@ -1,5 +1,12 @@
-﻿<Properties StartupConfiguration="{D58156D7-1E40-4903-A3CF-DF6DF286F2FD}|Default">
-  <MonoDevelop.Ide.ItemProperties.02.GenericBoxOfInteger FirstBuild="True" />
+﻿<Properties StartupConfiguration="{06390B70-E70F-47A1-AD4E-86D08B501274}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.GenericSwapMethodString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.ThreeupleV2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.Tuple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.GenericSwapMethodInteger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.GenericBoxOfInteger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Threeuple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.GenericCountMethodString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.GenericBoxOfString PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.06.GenericCountMethodDouble PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
