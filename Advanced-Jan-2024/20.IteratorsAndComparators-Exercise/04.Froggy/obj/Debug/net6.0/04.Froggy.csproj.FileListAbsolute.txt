@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/bin/Debug/net6.0/04.Froggy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/refint/04.Froggy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/04.Froggy.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/04.Froggy/obj/Debug/net6.0/ref/04.Froggy.dll

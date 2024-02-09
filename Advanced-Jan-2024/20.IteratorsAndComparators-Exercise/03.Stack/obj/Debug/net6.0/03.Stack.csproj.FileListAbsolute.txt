@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/bin/Debug/net6.0/03.Stack
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/bin/Debug/net6.0/03.Stack.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/bin/Debug/net6.0/03.Stack.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/bin/Debug/net6.0/03.Stack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/bin/Debug/net6.0/03.Stack.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/refint/03.Stack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/03.Stack.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/03.Stack/obj/Debug/net6.0/ref/03.Stack.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/bin/Debug/net6.0/05.ComparingObjects
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/bin/Debug/net6.0/05.ComparingObjects.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/refint/05.ComparingObjects.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/05.ComparingObjects.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/05.ComparingObjects/obj/Debug/net6.0/ref/05.ComparingObjects.dll

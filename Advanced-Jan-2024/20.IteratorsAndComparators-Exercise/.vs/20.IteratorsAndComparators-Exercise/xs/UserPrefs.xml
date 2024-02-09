@@ -1,5 +1,8 @@
-﻿<Properties StartupConfiguration="{441EC19A-2071-4477-B4BA-A4B2A076FD6D}|Default">
+﻿<Properties StartupConfiguration="{B92E65E0-D934-4FEE-9618-F13B9AFA8A0D}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01.ListyIterator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.Collection FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Froggy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Collection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.ComparingObjects FirstBuild="True" />
 </Properties>
