@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/bin/Debug/net6.0/02.Collection
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/bin/Debug/net6.0/02.Collection.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/bin/Debug/net6.0/02.Collection.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/bin/Debug/net6.0/02.Collection.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/bin/Debug/net6.0/02.Collection.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/refint/02.Collection.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/02.Collection.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/20.IteratorsAndComparators-Exercise/02.Collection/obj/Debug/net6.0/ref/02.Collection.dll
