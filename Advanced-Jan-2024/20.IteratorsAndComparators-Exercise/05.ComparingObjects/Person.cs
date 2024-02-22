@@ -23,7 +23,9 @@ namespace ComparingObjects
                 return result;
             }
 
-            return Town.CompareTo(other.Town);
+            result = Town.CompareTo(other.Town);
+
+            return result;
         }
     }
 }

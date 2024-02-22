@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/bin/Debug/net6.0/Person
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/bin/Debug/net6.0/Person.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/bin/Debug/net6.0/Person.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/bin/Debug/net6.0/Person.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/bin/Debug/net6.0/Person.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/refint/Person.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/Person.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/Person/obj/Debug/net6.0/ref/Person.dll

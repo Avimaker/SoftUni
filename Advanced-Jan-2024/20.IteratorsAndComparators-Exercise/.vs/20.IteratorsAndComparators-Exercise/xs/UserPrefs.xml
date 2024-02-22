@@ -1,8 +1,30 @@
-﻿<Properties StartupConfiguration="{B92E65E0-D934-4FEE-9618-F13B9AFA8A0D}|Default">
+﻿<Properties StartupConfiguration="{1952C43D-6821-400A-B394-765759B8E566}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.Froggy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01.ListyIterator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.03.Stack PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.Froggy PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Collection PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.ComparingObjects FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.ComparingObjects/Program.cs">
+    <Files>
+      <File FileName="05.ComparingObjects/Program.cs" Line="54" Column="29" />
+      <File FileName="05.ComparingObjects/Person.cs" Line="28" Column="27" />
+      <File FileName="03.Stack/StartUp.cs" Line="20" Column="3" />
+      <File FileName="03.Stack/CustomStack.cs" Line="1" Column="1" />
+      <File FileName="04.Froggy/Lake.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.ComparingObjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
