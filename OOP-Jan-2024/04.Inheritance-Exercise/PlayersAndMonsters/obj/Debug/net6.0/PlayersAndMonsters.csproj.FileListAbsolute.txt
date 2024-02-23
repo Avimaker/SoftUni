@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/bin/Debug/net6.0/PlayersAndMonsters
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/bin/Debug/net6.0/PlayersAndMonsters.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/bin/Debug/net6.0/PlayersAndMonsters.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/bin/Debug/net6.0/PlayersAndMonsters.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/bin/Debug/net6.0/PlayersAndMonsters.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/refint/PlayersAndMonsters.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/PlayersAndMonsters.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/PlayersAndMonsters/obj/Debug/net6.0/ref/PlayersAndMonsters.dll
