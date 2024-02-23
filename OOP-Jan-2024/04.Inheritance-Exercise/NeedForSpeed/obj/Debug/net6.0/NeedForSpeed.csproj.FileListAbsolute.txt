@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/bin/Debug/net6.0/NeedForSpeed
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/bin/Debug/net6.0/NeedForSpeed.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/bin/Debug/net6.0/NeedForSpeed.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/bin/Debug/net6.0/NeedForSpeed.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/bin/Debug/net6.0/NeedForSpeed.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/refint/NeedForSpeed.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/NeedForSpeed.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/obj/Debug/net6.0/ref/NeedForSpeed.dll
