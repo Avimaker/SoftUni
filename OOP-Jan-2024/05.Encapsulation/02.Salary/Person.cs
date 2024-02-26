@@ -52,7 +52,8 @@
 			}
 			else
 			{
-                Salary += Salary / 100 * percentage;
+                //Salary += Salary / 100 * percentage;
+				Salary *= 1 + (percentage / 100); // 1,%който искаме да умножим
             }
 		}
     }

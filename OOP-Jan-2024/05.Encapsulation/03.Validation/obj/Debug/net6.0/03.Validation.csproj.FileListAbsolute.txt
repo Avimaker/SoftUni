@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/bin/Debug/net6.0/03.Validation
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/bin/Debug/net6.0/03.Validation.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/bin/Debug/net6.0/03.Validation.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/bin/Debug/net6.0/03.Validation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/bin/Debug/net6.0/03.Validation.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/refint/03.Validation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/03.Validation.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/05.Encapsulation/03.Validation/obj/Debug/net6.0/ref/03.Validation.dll
