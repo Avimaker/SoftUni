@@ -56,10 +56,7 @@
 
         }
 
-        public IReadOnlyCollection<Person> FirstTeam
-        {
-            get { return this.firstTeam.AsReadOnly(); }
-        }
+        public IReadOnlyCollection<Person> FirstTeam => this.firstTeam.AsReadOnly();// кратък начин за изписване
 
         public IReadOnlyCollection<Person> ReserveTeam
         {

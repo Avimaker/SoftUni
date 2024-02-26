@@ -20,9 +20,17 @@ public class StartUp
         for (int i = 0; i < n; i++)
         {
             string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            Person person = new Person(tokens[0], tokens[1], int.Parse(tokens[2]), decimal.Parse(tokens[3]));
+            try
+            {
+                Person person = new Person(tokens[0], tokens[1], int.Parse(tokens[2]), decimal.Parse(tokens[3]));
 
-            persons.Add(person);
+                persons.Add(person);
+
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         decimal percentIncrease = decimal.Parse(Console.ReadLine());
