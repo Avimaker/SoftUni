@@ -1,21 +1,24 @@
-﻿<Properties StartupConfiguration="{B017C35F-8072-418C-9ECE-29BC667A118C}|Default">
+﻿<Properties StartupConfiguration="{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Person/StartUp.cs">
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/StartUp.cs" relfile="NeedForSpeed/StartUp.cs" line="7" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeedForSpeed/StartUp.cs">
     <Files>
-      <File FileName="Person/StartUp.cs" Line="29" Column="6" />
-      <File FileName="Person/Person.cs" Line="28" Column="31" />
-      <File FileName="Person/Child.cs" Line="24" Column="1" />
+      <File FileName="NeedForSpeed/StartUp.cs" Line="16" Column="1" />
+      <File FileName="NeedForSpeed/SportCar.cs" Line="10" Column="1" />
+      <File FileName="NeedForSpeed/Car.cs" Line="10" Column="1" />
+      <File FileName="NeedForSpeed/Vehicle.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InheritanceExercise">
-            <Node name="Person" expanded="True">
+          <Node name="InheritanceExercise" expanded="True">
+            <Node name="NeedForSpeed">
               <Node name="StartUp.cs" selected="True" />
             </Node>
           </Node>
@@ -26,5 +29,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlayersAndMonsters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NeedForSpeed PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
