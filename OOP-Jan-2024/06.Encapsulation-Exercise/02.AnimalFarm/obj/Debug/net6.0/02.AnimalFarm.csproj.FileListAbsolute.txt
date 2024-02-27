@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/bin/Debug/net6.0/02.AnimalFarm
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/bin/Debug/net6.0/02.AnimalFarm.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/bin/Debug/net6.0/02.AnimalFarm.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/bin/Debug/net6.0/02.AnimalFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/bin/Debug/net6.0/02.AnimalFarm.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/refint/02.AnimalFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/02.AnimalFarm.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/02.AnimalFarm/obj/Debug/net6.0/ref/02.AnimalFarm.dll

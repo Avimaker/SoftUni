@@ -1,4 +1,13 @@
 ﻿<Properties StartupConfiguration="{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/StartUp.cs" relfile="NeedForSpeed/StartUp.cs" line="7" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NeedForSpeed PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Beverage.cs">
     <Files>
       <File FileName="Restaurant/Beverage.cs" Line="1" Column="1" />
@@ -6,10 +15,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InheritanceExercise">
+          <Node name="InheritanceExercise" expanded="True">
             <Node name="Restaurant" expanded="True">
               <Node name="Beverage.cs" selected="True" />
             </Node>
+            <Node name="Zoo" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,14 +29,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PlayersAndMonsters PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/04.Inheritance-Exercise/NeedForSpeed/StartUp.cs" relfile="NeedForSpeed/StartUp.cs" line="7" column="13" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.NeedForSpeed PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

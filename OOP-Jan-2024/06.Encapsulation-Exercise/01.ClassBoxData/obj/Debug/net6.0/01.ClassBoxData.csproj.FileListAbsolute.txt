@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/bin/Debug/net6.0/01.ClassBoxData
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/bin/Debug/net6.0/01.ClassBoxData.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/bin/Debug/net6.0/01.ClassBoxData.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/bin/Debug/net6.0/01.ClassBoxData.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/bin/Debug/net6.0/01.ClassBoxData.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/refint/01.ClassBoxData.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/01.ClassBoxData.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/01.ClassBoxData/obj/Debug/net6.0/ref/01.ClassBoxData.dll
