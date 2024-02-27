@@ -1,4 +1,4 @@
-﻿namespace _01.ClassBoxData;
+﻿namespace ClassBoxData;
 class Program
 {
     static void Main(string[] args)

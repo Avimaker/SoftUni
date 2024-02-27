@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace PlayersAndMonsters
 {
 	public abstract class Knight : Hero
