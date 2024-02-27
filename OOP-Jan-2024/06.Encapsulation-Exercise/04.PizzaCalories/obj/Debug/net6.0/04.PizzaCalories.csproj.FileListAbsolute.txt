@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/bin/Debug/net6.0/04.PizzaCalories
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/bin/Debug/net6.0/04.PizzaCalories.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/bin/Debug/net6.0/04.PizzaCalories.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/bin/Debug/net6.0/04.PizzaCalories.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/bin/Debug/net6.0/04.PizzaCalories.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/refint/04.PizzaCalories.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/04.PizzaCalories.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/06.Encapsulation-Exercise/04.PizzaCalories/obj/Debug/net6.0/ref/04.PizzaCalories.dll

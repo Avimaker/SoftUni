@@ -1,4 +1,4 @@
-﻿namespace ShoppingSpree
+﻿namespace ShoppingSpree.Models
 {
 	public class Product
 	{

@@ -9,6 +9,8 @@ END
  
 */
 
+using ShoppingSpree.Models;
+
 namespace ShoppingSpree;
 public class StartUp
 {

@@ -24,8 +24,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.03.ShoppingSpree FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.ShoppingSpree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.AnimalFarm PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.04.PizzaCalories FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

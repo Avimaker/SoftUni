@@ -18,7 +18,7 @@ namespace AnimalFarm
             try
             {
                 Chicken chicken = new Chicken(name, age);
-                Console.WriteLine($"Chicken {chicken.Name} (age {chicken.Age}) can produce {chicken.ProductPerDay} eggs per day.");
+                Console.WriteLine(chicken);
 
             }
             catch (Exception ex)

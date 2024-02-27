@@ -45,7 +45,7 @@ namespace AnimalFarm.Models
             {
                 if (value < MinAge || value > MaxAge )
                 {
-                    throw new ArgumentException("Age should be between 0 and 15.");
+                    throw new ArgumentException($"Age should be between {MinAge} and {MaxAge}.");
                 }
 
                 else
@@ -55,13 +55,17 @@ namespace AnimalFarm.Models
             }
         }
 
-        public double ProductPerDay
-        {
-            get
-            {
-                return this.CalculateProductPerDay();
-            }
-        }
+        ////Long and old
+        //public double ProductPerDay
+        //{
+        //    get
+        //    {
+        //        return this.CalculateProductPerDay();
+        //    }
+        //}
+
+        //New and short
+        public double ProductPerDay => this.CalculateProductPerDay();
 
         private double CalculateProductPerDay()
         {
@@ -86,5 +90,9 @@ namespace AnimalFarm.Models
                     return 0.75;
             }
         }
+
+        public override string ToString()
+        => $"Chicken {Name} (age {Age}) can produce {ProductPerDay} eggs per day.";
+        
     }
 }
