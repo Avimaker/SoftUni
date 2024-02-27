@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{51F14C37-EBDA-4F07-B9E1-6D5F9F106ED0}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.ClassBoxData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="02.AnimalFarm/Models/Chicken.cs">
     <Files>
       <File FileName="02.AnimalFarm/Program.cs" Line="21" Column="37" />
@@ -25,8 +24,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.ShoppingSpree FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.02.AnimalFarm PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
