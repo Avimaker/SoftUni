@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/bin/Debug/net6.0/04.BorderControl
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/bin/Debug/net6.0/04.BorderControl.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/bin/Debug/net6.0/04.BorderControl.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/bin/Debug/net6.0/04.BorderControl.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/bin/Debug/net6.0/04.BorderControl.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/refint/04.BorderControl.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/04.BorderControl.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/04.BorderControl/obj/Debug/net6.0/ref/04.BorderControl.dll

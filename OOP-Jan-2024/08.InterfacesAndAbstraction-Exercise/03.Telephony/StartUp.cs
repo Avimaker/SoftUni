@@ -20,6 +20,27 @@ public class StartUp
             .Split(" ", StringSplitOptions.RemoveEmptyEntries)
             .ToArray();
 
+
+        //// това е със знанията ми до сега
+        //foreach (var number in numbers)
+        //{
+        //    if (number.Length == 10)
+        //    {
+        //        Smartphone smartphone = new();
+        //        smartphone.Call(number);
+        //    }
+        //    else
+        //    {
+        //        StationaryPhone stationaryPhone = new();
+        //        stationaryPhone.Call(number);
+        //    }
+        //}
+
+
+        // ICallable callable = new Smartphone();
+        // ICallable callable = new StationaryPhone();
+        // по-долу според проверката за дължина създаваме/инстанцираме единия или другия клас 
+
         ICallable callable;
 
         foreach (var number in numbers)
