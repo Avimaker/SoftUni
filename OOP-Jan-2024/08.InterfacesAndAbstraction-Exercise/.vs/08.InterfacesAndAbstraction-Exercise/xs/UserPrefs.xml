@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{6DF6B6F9-F256-4D8C-98BF-4C306C5368F1}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.MultipleImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.Telephony FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.DefineAnInterfaceIPerson PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

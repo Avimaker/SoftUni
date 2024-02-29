@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/bin/Debug/net6.0/01.DefineAnInterfaceIPerson
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/bin/Debug/net6.0/01.DefineAnInterfaceIPerson.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/bin/Debug/net6.0/01.DefineAnInterfaceIPerson.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/bin/Debug/net6.0/01.DefineAnInterfaceIPerson.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/bin/Debug/net6.0/01.DefineAnInterfaceIPerson.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/refint/01.DefineAnInterfaceIPerson.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/01.DefineAnInterfaceIPerson.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/01.DefineAnInterfaceIPerson/obj/Debug/net6.0/ref/01.DefineAnInterfaceIPerson.dll

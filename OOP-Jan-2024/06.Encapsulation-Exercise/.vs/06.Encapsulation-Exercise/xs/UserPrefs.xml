@@ -1,20 +1,16 @@
-﻿<Properties StartupConfiguration="{51F14C37-EBDA-4F07-B9E1-6D5F9F106ED0}|Default">
+﻿<Properties StartupConfiguration="{12AAD040-309A-4E56-A5EE-B125D28E8AF2}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.ClassBoxData PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.AnimalFarm/Models/Chicken.cs">
-    <Files>
-      <File FileName="02.AnimalFarm/Program.cs" Line="21" Column="37" />
-      <File FileName="02.AnimalFarm/Models/Chicken.cs" Line="63" Column="16" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="06.Encapsulation-Exercise" expanded="True">
-            <Node name="02.AnimalFarm">
-              <Node name="Models" expanded="True">
-                <Node name="Chicken.cs" selected="True" />
-              </Node>
+          <Node name="06.Encapsulation-Exercise">
+            <Node name="04.PizzaCalories" expanded="True">
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -27,6 +23,6 @@
   <MonoDevelop.Ide.ItemProperties.03.ShoppingSpree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.AnimalFarm PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.04.PizzaCalories FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.PizzaCalories PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

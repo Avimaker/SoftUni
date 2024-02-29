@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/bin/Debug/net6.0/01.Shapes
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/bin/Debug/net6.0/01.Shapes.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/bin/Debug/net6.0/01.Shapes.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/bin/Debug/net6.0/01.Shapes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/bin/Debug/net6.0/01.Shapes.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/refint/01.Shapes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/01.Shapes.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/07.InterfacesAndAbstraction/01.Shapes/obj/Debug/net6.0/ref/01.Shapes.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/bin/Debug/net6.0/02.MultipleImplementation
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/bin/Debug/net6.0/02.MultipleImplementation.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/bin/Debug/net6.0/02.MultipleImplementation.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/bin/Debug/net6.0/02.MultipleImplementation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/bin/Debug/net6.0/02.MultipleImplementation.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/refint/02.MultipleImplementation.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/02.MultipleImplementation.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/08.InterfacesAndAbstraction-Exercise/02.MultipleImplementation/obj/Debug/net6.0/ref/02.MultipleImplementation.dll
