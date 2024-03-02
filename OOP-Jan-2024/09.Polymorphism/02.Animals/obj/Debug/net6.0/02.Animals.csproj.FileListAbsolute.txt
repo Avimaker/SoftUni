@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/bin/Debug/net6.0/02.Animals
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/bin/Debug/net6.0/02.Animals.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/bin/Debug/net6.0/02.Animals.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/bin/Debug/net6.0/02.Animals.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/bin/Debug/net6.0/02.Animals.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/refint/02.Animals.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/02.Animals.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/09.Polymorphism/02.Animals/obj/Debug/net6.0/ref/02.Animals.dll
