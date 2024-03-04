@@ -23,7 +23,7 @@ namespace Shapes.Models
 
         public override double CalculatePerimeter()
         {
-            return 2 * (Height * Width);
+            return 2 * (Height + Width);
         }
 
         public override string Draw()
