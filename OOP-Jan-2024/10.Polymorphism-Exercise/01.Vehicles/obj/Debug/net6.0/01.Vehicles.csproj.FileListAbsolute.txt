@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/bin/Debug/net6.0/01.Vehicles
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/bin/Debug/net6.0/01.Vehicles.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/bin/Debug/net6.0/01.Vehicles.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/bin/Debug/net6.0/01.Vehicles.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/bin/Debug/net6.0/01.Vehicles.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/refint/01.Vehicles.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/01.Vehicles.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/01.Vehicles/obj/Debug/net6.0/ref/01.Vehicles.dll

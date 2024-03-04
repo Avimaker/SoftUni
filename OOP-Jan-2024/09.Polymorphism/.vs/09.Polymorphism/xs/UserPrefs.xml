@@ -1,12 +1,16 @@
 ﻿<Properties StartupConfiguration="{58246962-55FA-470B-A965-D7FA5D70D0B6}|Default">
-  <MonoDevelop.Ide.ItemProperties.01.MathOperations PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Shapes/StartUp.cs">
+    <Files>
+      <File FileName="03.Shapes/StartUp.cs" Line="22" Column="25" />
+      <File FileName="03.Shapes/Models/Shape.cs" Line="1" Column="1" />
+      <File FileName="03.Shapes/Models/Rectangle.cs" Line="28" Column="1" />
+      <File FileName="03.Shapes/Models/Circle.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09.Polymorphism" expanded="True">
-            <Node name="03.Shapes">
+          <Node name="09.Polymorphism">
+            <Node name="03.Shapes" expanded="True">
               <Node name="Models" expanded="True" />
             </Node>
           </Node>
@@ -17,11 +21,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02.Animals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.03.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.MathOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
