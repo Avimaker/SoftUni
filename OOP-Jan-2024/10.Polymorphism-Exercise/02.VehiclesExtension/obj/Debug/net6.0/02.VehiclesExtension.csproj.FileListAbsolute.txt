@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/bin/Debug/net6.0/02.VehiclesExtension
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/bin/Debug/net6.0/02.VehiclesExtension.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/bin/Debug/net6.0/02.VehiclesExtension.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/bin/Debug/net6.0/02.VehiclesExtension.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/bin/Debug/net6.0/02.VehiclesExtension.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/refint/02.VehiclesExtension.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/02.VehiclesExtension.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/02.VehiclesExtension/obj/Debug/net6.0/ref/02.VehiclesExtension.dll
