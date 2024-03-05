@@ -1,7 +1,7 @@
 ﻿/*
 3
 Mike
-Paladin
+Paladi
 Josh
 Druid
 Scott
@@ -28,34 +28,44 @@ public class StartUp
 
         int herosCount = int.Parse(Console.ReadLine());
 
+        HeroFactory heroFactory = new();
+
         //for (int i = 0; i < herosCount; i++)
         while (list.Count < herosCount)
         {
             string heroName = Console.ReadLine();
             string heroType = Console.ReadLine();
 
-            if (heroType == "Druid")
+            try
             {
-                list.Add(new Druid(heroName));
-                
+                list.Add(heroFactory.CreateHero(heroType, heroName));
             }
-            else if (heroType == "Paladin")
+            catch (Exception ex)
             {
-                list.Add(new Paladin(heroName));
+                Console.WriteLine(ex.Message);
             }
-            else if (heroType == "Rogue")
-            {
-                list.Add(new Rogue(heroName));
-            }
-            else if (heroType == "Warrior")
-            {
-                list.Add(new Warrior(heroName));
-            }
-            else
-            {
-                Console.WriteLine("Invalid hero!");
-                //i--;
-            }
+
+            //if (heroType == "Druid")
+            //{
+            //    list.Add(new Druid(heroName));
+            //}
+            //else if (heroType == "Paladin")
+            //{
+            //    list.Add(new Paladin(heroName));
+            //}
+            //else if (heroType == "Rogue")
+            //{
+            //    list.Add(new Rogue(heroName));
+            //}
+            //else if (heroType == "Warrior")
+            //{
+            //    list.Add(new Warrior(heroName));
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid hero!");
+            //    //i--;
+            //}
         }
 
         foreach (var hero in list)  

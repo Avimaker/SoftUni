@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{EAC36B18-D60E-4210-B313-F5066D0E3BC8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.Raiding/Models/BaseHero.cs">
-    <Files>
-      <File FileName="03.Raiding/Models/BaseHero.cs" Line="14" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{0C25E2C4-5EF6-43F5-9E44-6CEF85265450}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.Raiding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.Vehicles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.VehiclesExtension PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10.Polymorphism-Exercise">
-            <Node name="02.VehiclesExtension" expanded="True" />
-            <Node name="03.Raiding">
-              <Node name="Models">
-                <Node name="BaseHero.cs" selected="True" />
-              </Node>
-            </Node>
+          <Node name="10.Polymorphism-Exercise" expanded="True">
+            <Node name="02.VehiclesExtension" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -21,13 +22,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.03.Raiding PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02.VehiclesExtension PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.01.Vehicles PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
