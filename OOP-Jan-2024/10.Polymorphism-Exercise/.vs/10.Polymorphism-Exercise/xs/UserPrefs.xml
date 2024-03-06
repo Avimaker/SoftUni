@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{0C25E2C4-5EF6-43F5-9E44-6CEF85265450}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.03.Raiding PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.01.Vehicles PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.VehiclesExtension PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.VehiclesExtension PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="10.Polymorphism-Exercise" expanded="True">
-            <Node name="02.VehiclesExtension" selected="True" />
+          <Node name="10.Polymorphism-Exercise">
+            <Node name="01.Vehicles" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="02.VehiclesExtension" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,4 +25,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Raiding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Vehicles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

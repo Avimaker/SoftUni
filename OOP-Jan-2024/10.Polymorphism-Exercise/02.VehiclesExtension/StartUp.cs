@@ -5,7 +5,7 @@ Car 30 0.04 70
 Truck 100 0.5 300
 Bus 40 0.3 150
 8
-Refuel Car -10
+Refuel Truck 10
 Refuel Truck 0
 Refuel Car 10
 Refuel Car 300
@@ -109,6 +109,17 @@ public class StartUp
         {
             double fuelAmount = value;
             vehicle.Refuel(fuelAmount);
+
+            //double fuelAmount = value;
+            //if (vehicleType == "Car")
+            //{
+            //    vehicle.Refuel(fuelAmount);
+            //}
+            //else if (vehicleType == "Truck")
+            //{
+            //    vehicle.Refuel(fuelAmount * 0.95);
+            //}
+
         }
 
     }

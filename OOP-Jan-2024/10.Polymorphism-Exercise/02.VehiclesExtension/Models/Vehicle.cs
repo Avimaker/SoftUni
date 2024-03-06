@@ -83,6 +83,11 @@ public abstract class Vehicle : IDrive, IRefuel, IVehicle
             throw new ArgumentException($"Cannot fit {amountLiters} fuel in the tank");
         }
 
+        if (GetType().Name == "Truck")
+        {
+            amountLiters *= 0.95;
+        }
+
         FuelQuantity += amountLiters;
     }
 
