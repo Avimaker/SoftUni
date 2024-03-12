@@ -1,0 +1,12 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/bin/Debug/net6.0/LogForU.Core.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/bin/Debug/net6.0/LogForU.Core.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/bin/Debug/net6.0/LogForU.Core.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/refint/LogForU.Core.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/LogForU.Core.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/14.SOLID-Exercise/LogForU.Core/obj/Debug/net6.0/ref/LogForU.Core.dll

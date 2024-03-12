@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/bin/Debug/net6.0/04.WildFarm
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/bin/Debug/net6.0/04.WildFarm.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/bin/Debug/net6.0/04.WildFarm.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/bin/Debug/net6.0/04.WildFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/bin/Debug/net6.0/04.WildFarm.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/refint/04.WildFarm.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/04.WildFarm.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/10.Polymorphism-Exercise/04.WildFarm/obj/Debug/net6.0/ref/04.WildFarm.dll

@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>LogForU.Core</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Loggers\" />
+    <None Remove="Appenders\" />
+    <None Remove="Appenders\Interfaces\" />
+    <None Remove="Loggers\Interfaces\" />
+    <None Remove="Enums\" />
+    <None Remove="Models\" />
+    <None Remove="Exceptions\" />
+    <None Remove="IO\" />
+    <None Remove="IO\Interfaces\" />
+    <None Remove="Layouts\" />
+    <None Remove="Layouts\Interfaces\" />
+    <None Remove="Utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Loggers\" />
+    <Folder Include="Appenders\" />
+    <Folder Include="Appenders\Interfaces\" />
+    <Folder Include="Loggers\Interfaces\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Models\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="IO\" />
+    <Folder Include="IO\Interfaces\" />
+    <Folder Include="Layouts\" />
+    <Folder Include="Layouts\Interfaces\" />
+    <Folder Include="Utils\" />
+  </ItemGroup>
+</Project>
