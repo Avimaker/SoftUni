@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "002.Demos/1.0.0": {
+        "dependencies": {
+          "003.Demos": "1.0.0"
+        },
+        "runtime": {
+          "002.Demos.dll": {}
+        }
+      },
+      "003.Demos/1.0.0": {
+        "runtime": {
+          "003.Demos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "002.Demos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "003.Demos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

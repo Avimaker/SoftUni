@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/bin/Debug/net6.0/003.Demos
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/bin/Debug/net6.0/003.Demos.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/bin/Debug/net6.0/003.Demos.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/bin/Debug/net6.0/003.Demos.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/bin/Debug/net6.0/003.Demos.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/refint/003.Demos.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/003.Demos.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/003.Demos/obj/Debug/net6.0/ref/003.Demos.dll

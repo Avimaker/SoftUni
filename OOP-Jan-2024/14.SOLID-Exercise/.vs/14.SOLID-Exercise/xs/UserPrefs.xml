@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{DD51CD06-B945-41AB-AFEF-0018EAC11A02}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LogForU.Core/Class1.cs">
-    <Files>
-      <File FileName="LogForU.Core/Class1.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="14.SOLID-Exercise" expanded="True">
-            <Node name="LogForU.ConsoleApp" expanded="True" />
-            <Node name="LogForU.Core">
-              <Node name="Class1.cs" selected="True" />
+            <Node name="LogForU.Core" expanded="True">
+              <Node name="Appenders" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="FileAppender.cs" selected="True" />
+              </Node>
+              <Node name="Layouts" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -20,10 +23,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LogForU.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LogForU.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

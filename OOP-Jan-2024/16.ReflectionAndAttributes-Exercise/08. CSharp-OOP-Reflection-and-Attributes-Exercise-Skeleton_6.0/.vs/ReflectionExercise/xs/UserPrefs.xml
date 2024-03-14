@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommandPattern/StartUp.cs">
+    <Files>
+      <File FileName="CommandPattern/CommandPattern.csproj" Line="1" Column="1" />
+      <File FileName="CommandPattern/StartUp.cs" Line="1" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReflectionExercise" expanded="True">
+            <Node name="CommandPattern" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+            <Node name="ValidationAttributes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CommandPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

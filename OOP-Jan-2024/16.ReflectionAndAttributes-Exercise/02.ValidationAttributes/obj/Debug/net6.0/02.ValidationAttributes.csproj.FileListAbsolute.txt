@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/bin/Debug/net6.0/02.ValidationAttributes
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/bin/Debug/net6.0/02.ValidationAttributes.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/bin/Debug/net6.0/02.ValidationAttributes.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/bin/Debug/net6.0/02.ValidationAttributes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/bin/Debug/net6.0/02.ValidationAttributes.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/refint/02.ValidationAttributes.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/02.ValidationAttributes.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/16.ReflectionAndAttributes-Exercise/02.ValidationAttributes/obj/Debug/net6.0/ref/02.ValidationAttributes.dll
