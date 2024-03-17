@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{2918767B-8313-49B1-88BC-F88CF59749DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.SoftUni FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SoftUni.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

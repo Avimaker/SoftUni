@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/bin/Debug/net6.0/Calculator
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/17.UnitTesting/Calculator/obj/Debug/net6.0/ref/Calculator.dll
