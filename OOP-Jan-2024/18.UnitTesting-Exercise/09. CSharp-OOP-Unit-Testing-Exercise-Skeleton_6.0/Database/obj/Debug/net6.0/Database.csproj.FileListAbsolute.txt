@@ -1,0 +1,12 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/bin/Debug/net6.0/Database.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/bin/Debug/net6.0/Database.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/bin/Debug/net6.0/Database.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/refint/Database.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/Database.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/18.UnitTesting-Exercise/09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0/Database/obj/Debug/net6.0/ref/Database.dll

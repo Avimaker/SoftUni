@@ -6,7 +6,7 @@ public class UniversityTest
     private Student student;
 
     [SetUp]
-    public void SetUp()
+    public void SetUp() // стартира се ПРЕДИ всеки тест
     {
         university = new University();
         student = new Student()
@@ -18,7 +18,7 @@ public class UniversityTest
         };
     }
 
-    [TearDown] // ползва се рядко
+    [TearDown] // ползва се рядко / стартира се СЛЕД всеки тест
     public void CleanUp()
     {
 

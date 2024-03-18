@@ -1,6 +1,23 @@
-﻿<Properties StartupConfiguration="{2918767B-8313-49B1-88BC-F88CF59749DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.SoftUni FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SoftUni.Tests FirstBuild="True" />
+﻿<Properties StartupConfiguration="{EAF438D8-F862-4632-BB61-9295091B7AA2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SoftUni PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SoftUni.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="17.UnitTesting" expanded="True">
+            <Node name="SoftUni" expanded="True" />
+            <Node name="SoftUni.Tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
