@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XQVyZRWNFoLOY3Qtfy2KKwr/D7DPtg3A0hN5/gDLA8wpBpxSCybfTW3Bx7eVewk5U+xpVT2Cc/gFdbzQ8WRXQ==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/Mocks/Mocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{63CE0D4A-296C-4450-A887-75BDA2595799}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mocks FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineShopPromotions.Tests/StoreTest.cs">
+    <Files>
+      <File FileName="Mocks/Program.cs" Line="18" Column="1" />
+      <File FileName="OnlineShopPromotions.Tests/StoreTest.cs" Line="10" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="19.MockingAndTestDrivenDevelopment" expanded="True">
+            <Node name="Mocks">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="OnlineShopPromotions.Tests" expanded="True">
+              <Node name="Fakes" expanded="True" />
+              <Node name="StoreTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="19.MockingAndTestDrivenDevelopment" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OnlineShopPromotions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

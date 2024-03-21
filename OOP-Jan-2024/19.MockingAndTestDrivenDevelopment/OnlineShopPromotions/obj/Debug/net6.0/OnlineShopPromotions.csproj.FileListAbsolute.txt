@@ -1,0 +1,17 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/OnlineShopPromotions
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/OnlineShopPromotions.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/OnlineShopPromotions.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/OnlineShopPromotions.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/OnlineShopPromotions.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/refint/OnlineShopPromotions.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/ref/OnlineShopPromotions.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/obj/Debug/net6.0/OnlineShopPromotions.csproj.CopyComplete

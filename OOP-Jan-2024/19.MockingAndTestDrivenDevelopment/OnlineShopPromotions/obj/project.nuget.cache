@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtMKxE55Ze72d23XuoGf+6QrxPbqO607RbClRqVbbd5rZAw/pk1p3jreqrCDFzU615M7bGfKy0nVJMbImdF88Q==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions/OnlineShopPromotions.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
