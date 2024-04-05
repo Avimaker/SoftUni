@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/bin/Debug/net6.0/Handball
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/bin/Debug/net6.0/Handball.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/bin/Debug/net6.0/Handball.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/bin/Debug/net6.0/Handball.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/bin/Debug/net6.0/Handball.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/refint/Handball.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/Handball.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/Handball_Skeleton_6.0/Handball/obj/Debug/net6.0/ref/Handball.dll

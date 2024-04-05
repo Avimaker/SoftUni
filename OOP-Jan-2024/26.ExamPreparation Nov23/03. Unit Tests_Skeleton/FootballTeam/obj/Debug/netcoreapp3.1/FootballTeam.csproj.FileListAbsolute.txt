@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/bin/Debug/netcoreapp3.1/FootballTeam.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/Debug/netcoreapp3.1/FootballTeam.genruntimeconfig.cache

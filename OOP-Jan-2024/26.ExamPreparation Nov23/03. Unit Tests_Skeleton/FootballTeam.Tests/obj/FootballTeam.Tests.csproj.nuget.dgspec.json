@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/FootballTeam.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/FootballTeam.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/FootballTeam.Tests.csproj",
+        "projectName": "FootballTeam.Tests",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/FootballTeam.Tests.csproj",
+        "packagesPath": "/Users/avimaker/.nuget/packages/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/avimaker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj": {
+                "projectPath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj",
+        "projectName": "FootballTeam",
+        "projectPath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj",
+        "packagesPath": "/Users/avimaker/.nuget/packages/",
+        "outputPath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/avimaker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

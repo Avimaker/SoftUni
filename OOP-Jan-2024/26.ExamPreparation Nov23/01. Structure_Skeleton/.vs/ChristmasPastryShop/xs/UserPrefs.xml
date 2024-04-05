@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{90945C59-EA60-4D06-BBD1-27BBD552DACA}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChristmasPastryShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChristmasPastryShop" expanded="True">
+            <Node name="ChristmasPastryShop" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Booths" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

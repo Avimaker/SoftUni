@@ -1,21 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "FA2F0puARTD9sgw7Sw3xo7G/FW3KH4rQCBtmxUbTpL3/eA6ObOAjXNJ8F47Rre/DKATgzh8wHo/kBiUBhOm1Zw==",
+  "dgSpecHash": "WejG2xNlx/rc6dcWy7MCmjQyfyVWxpo2vXXdHiXsIU2hhHb3VYMvMubyXyPpmvnn3xxFFi7TMQfNLRJKyXUGpg==",
   "success": true,
   "projectFilePath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/19.MockingAndTestDrivenDevelopment/OnlineShopPromotions.Tests/OnlineShopPromotions.Tests.csproj",
   "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.testplatform.objectmodel/17.1.0/microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/microsoft.testplatform.testhost/17.1.0/microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/avimaker/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []

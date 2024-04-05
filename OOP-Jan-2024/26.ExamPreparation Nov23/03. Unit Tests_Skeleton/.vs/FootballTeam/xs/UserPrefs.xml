@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{722ABBA9-A4CA-4452-B1B4-D0CF7F6E3751}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FootballTeam.Tests/FootballPlayer.Tests.cs">
+    <Files>
+      <File FileName="FootballTeam.Tests/FootballTeam.Tests.cs" Line="23" Column="10" />
+      <File FileName="FootballTeam.Tests/FootballPlayer.Tests.cs" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FootballTeam" expanded="True">
+            <Node name="FootballTeam.Tests">
+              <Node name="FootballPlayer.Tests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam.Tests/FootballPlayer.Tests" relfile="FootballTeam.Tests/FootballPlayer.Tests" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FootballTeam.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FootballTeam PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

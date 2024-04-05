@@ -1,0 +1,14 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop.runtimeconfig.dev.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/bin/Debug/netcoreapp3.1/ChristmasPastryShop.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/25.ExamPreparation/01. Structure_Skeleton/obj/Debug/netcoreapp3.1/ChristmasPastryShop.genruntimeconfig.cache

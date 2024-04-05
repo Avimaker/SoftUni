@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTs7BSNNlERNpWVhJ++VbRa4ySlznH7k+59o9OxTTgGxu7CKnm0mV9akccy4B/0M5qI9Rz6DMGY5rAMRwSZefg==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/26.ExamPreparation/03. Unit Tests_Skeleton/FootballTeam/FootballTeam.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

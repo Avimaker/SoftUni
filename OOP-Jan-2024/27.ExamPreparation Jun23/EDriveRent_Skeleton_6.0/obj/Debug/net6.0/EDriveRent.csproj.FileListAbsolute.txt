@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/bin/Debug/net6.0/EDriveRent
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/bin/Debug/net6.0/EDriveRent.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/bin/Debug/net6.0/EDriveRent.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/bin/Debug/net6.0/EDriveRent.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/bin/Debug/net6.0/EDriveRent.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/refint/EDriveRent.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/EDriveRent.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/27.ExamPreparation Jun23/EDriveRent_Skeleton_6.0/obj/Debug/net6.0/ref/EDriveRent.dll
