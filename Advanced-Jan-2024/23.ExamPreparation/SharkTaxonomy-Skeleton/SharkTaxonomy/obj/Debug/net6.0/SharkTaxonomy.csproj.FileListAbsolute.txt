@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/bin/Debug/net6.0/SharkTaxonomy
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/bin/Debug/net6.0/SharkTaxonomy.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/bin/Debug/net6.0/SharkTaxonomy.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/bin/Debug/net6.0/SharkTaxonomy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/bin/Debug/net6.0/SharkTaxonomy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/refint/SharkTaxonomy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/SharkTaxonomy.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/SharkTaxonomy-Skeleton/SharkTaxonomy/obj/Debug/net6.0/ref/SharkTaxonomy.dll

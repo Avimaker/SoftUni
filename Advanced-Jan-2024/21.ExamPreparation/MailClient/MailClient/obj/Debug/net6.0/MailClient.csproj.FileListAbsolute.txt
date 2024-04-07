@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/bin/Debug/net6.0/MailClient
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/bin/Debug/net6.0/MailClient.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/bin/Debug/net6.0/MailClient.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/bin/Debug/net6.0/MailClient.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/bin/Debug/net6.0/MailClient.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/refint/MailClient.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/MailClient.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/MailClient/MailClient/obj/Debug/net6.0/ref/MailClient.dll

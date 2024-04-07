@@ -1,0 +1,139 @@
+namespace FishingCompetition
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            int size = int.Parse(Console.ReadLine());
+
+            string[,] area = new string[size, size];
+
+            int posRow = -1;
+            int posCol = -1;
+
+            int fishQuantity = 0;
+
+            for (int i = 0; i < area.GetLength(0); i++)
+            {
+                string newRow = Console.ReadLine();
+
+                for (int j = 0; j < area.GetLength(1); j++)
+                {
+                    if (newRow[j].ToString() == "S")
+                    {
+                        posRow = i;
+                        posCol = j;
+                        area[i, j] = "-";
+                        continue;
+                    }
+
+                    area[i, j] = newRow[j].ToString();
+                }
+            }
+
+            string command;
+            while ((command = Console.ReadLine()) != "collect the nets")
+            {
+                if (MoveIsOutOfArea(size, posRow, posCol, command))
+                {
+                    if (command == "up" || command == "down")
+                    {
+                        posRow = ResetRow(size, command);
+                    }
+
+                    if (command == "left" || command == "right")
+                    {
+                        posCol = ResetCol(size, command);
+                    }
+                }
+                else
+                {
+                    if (command == "up")
+                    {
+                        posRow--;
+                    }
+                    else if (command == "down")
+                    {
+                        posRow++;
+                    }
+                    else if (command == "left")
+                    {
+                        posCol--;
+                    }
+                    else
+                    {
+                        posCol++;
+                    }
+                }
+
+                if (Char.IsDigit(area[posRow, posCol][0]))
+                {
+                    fishQuantity += int.Parse(area[posRow, posCol]);
+                    area[posRow, posCol] = "-";
+                    continue;
+                }
+
+                if (area[posRow, posCol] == "W")
+                {
+                    Console.WriteLine($"You fell into a whirlpool! The ship sank and you lost the fish you caught. Last coordinates of the ship: [{posRow},{posCol}]");
+                    Environment.Exit(0);
+                }
+            }
+
+            if (fishQuantity >= 20)
+            {
+                Console.WriteLine($"Success! You managed to reach the quota!");
+            }
+            else
+            {
+                Console.WriteLine($"You didn't catch enough fish and didn't reach the quota! You need {20 - fishQuantity} tons of fish more.");
+            }
+
+            if (fishQuantity > 0)
+            {
+                Console.WriteLine($"Amount of fish caught: {fishQuantity} tons.");
+            }
+
+            area[posRow, posCol] = "S";
+
+            for (int i = 0; i < area.GetLength(0); i++)
+            {
+                for (int j = 0; j < area.GetLength(1); j++)
+                {
+                    Console.Write(area[i, j]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static int ResetCol(int size, string command)
+        {
+            if (command == "left")
+            {
+                return size - 1;
+            }
+            return 0;
+        }
+
+        private static int ResetRow(int size, string command)
+        {
+            if (command == "up")
+            {
+                return size - 1;
+            }
+            return 0;
+        }
+
+        public static bool MoveIsOutOfArea(int size, int posRow, int posCol, string command)
+        {
+            if (command == "up" && posRow == 0 ||
+               command == "down" && posRow == size - 1 ||
+               command == "left" && posCol == 0 ||
+               command == "right" && posCol == size - 1)
+            {
+                return true;
+            }
+            return false;
+        }
+    }
+}

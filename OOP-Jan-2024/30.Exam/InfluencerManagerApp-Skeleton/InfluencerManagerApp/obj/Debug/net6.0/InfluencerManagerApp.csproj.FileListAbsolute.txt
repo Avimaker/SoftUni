@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/bin/Debug/net6.0/InfluencerManagerApp
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/bin/Debug/net6.0/InfluencerManagerApp.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/bin/Debug/net6.0/InfluencerManagerApp.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/bin/Debug/net6.0/InfluencerManagerApp.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/bin/Debug/net6.0/InfluencerManagerApp.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/refint/InfluencerManagerApp.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/InfluencerManagerApp.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/InfluencerManagerApp-Skeleton/InfluencerManagerApp/obj/Debug/net6.0/ref/InfluencerManagerApp.dll

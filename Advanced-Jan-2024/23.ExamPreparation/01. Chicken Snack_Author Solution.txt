@@ -1,0 +1,65 @@
+namespace Chicken_Snack_Part2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Stack<int> money = new Stack<int>(Console.ReadLine().Split(" ").Select(int.Parse));
+            Queue<int> food = new Queue<int>(Console.ReadLine().Split(" ").Select(int.Parse));
+
+            int counter = 0;
+
+            while (money.Any() && food.Any())
+            {
+                int currMoney = money.Peek();
+                int currFood = food.Peek();
+
+                if(currMoney == currFood)
+                {
+                    money.Pop();
+                    food.Dequeue();
+                    counter++;
+                }
+                else if (currMoney > currFood)
+                {
+                    food.Dequeue();
+                    money.Pop();
+
+                    if (money.Any())
+                    {
+                        money.Push(money.Pop() + currMoney - currFood);
+                    }
+                    else
+                    {
+                        money.Push(currMoney - currFood);
+                    }
+                    
+                    counter++;
+                }
+                else
+                {
+                    money.Pop();
+                    food.Dequeue();
+                }
+            }
+
+            if(counter >= 4)
+            {
+                Console.WriteLine($"Gluttony of the day! Henry ate {counter} foods.");
+            }
+            else if (counter > 0)
+            {
+                string temp = "food";
+                if(counter > 1)
+                {
+                    temp += "s";
+                }
+                Console.WriteLine($"Henry ate: {counter} {temp}.");
+            }
+            else
+            {
+                Console.WriteLine($"Henry remained hungry. He will try next weekend again.");
+            }
+        }
+    }
+}

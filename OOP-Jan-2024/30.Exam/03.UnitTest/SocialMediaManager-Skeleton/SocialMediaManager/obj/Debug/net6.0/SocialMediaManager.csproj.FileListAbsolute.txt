@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/bin/Debug/net6.0/SocialMediaManager
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/bin/Debug/net6.0/SocialMediaManager.deps.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/bin/Debug/net6.0/SocialMediaManager.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/bin/Debug/net6.0/SocialMediaManager.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/bin/Debug/net6.0/SocialMediaManager.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/refint/SocialMediaManager.dll
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.pdb
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/SocialMediaManager.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/OOP-Jan-2024/30.Exam/03.UnitTest/SocialMediaManager-Skeleton/SocialMediaManager/obj/Debug/net6.0/ref/SocialMediaManager.dll

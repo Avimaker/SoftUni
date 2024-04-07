@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/bin/Debug/net6.0/02.FishingCompetition
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/bin/Debug/net6.0/02.FishingCompetition.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/bin/Debug/net6.0/02.FishingCompetition.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/bin/Debug/net6.0/02.FishingCompetition.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/bin/Debug/net6.0/02.FishingCompetition.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/refint/02.FishingCompetition.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/02.FishingCompetition.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/21.ExamPreparation/02.FishingCompetition/obj/Debug/net6.0/ref/02.FishingCompetition.dll

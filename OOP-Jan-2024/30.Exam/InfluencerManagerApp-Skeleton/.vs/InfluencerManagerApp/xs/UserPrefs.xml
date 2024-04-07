@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{DE384213-4124-47DE-B539-826A6A0ACF9D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InfluencerManagerApp" expanded="True">
+            <Node name="InfluencerManagerApp" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="Controller.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InfluencerManagerApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -8,7 +8,7 @@ namespace EDriveRent.Models
         private string startPoint;
         private string endPoint;
         private double lenght;
-        private bool isLocked = false;//ctr?
+        private bool isLocked = false;//ctr? работи и така
 
         public Route(string startPoint, string endPoint, double length, int routeId)
         {

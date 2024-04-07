@@ -10,7 +10,7 @@ namespace EDriveRent.Models
         private string firstName;
         private string lastName;
         private string drivingLicenseNumber;
-        private double rating;//to put in ctor?
+        private double rating;//to put in ctor? 
         private bool isBlocked;//to put in ctor?
 
         public User(string firstName, string lastName, string drivingLicenseNumber)
