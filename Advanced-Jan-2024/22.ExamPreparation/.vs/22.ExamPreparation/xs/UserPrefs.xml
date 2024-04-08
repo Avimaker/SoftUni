@@ -1,13 +1,22 @@
-﻿<Properties StartupConfiguration="{95E76060-05AB-4288-A9FB-2834103F8843}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{26E7A774-9944-4129-A27C-5DF64F38DDF2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AutomotiveRepairShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.TempleОfDoom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.MouseInTheKitchen__02 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutomotiveRepairShop/AutomotiveRepairShop/Vehicle.cs">
+    <Files>
+      <File FileName="AutomotiveRepairShop/AutomotiveRepairShop/RepairShop.cs" Line="2" Column="1" />
+      <File FileName="AutomotiveRepairShop/AutomotiveRepairShop/Vehicle.cs" Line="24" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="22.ExamPreparation">
-            <Node name="02.MouseInTheKitchen">
-              <Node name="Program.cs" selected="True" />
+            <Node name="AutomotiveRepairShop" expanded="True">
+              <Node name="Vehicle.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,9 +26,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.02.MouseInTheKitchen__02 FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.01.TempleОfDoom PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02.MouseInTheKitchen PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02.MouseInTheKitchen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

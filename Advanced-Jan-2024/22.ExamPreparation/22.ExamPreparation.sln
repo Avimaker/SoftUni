@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MouseInTheKitchen", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MouseInTheKitchen_02", "02.MouseInTheKitchen_02\02.MouseInTheKitchen_02.csproj", "{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomotiveRepairShop", "AutomotiveRepairShop\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{26E7A774-9944-4129-A27C-5DF64F38DDF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E7A774-9944-4129-A27C-5DF64F38DDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E7A774-9944-4129-A27C-5DF64F38DDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E7A774-9944-4129-A27C-5DF64F38DDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E7A774-9944-4129-A27C-5DF64F38DDF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
