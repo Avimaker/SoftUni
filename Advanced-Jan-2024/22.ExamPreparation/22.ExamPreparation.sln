@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TempleОfDoom", "01.Temp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MouseInTheKitchen", "02.MouseInTheKitchen\02.MouseInTheKitchen.csproj", "{95E76060-05AB-4288-A9FB-2834103F8843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MouseInTheKitchen_02", "02.MouseInTheKitchen_02\02.MouseInTheKitchen_02.csproj", "{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95E76060-05AB-4288-A9FB-2834103F8843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E76060-05AB-4288-A9FB-2834103F8843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E76060-05AB-4288-A9FB-2834103F8843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3349A3-1AA6-4BCE-8389-F4010DF6940B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

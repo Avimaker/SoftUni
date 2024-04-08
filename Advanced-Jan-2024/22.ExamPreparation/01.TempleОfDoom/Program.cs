@@ -58,10 +58,17 @@ class Program
             }
             else
             {
-                int temp = tools.Dequeue();
-                tools.Enqueue(temp + 1);
-                int tempSub = substances.Pop();
-                substances.Push(tempSub - 1);
+                ////long
+                //int temp = tools.Dequeue();
+                //tools.Enqueue(temp + 1);
+                // short
+                tools.Enqueue(tools.Dequeue() + 1);
+
+                ////long
+                //int tempSub = substances.Pop();
+                //substances.Push(tempSub - 1);
+                //short
+                substances.Push(substances.Pop() - 1);
 
                 if (substances.Peek() == 0)
                 {
