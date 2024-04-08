@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/bin/Debug/net6.0/01.ChickenSnack
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/bin/Debug/net6.0/01.ChickenSnack.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/bin/Debug/net6.0/01.ChickenSnack.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/bin/Debug/net6.0/01.ChickenSnack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/bin/Debug/net6.0/01.ChickenSnack.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/refint/01.ChickenSnack.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/01.ChickenSnack.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/23.ExamPreparation/01.ChickenSnack/obj/Debug/net6.0/ref/01.ChickenSnack.dll

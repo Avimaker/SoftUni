@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{582CB139-F93C-4EEB-958A-EA336603C6E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.ClearSkies PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharkTaxonomy-Skeleton/SharkTaxonomy/Classifier.cs">
+    <Files>
+      <File FileName="01.ChickenSnack/Program.cs" Line="70" Column="10" />
+      <File FileName="02.ClearSkies/Program.cs" Line="8" Column="1" />
+      <File FileName="SharkTaxonomy-Skeleton/SharkTaxonomy/StartUp.cs" Line="1" Column="1" />
+      <File FileName="SharkTaxonomy-Skeleton/SharkTaxonomy/Shark.cs" Line="1" Column="1" />
+      <File FileName="SharkTaxonomy-Skeleton/SharkTaxonomy/Classifier.cs" Line="16" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="23.ExamPreparation" expanded="True">
+            <Node name="01.ChickenSnack" expanded="True" />
+            <Node name="SharkTaxonomy" expanded="True">
+              <Node name="Classifier.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.ChickenSnack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
