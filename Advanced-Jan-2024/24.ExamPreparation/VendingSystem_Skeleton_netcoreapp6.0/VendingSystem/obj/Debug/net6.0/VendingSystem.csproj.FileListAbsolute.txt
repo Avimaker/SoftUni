@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/bin/Debug/net6.0/VendingSystem
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/bin/Debug/net6.0/VendingSystem.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/bin/Debug/net6.0/VendingSystem.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/bin/Debug/net6.0/VendingSystem.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/bin/Debug/net6.0/VendingSystem.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/refint/VendingSystem.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/VendingSystem.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/obj/Debug/net6.0/ref/VendingSystem.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.deps.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/bin/Debug/net6.0/02.DeliveryBoy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/refint/02.DeliveryBoy.dll
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.pdb
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/02.DeliveryBoy.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/Advanced-Jan-2024/24.ExamPreparation/02.DeliveryBoy/obj/Debug/net6.0/ref/02.DeliveryBoy.dll
