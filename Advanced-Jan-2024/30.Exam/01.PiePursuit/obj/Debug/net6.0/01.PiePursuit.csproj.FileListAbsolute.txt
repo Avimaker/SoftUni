@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/bin/Debug/net6.0/01.PiePursuit
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/bin/Debug/net6.0/01.PiePursuit.deps.json
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/bin/Debug/net6.0/01.PiePursuit.runtimeconfig.json
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/bin/Debug/net6.0/01.PiePursuit.dll
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/bin/Debug/net6.0/01.PiePursuit.pdb
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.AssemblyInfo.cs
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.dll
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/refint/01.PiePursuit.dll
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.pdb
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/01.PiePursuit.genruntimeconfig.cache
+/Users/avimaker/Projects/30.Exam/01.PiePursuit/obj/Debug/net6.0/ref/01.PiePursuit.dll

@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.AssemblyInfo.cs
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/bin/Debug/net6.0/DataCenter
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/bin/Debug/net6.0/DataCenter.deps.json
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/bin/Debug/net6.0/DataCenter.runtimeconfig.json
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/bin/Debug/net6.0/DataCenter.dll
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/bin/Debug/net6.0/DataCenter.pdb
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.dll
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/refint/DataCenter.dll
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.pdb
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/DataCenter.genruntimeconfig.cache
+/Users/avimaker/Projects/30.Exam/DataCenter_Skeleton/DataCenter/obj/Debug/net6.0/ref/DataCenter.dll

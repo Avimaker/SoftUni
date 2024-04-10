@@ -1,4 +1,34 @@
-﻿<Properties StartupConfiguration="{CA638E4F-9D98-4729-9CA7-2795D6C26641}|Default">
+﻿<Properties StartupConfiguration="{C7405870-9063-481A-B784-733E55D6E536}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/VendingMachine.cs">
+    <Files>
+      <File FileName="02.DeliveryBoy/Program.cs" Line="16" Column="3" />
+      <File FileName="01.MonsterExtermination/Program.cs" Line="72" Column="17" />
+      <File FileName="VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/Drink.cs" Line="28" Column="1" />
+      <File FileName="VendingSystem_Skeleton_netcoreapp6.0/VendingSystem/VendingMachine.cs" Line="75" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="24.ExamPreparation">
+            <Node name="01.MonsterExtermination" expanded="True" />
+            <Node name="02.DeliveryBoy" expanded="True" />
+            <Node name="VendingSystem" expanded="True">
+              <Node name="VendingMachine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VendingSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.MonsterExtermination PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.02.DeliveryBoy PreferredExecutionTarget="MonoDevelop.Default" />

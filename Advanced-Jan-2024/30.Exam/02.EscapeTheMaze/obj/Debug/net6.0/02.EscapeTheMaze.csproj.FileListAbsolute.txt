@@ -1,0 +1,15 @@
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/bin/Debug/net6.0/02.EscapeTheMaze
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/bin/Debug/net6.0/02.EscapeTheMaze.deps.json
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/bin/Debug/net6.0/02.EscapeTheMaze.runtimeconfig.json
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/bin/Debug/net6.0/02.EscapeTheMaze.dll
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/bin/Debug/net6.0/02.EscapeTheMaze.pdb
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.AssemblyInfo.cs
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.dll
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/refint/02.EscapeTheMaze.dll
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.pdb
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/02.EscapeTheMaze.genruntimeconfig.cache
+/Users/avimaker/Projects/30.Exam/02.EscapeTheMaze/obj/Debug/net6.0/ref/02.EscapeTheMaze.dll
