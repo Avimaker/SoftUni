@@ -2,18 +2,17 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.HighwayToPeak PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HighwayToPeak" expanded="True">
-            <Node name="HighwayToPeak" expanded="True">
+          <Node name="HighwayToPeak">
+            <Node name="HighwayToPeak">
               <Node name="Core" expanded="True">
                 <Node name="Contracts" expanded="True" />
+                <Node name="Engine.cs" selected="True" />
               </Node>
               <Node name="IO" expanded="True" />
               <Node name="Utilities" expanded="True">
@@ -23,6 +22,11 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HighwayToPeak PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

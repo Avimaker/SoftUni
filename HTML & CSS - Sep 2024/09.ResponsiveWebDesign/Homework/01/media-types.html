@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1. Media Types</title>
+    <link rel="stylesheet" href="media-types.css">
+</head>
+<body>
+    <header>
+        <h1 class="title">Media Types</h1>
+        <p>https://developer.mozilla.org/en-US/docs/Web/CSS/@media#media_types
+        </p>
+        
+        <p>Media types describe the general category of a device. Except when using the not or only logical operators, the media type is optional and the all type is implied.
+        </p>
+    </header>
+    <section>
+        <article class="media">   
+            <h2>all</h2>
+            <p>Suitable for all devices</p>
+            <p class="body">
+                @media all {
+                    * {
+                        padding: 0;
+                        margin: 0;
+                        box-sizing: border-box;
+                    }
+                    
+                    body {
+                        padding: 2em;
+                        font: 14px/1.5 Lato, sans-serif;
+                    }    
+                    
+                    p {
+                        padding-bottom: 1.5em;
+                    }
+                }
+            </p>
+        </article>
+        
+        <article class="print">   
+            <h2>print</h2>
+            <p>Intended for paged material and documents viewed on a screen in print preview mode</p>
+            <p class="body">
+                @media print {
+                    body::before {
+                        display: block;
+                        content: 'The page is using a print preview or it was printed';
+                    }
+                }
+            </p>
+        </article>
+        
+        <article class="screen">   
+            <h2>screen</h2>
+            <p>Intended primarily for screens</p>
+            <p class="body">
+                @media screen {
+                    body::before {
+                        display: block;
+                        content: 'The page is being shown on a screen';
+                    }
+                }
+            </p>
+        </article>
+        
+    </section>
+    
+</body>
+</html>

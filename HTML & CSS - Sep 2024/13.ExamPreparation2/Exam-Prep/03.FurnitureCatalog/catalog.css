@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.gap-30 {
+    gap: 30px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* start */
+/* header */
+
+body {
+    font-family: "PT Sans", sans-serif;
+    position: relative;
+}
+
+#imgbkg {
+    background: url("images/background.jpg"),  rgba(255, 255, 255, 0.218);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    min-height: 500px;
+}
+
+#navMenu {
+    margin-top: 30px;
+    width: 100%;
+}
+
+#logoHome img {
+    max-height: 100px;
+}
+
+#linksMenu {
+    font-weight: 800;
+}
+
+header h1 {
+    margin-top: 50px;
+    font-size: 43px;
+    margin-bottom: 30px;
+}
+
+header p {
+    font-size: 17px;
+    font-weight: 600;
+    width: 900px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header #moreinfo {
+    background-color: #E7EEF0;
+    color: #686666;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+/* catalog */
+
+#catalog, #catalogBlue {
+    background-color: #5facc1;
+    padding: 30px 0 50px 0;
+    justify-content: center;
+    gap: 0 150px;
+}
+
+#catalog h2,
+#catalogBlue h2 {
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+#catalog p,
+#catalogBlue p {
+    flex: 1 0 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#card {
+    width: 500px;
+    height: 250px;
+    overflow: hidden;
+    background-color:white;
+}
+
+#card .photo {
+    flex: 0 0 55%;
+    overflow: hidden;
+}
+
+#card .photo img {
+    max-width: 115%;
+}
+
+#card .cardText {
+    display: flex;
+    flex: 1 0;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#card .cardText p {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.blueline {
+    content: "";
+    background-color: #5facc1;
+    width: 10px;
+    height: 100%;
+}
+
+/* catalog white  */
+
+#catalogWhite {
+    background-color: white;
+    padding: 60px 120px;
+    gap: 150px;
+    align-items: baseline;
+}
+
+#cardW {
+    flex: 1 1 20%;
+
+}
+
+#cardW .photo {
+    flex: 0 0 55%;
+    justify-content: center;
+}
+
+#cardW .photo img {
+    max-width: 40%;
+}
+
+#cardW {
+    text-align: center;
+    position: relative;
+}
+
+#cardW .smash img {
+    bottom: 100px;
+    position: absolute;
+    transform: scale(1, 0.7);
+}
+
+/* catalog blue  */
+
+
+/* dobaweno gore */
+#catalogBlue {
+    gap: 0 60px;
+}
+
+#cardB {
+    flex: 0 1 calc(100%/3 - 150px);
+}
+
+#cardB img {
+    max-width: 100%;
+    display: flex;
+}
+
+/* footer */
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    opacity: 60%;
+}
+
+footer div {
+    max-width: 850px;
+    text-align: center;
+    gap: 5px;
+}
+
+footer div p:nth-of-type(1) {
+    font-size: small;
+    font-style: italic;
+    margin-top: -8px;
+}

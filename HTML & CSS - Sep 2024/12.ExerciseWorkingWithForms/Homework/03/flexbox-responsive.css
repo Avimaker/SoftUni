@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    background-color: #eee;
+    font: 14px/1.5 Lato, sans-serif;
+    padding: 30px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.login {
+    display: flex;
+    flex-direction: wrap;
+    /* flex-wrap: wrap; */
+    flex: 1 1 100%;
+    gap: 20px;
+    background-color: white;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}   
+
+.login .field {
+    width: 100%;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 14px 20px;
+}
+
+.login .name{
+    flex: 1 1 40%;
+}
+
+.login .email{
+    flex: 1 1 100%;
+}
+
+.login input {
+    border: none;
+    outline: none;
+    background-color: #eee;
+}
+
+.login input[type="text"] {
+    opacity: 50%;
+}
+
+.login input[type="email"] {
+    opacity: 50%;
+}
+
+.login input:focus {
+    border-color: darkorange;
+}
+
+.login input:focus ~ label {
+    color: darkorange;
+}
+
+.login input[type="submit"] {
+    border: none;
+    border-radius: 5px;
+    background-color: darkorange;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    flex: 1 1 40%;
+}
+
+@media screen and (max-width: 600px) {
+        .login {
+            flex-wrap: wrap;
+        }
+        
+        .login .name{
+            flex: 1 1 20%;
+        }
+        
+        .login .email{
+            flex: 1 1 50%;
+        }
+
+        .login input[type="submit"] {
+        
+        padding: 14px;
+        }
+}
+

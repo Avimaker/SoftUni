@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(209, 234, 22);
+}
+
+p {
+    font-size: 18px;
+}
+
+.highlight {
+    background-color: red ;
+}
+
+.style-type {
+    list-style-type: circle;
+}
+
+.li-color {
+    color: aquamarine;
+}
+
+#special-paragraph {
+    font-style: italic;
+    color: aquamarine;
+} 
+
+#main-title {
+    color: chocolate;
+}
+
+div {
+    background-color: lightgrey;
+}

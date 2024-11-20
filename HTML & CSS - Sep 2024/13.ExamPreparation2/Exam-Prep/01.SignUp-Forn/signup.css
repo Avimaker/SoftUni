@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body, input[type="submit"] {
+    background-color: #c1bdba;
+    font-family: "Kode Mono", monospace;
+    /* font: 14px/1.5 "Kode Mono", monospace; */
+}
+
+.login {
+    background-color: #24333c;
+    color: #8e959b;
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px 50px 50px 50px;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}   
+
+.topLog {
+    display: flex;
+}
+
+.login .logincol input[type="submit"] {
+    background-color: #435359;
+    color: #8e959b;
+}
+
+.login .logincol input[type="submit"]:hover {
+    background-color: #199272;
+    color: white;
+}
+
+.login fieldset legend {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    font-weight: 100;
+}
+
+
+.login fieldset {
+    outline: none;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    gap: 40px;
+}
+
+.login .field:nth-of-type(1),
+.login .field:nth-of-type(2){
+    flex: 1 1 45%;
+}
+
+.login fieldset .submit input[type="submit"] {
+    font-size: 40px;
+    padding: 20;
+    text-transform: uppercase;
+}
+
+.login .field {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    width: 100%;
+    /* flex: 1 1 100%; */
+    position: relative;
+}
+
+
+.login .field label {
+    order: -1;
+    position: absolute;
+    top: 7px;
+    font-size: 35px;
+    padding-left: 20px;
+}
+
+.login input:required ~ label::after {
+    display: inline-block;
+    content: '*';
+    padding-left: 0.3em;
+    color: #1bb189;
+}
+
+
+.login input {
+    /* border-radius: 5px; */
+    border: 1px solid #ccc;
+    padding: 20px 0;
+    background-color: transparent;
+}
+
+.login input[type="submit"] {
+    border: none;
+    background-color: #1bb189;
+    color: white;
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 15px;
+    cursor: pointer;
+}

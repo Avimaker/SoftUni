@@ -1,0 +1,10 @@
+span {
+    color: gray;
+    font-weight: bold;
+}
+
+header > p {
+    font-style: italic;
+    color: gray;
+}
+

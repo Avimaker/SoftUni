@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="media-types.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    
+    <h1>Text Input</h1>
+    <p>The <strong>input</strong> element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent.</p>
+    <p class="bg">Входният елемент <strong>input</strong>  се използва за създаване на интерактивни контроли за уеб базирани формуляри, за да се приемат данни от потребителя; голямо разнообразие от типове входни данни и контролни модули са налични в зависимост от устройството и потребителския агент.</p>
+    <p>The <strong>input</strong>  element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.</p>
+    <p class="bg">Елементът <strong>input</strong> е един от най-мощните и сложни в целия HTML поради големия брой комбинации от типове вход и атрибути.</p> 
+
+    <section class="input-type-text">
+        <head>
+            <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="text"</h2>
+            <p>The default value. A single-line text field. Line-breaks are automatically removed from the input value.</p>
+            <p class="bg">Стойността по подразбиране. Едноредово текстово поле. Прекъсването на редовете се премахва автоматично от въведената стойност.</p>
+        </head>
+        
+        <code><pre>
+&lt;input type=&quot;text&quot; id=&quot;username&quot; name=&quot;username&quot; placeholder=&quot;Username&quot;&gt;
+        </pre></code>
+    
+    <form action="#" method="get">
+        <!-- <label for="username">Username</label> -->
+        <input type="text" id="username" name="username" placeholder="Username">
+        <!-- <button type="submit">Submit</button> -->
+    </form>
+    </section>
+
+
+    <section class="input-type-password">
+        <head>
+            <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="password"</h2>
+            <p>A single-line text field whose value is obscured. Will alert user if site is not secure.</p>
+            <p class="bg">Едноредово текстово поле, чиято стойност е скрита. Ще предупреди потребителя, ако сайтът не е защитен.</p>
+        </head>
+        
+        <code><pre>
+&lt;input type=&quot;password&quot; id=&quot;password&quot; name=&quot;password&quot; placeholder=&quot;Password&quot;&gt;
+        </pre></code>
+    
+    <form action="#" method="get">
+        <!-- <label for="password">Password</label> -->
+        <input type="password" id="password" name="password" placeholder="Password">
+        <!-- <button type="submit">Submit</button> -->
+    </form>
+    </section>
+
+    <section class="input-type-number">
+        <head>
+            <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="number"</h2>
+            <p>A control for entering a number. Displays a spinner and adds default validation. Displays a numeric keypad in some devices with dynamic keypads.
+            </p>
+            <p class="bg">Контрола за въвеждане на число. Показва спинер и добавя проверка по подразбиране. Показва цифрова клавиатура в някои устройства с динамични клавиатури.</p>
+        </head>
+        
+        <code><pre>
+&lt;input type=&quot;number&quot; id=&quot;number&quot; name=&quot;number&quot; value=&quot;5&quot;&gt;
+        </pre></code>
+    
+    <form action="#" method="get">
+        <!-- <label for="number">Number</label> -->
+        <input type="number" id="number" name="number" value="5">
+        <!-- <button type="submit">Submit</button> -->
+    </form>
+    </section>
+
+
+    <section class="input-type-email">
+        <head>
+            <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="email"</h2>
+            <p>A field for editing an email address. Looks like a text input, but has validation parameters and relevant keyboard in supporting browsers and devices with dynamic keyboards.
+
+            </p>
+            <p class="bg">Поле за редактиране на имейл адрес. Изглежда като въвеждане на текст, но има параметри за валидиране и подходяща клавиатура за поддържане на браузъри и устройства с динамични клавиатури.</p>
+        </head>
+        
+        <code><pre>
+&lt;input type=&quot;email&quot; id=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;email&quot;&gt;
+        </pre></code>
+    
+    <form action="#" method="get">
+        <!-- <label for="email">email</label> -->
+        <input type="email" id="email" name="email" placeholder="email">
+        <!-- <button type="submit">Submit</button> -->
+    </form>
+    </section>
+
+    <section class="input-type-search">
+        <head>
+            <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="search"</h2>
+            <p>A single-line text field for entering search strings. Line-breaks are automatically removed from the input value. May include a delete icon in supporting browsers that can be used to clear the field. Displays a search icon instead of enter key on some devices with dynamic keypads.
+            </p>
+            <p class="bg">Едноредово текстово поле за въвеждане на низове за търсене. Прекъсването на редовете се премахва автоматично от въведената стойност. Може да включва икона за изтриване в поддържащи браузъри, която може да се използва за изчистване на полето. Показва икона за търсене вместо клавиш за въвеждане на някои устройства с динамични клавиатури.</p>
+        </head>
+        
+        <code><pre>
+&lt;input type=&quot;search&quot; id=&quot;search&quot; name=&quot;search&quot; placeholder=&quot;Search ...&quot;&gt;
+        </pre></code>
+    
+    <form action="#" method="get">
+        <!-- <label for="search">search</label> -->
+        <input type="search" id="search" name="search" placeholder="Search . . .">
+        <button type="submit">Submit</button>
+    </form>
+    </section>
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Textarea</h1>
+    <p>The <strong>textarea</strong> element represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text, for example a comment on a review or feedback form.</p>
+    <p class="bg">Елементът <strong>textarea</strong> представлява многоредова контрола за редактиране на обикновен текст, полезна, когато искате да позволите на потребителите да въвеждат значително количество текст в свободна форма, например коментар към рецензия или формуляр за обратна връзка.</p>
+   
+    <section class="input-type-text">
+
+        <code><pre>&lt;textarea name=&quot;textarea&quot; rows="5" cols="45"&gt;Text goes here&lt;/textarea&gt;   
+        </pre></code>
+
+        <textarea name="textarea" rows="5" cols="45">Text goes here</textarea>        
+
+    </section>
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Radio</h1>
+    <p>A <strong>radio</strong> button, allowing a single value to be selected out of multiple choices with the same name value.</p>
+    <p class="bg">Бутон за избор <strong>radio</strong>, позволяващ да бъде избрана една стойност от множество възможности за избор със същата стойност на име.</p>
+    <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="radio"</h2>
+    <code><pre>
+&lt;p&gt;
+    &lt;input type=&quot;radio&quot; name=&quot;fruits&quot; id=&quot;apple&quot;&gt;
+    &lt;label for=&quot;apple&quot;&gt;Apple&lt;/label&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;input type=&quot;radio&quot; name=&quot;fruits&quot; id=&quot;pear&quot;&gt;
+    &lt;label for=&quot;pear&quot;&gt;Pear&lt;/label&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;input type=&quot;radio&quot; name=&quot;fruits&quot; id=&quot;banana&quot;&gt;
+    &lt;label for=&quot;banana&quot;&gt;Banana&lt;/label&gt;
+&lt;/p&gt;
+    </pre></code>
+
+    <label for="fruits"><b>Fruits</b></label>
+    <p>
+        <input type="radio" name="fruits" id="apple">
+        <label for="apple">Apple</label>
+    </p>
+
+    <p>
+        <input type="radio" name="fruits" id="pear">
+        <label for="pear">Pear</label>
+    </p>
+
+    <p>
+        <input type="radio" name="fruits" id="banana">
+        <label for="banana">Banana</label>
+    </p>
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Checkbox</h1>
+    <p>A <strong>check box</strong> allowing single values to be selected/deselected.</p>
+    <p class="bg"><strong>Check box</strong> , позволява избиране/демаркиране на единични стойности.</p>
+    <h2><i class="fa-solid fa-arrow-circle-right"></i> Attribute - type="checkbox"</h2>
+    <code><pre>
+&lt;p&gt;
+    &lt;input type=&quot;checkbox&quot; name=&quot;apple&quot; id=&quot;apple&quot;&gt;
+    &lt;label for=&quot;apple&quot;&gt;Apple&lt;/label&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;input type=&quot;checkbox&quot; name=&quot;pear&quot; id=&quot;pear&quot;&gt;
+    &lt;label for=&quot;pear&quot;&gt;Pear&lt;/label&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;input type=&quot;checkbox&quot; name=&quot;banana&quot; id=&quot;banana&quot;&gt;
+    &lt;label for=&quot;banana&quot;&gt;Banana&lt;/label&gt;
+&lt;/p&gt;
+    </pre></code>
+
+    <p>
+        <input type="checkbox" name="apple" id="apple">
+        <label for="apple">Apple</label>
+    </p>
+
+    <p>
+        <input type="checkbox" name="pear" id="pear">
+        <label for="pear">Pear</label>
+    </p>
+
+    <p>
+        <input type="checkbox" name="banana" id="banana">
+        <label for="banana">Banana</label>
+    </p>
+
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Select</h1>
+    <p>The <strong>select</strong> element represents a control that provides a menu of options.</p>
+    <p class="bg">Елементът <strong>select</strong> представлява контрола, която предоставя меню с опции.</p>
+    
+    <code><pre>
+&lt;label for=&quot;pet-select&quot;&gt;Choose a pet:&lt;/label&gt;
+&lt;select name=&quot;pets&quot; id=&quot;pet-select&quot;&gt;
+    &lt;option value=&quot;&quot;&gt;--Please choose an option--&lt;/option&gt;
+    &lt;option value=&quot;dog&quot;&gt;Dog&lt;/option&gt;
+    &lt;option value=&quot;cat&quot;&gt;Cat&lt;/option&gt;
+    &lt;option value=&quot;hamster&quot;&gt;Hamster&lt;/option&gt;
+    &lt;option value=&quot;parrot&quot;&gt;Parrot&lt;/option&gt;
+    &lt;option value=&quot;spider&quot;&gt;Spider&lt;/option&gt;
+    &lt;option value=&quot;goldfish&quot;&gt;Goldfish&lt;/option&gt;
+&lt;/select&gt;       
+    </pre></code>
+    
+    <label for="pet-select">Choose a pet:</label>
+    <select name="pets" id="pet-select">
+        <option value="">--Please choose an option--</option>
+        <option value="dog">Dog</option>
+        <option value="cat">Cat</option>
+        <option value="hamster">Hamster</option>
+        <option value="parrot">Parrot</option>
+        <option value="spider">Spider</option>
+        <option value="goldfish">Goldfish</option>
+    </select>
+
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Multiselect</h1>
+    <p>This Boolean attribute indicates that multiple options can be selected in the list. If it is not specified, then only one option can be selected at a time. When multiple is specified, most browsers will show a scrolling list box instead of a single line dropdown.</p>
+    <p class="bg">Този булев атрибут показва, че в списъка могат да бъдат избрани множество опции. Ако не е посочено, тогава може да бъде избрана само една опция в даден момент. Когато е посочено множество, повечето браузъри ще показват превъртащо се списъчно поле вместо падащо меню с един ред.</p>
+    
+    <code><pre>
+&lt;label for=&quot;pet-select&quot;&gt;Choose a pet:&lt;/label&gt;
+&lt;select name=&quot;pets&quot; id=&quot;pet-select&quot; multiple&gt;
+    &lt;option value=&quot;dog&quot;&gt;Dog&lt;/option&gt;
+    &lt;option value=&quot;cat&quot;&gt;Cat&lt;/option&gt;
+    &lt;option value=&quot;hamster&quot;&gt;Hamster&lt;/option&gt;
+    &lt;option value=&quot;parrot&quot;&gt;Parrot&lt;/option&gt;
+    &lt;option value=&quot;spider&quot;&gt;Spider&lt;/option&gt;
+    &lt;option value=&quot;goldfish&quot;&gt;Goldfish&lt;/option&gt;
+&lt;/select&gt;       
+&lt;i&gt;hold Ctrl/Cmd to select more than one item&lt;/i&gt;
+    </pre></code>
+    
+    <label for="pet-select">Choose a pet:</label>
+    <select name="pets" id="pet-select" multiple>
+        <option value="dog">Dog</option>
+        <option value="cat">Cat</option>
+        <option value="hamster">Hamster</option>
+        <option value="parrot">Parrot</option>
+        <option value="spider">Spider</option>
+        <option value="goldfish">Goldfish</option>
+    </select>
+    <i>hold Ctrl/Cmd to select more than one item</i>
+
+
+
+    <br><br><br>
+    <hr>
+    <br>
+    <h1>Fieldset</h1>
+    <p>The <strong>fieldset</strong> element is used to group several controls as well as labels within a web form.</p>
+    <p class="bg">Елементът <strong>fieldset</strong> се използва за групиране на няколко контроли, както и етикети в уеб формуляр.</p>
+
+    <code><pre>
+&lt;fieldset&gt;
+    &lt;legend&gt;Login&lt;/legend&gt;
+
+    &lt;p class=&quot;field&quot;&gt;
+        &lt;label for=&quot;username&quot;&gt;Username&lt;/label&gt;
+        &lt;input type=&quot;text&quot; name=&quot;username&quot; id=&quot;username&quot;&gt;
+    &lt;/p&gt;
+
+    &lt;p class=&quot;field&quot;&gt;
+        &lt;label for=&quot;password&quot;&gt;Username&lt;/label&gt;
+        &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password&quot;&gt;
+    &lt;/p&gt;
+
+    &lt;input type=&quot;submit&quot; value=&quot;Login&quot;&gt;
+
+&lt;/fieldset&gt;
+    </pre></code>
+
+    <fieldset>
+        <legend>Login</legend>
+
+        <p class="field">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" placeholder="Enter your name here ...">
+        </p>
+
+        <p class="field">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" placeholder="Enter your password here ...">
+        </p>
+
+        <input type="submit" value="Login">
+
+    </fieldset>
+
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+/* section > p {
+    color: red;
+} */
+
+/* section > article > p {
+    color: green;
+} */
+
+/* article.highlight > p  {
+    color: orange;
+} */
+
+section p {
+    color: #2f4f4f;
+}
+
+article.highlight + article {
+    background-color: #f08080;
+}
+
+.main-list {
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+}
+
+.special{
+    color: #ff6347;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 30px;
+}
+
+ul ul {
+    padding-left: 20px;
+}
+
+li.special + li a{
+    color: green; 
+}
+
+h2 ~ p {
+    color: blue;
+}

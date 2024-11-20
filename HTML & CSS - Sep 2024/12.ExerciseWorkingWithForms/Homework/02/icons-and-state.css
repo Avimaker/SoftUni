@@ -1,0 +1,106 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    background-color: #eee;
+    font: 14px/1.5 Lato, sans-serif;
+    padding: 30px;
+}
+
+.login {
+    background-color: white;
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 30px 50px 50px 50px;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}   
+
+.login fieldset {
+    outline: none;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login .field {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-weight: bold;
+    position: relative;
+}
+
+.login fieldset legend {
+    border-bottom: 2px solid #ccc;
+   padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.login input {
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    padding: 20px 0;
+    outline: none;
+}
+
+.login input:focus {
+    border-color: darkorange;
+}
+
+.login input:focus ~ label {
+    color: darkorange;
+}
+
+.login input[type="submit"] {
+    border: none;
+    background-color: darkorange;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.login .field label {
+    order: -1;
+}
+
+.login .field label::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: "Font Awesome 6 Free";
+}
+
+.login .field input[type="email"] ~ label::before {
+    content: '\f0e0';
+}
+
+.login .field input[type="password"] ~ label::before {
+    content: '\f084';
+}
+
+
+
+.login input:required ~ label::after {
+    /* display: inline-block; */
+    content: '*';
+    padding-left: 3px;
+    color: #C00;
+}
+
+.login .helper {
+    opacity: 0.5;
+    font-style: italic;
+    font-size: small;
+    font-weight: 400;
+}

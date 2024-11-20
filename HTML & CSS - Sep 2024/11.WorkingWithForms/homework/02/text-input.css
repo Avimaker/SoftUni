@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    /* font-family: "Lato", sans-serif; */
+    font: 14px/1.5 Lato, sans-serif
+}
+
+body, input, textarea, select, option {
+    font: inherit;
+}
+
+.bg {
+    font-style: italic;
+    color: red;
+}
+
+body {
+    padding: 2em;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+code {
+    display: block;
+    padding: 2em 2em 0.5em 2em;
+    margin: 2em 0;
+    background: #eee;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    overflow: auto;
+}
+
+input {
+    display: inline-block;
+    padding: 0.5em 0.8em;
+    border: 2px solid #ccc;
+    border-radius: 0.3em;
+    outline: none;
+}
+
+input:focus {
+    border-color: #090;
+}

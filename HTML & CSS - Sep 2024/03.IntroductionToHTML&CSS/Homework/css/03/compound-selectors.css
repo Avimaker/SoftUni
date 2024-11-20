@@ -1,0 +1,32 @@
+p.highlight {
+    color: rgb(34, 100, 207);
+    font-size: larger;
+}
+
+div #special {
+    background-color: orange;
+    ;
+}
+
+.box_shadow {
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.fancy[href="https://softuni.bg/"] {
+    color: orange;
+    border-bottom: solid 1px;
+}
+
+.underline {
+    color: blue;
+}
+
+.important-item {
+    color: rgb(25, 178, 202);
+}
+
+.important-item.special-item {
+    font-style: italic;
+    font-weight: bold;
+    color: red;    
+}

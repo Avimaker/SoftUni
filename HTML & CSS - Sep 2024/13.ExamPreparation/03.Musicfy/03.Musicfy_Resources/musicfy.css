@@ -1,0 +1,245 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+ul {
+    list-style: none;
+}
+
+/* header */
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+}
+
+header img {
+    max-height: 35px;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 0 20px;
+}
+
+/* price containers background */
+
+.prices {
+    position: relative;
+}
+
+.imageWrapper {
+    background: #1db954;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    /* z-index: 1 !important; */
+}
+
+.imageWrapper img {
+    width: 45%;
+    margin-top: 30px;
+}
+
+/* price containers itself */
+
+.prices {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0 150px;
+}
+
+.prices h1 {
+    flex: 1 1 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.prices .priceContainer {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.prices .priceContainer h2 {
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 20px;
+    opacity: 60%;
+    padding: 15px 30px;
+}
+
+.prices .priceContainer ul {
+    padding: 0 25px;
+}
+
+.prices .priceContainer ul li {
+    list-style-type: circle;
+    margin-left: 15px;
+    opacity: 70%;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+.individual ul li {
+    margin-bottom: 9px !important;
+}
+
+.prices .priceContainer input[type=submit] {
+   background-color: #1db954;
+   color: white;
+   font-size: small;
+   /* за да не подскача */
+   border: 2px solid #1db954;
+   border-radius: 20px;
+   display: block;
+   max-width: max-content;
+   padding: 5px 20px;
+   margin: 10px auto 20px;
+   cursor: pointer;
+}
+
+.prices .priceContainer input[type=submit]:hover {
+    background-color: white;
+    color:#1db954;
+    border: 2px solid #1db954;
+}
+
+.prices .priceContainer .priceTab {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 40px;
+    font-size: smaller;
+}
+
+.prices .priceContainer .priceTab .seperator {
+    content: "";
+    width: 1px;
+    height: 25px;
+    background-color: white;
+}
+
+/* <section class="dog"> */
+
+.dog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 120px 170px 90px 70px;
+    gap: 30px;
+}
+
+.dog .dogText {
+    display: flex;
+    flex: 0 1 64%;
+    flex-direction: column;
+    gap: 20px;
+    font-size: smaller;
+
+}
+
+.dog .dogLogo {
+    flex: 0 0 25%;;
+}
+
+.dog img {
+    width: 300px;
+}
+
+/* <section class="compareMe"> */
+
+.compareMe {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.compareMe > h3 {
+    font-size: 35px
+}
+
+.compareMe > p {
+    font-size: 14px
+}
+
+.compareMe > h3, .compareMe > p {
+    text-align: center;
+}
+
+.comparison {
+    width: 800px;
+    margin: auto;
+    font-size: small;
+}
+
+.compareRow {
+    display: flex;
+    /* width: 100%; */
+    justify-content: space-between;
+    padding: 8px 10px;
+}
+
+.imgGroup {
+    display: flex;
+    gap: 100px;
+    margin-right: 70px;
+}
+
+.comparison {
+    background: #cccbcb;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.comparison .compareRow:nth-child(even) {
+    background: #80d89f;
+}
+
+/* footer */
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 80px;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "HTML & CSS - Sep 2024",
+			"path": "."
+		},
+		{
+			"name": "JS Front-End",
+			"path": "../JS Front-End"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS Front-End",
+		"liveServer.settings.port": 5501
+	}
+}

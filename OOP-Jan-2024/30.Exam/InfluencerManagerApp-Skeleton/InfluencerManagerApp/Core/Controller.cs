@@ -149,6 +149,7 @@ namespace InfluencerManagerApp.Core
             throw new NotImplementedException();
         }
 
+        //почти ok - забравил съм null проверка
         public string FundCampaign(string brand, double amount)
         {
 

@@ -1,0 +1,148 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0; 
+}
+body {
+    font: 14px Lato, sans-serif;
+    line-height: 1.5;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.green {
+    background-color: #7bb730;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.container {
+    max-width: 1800px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 35px;
+    margin: 30px auto;
+    padding: 30px 100px;
+    gap: 50px;
+}
+
+.photo {
+    flex: 0 1 calc(40% - 100px);
+    overflow: hidden;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo img {
+    width: 120%;
+
+}
+
+.text {
+    flex: 1 1 60%;
+  
+}
+
+.greenLine {
+    content: "";
+    width: 5px;
+    /* height: 245px; */
+}
+
+.topInfo, .bottomInfo {
+    background-color: #f3f3f3;
+}
+
+.topInfoText {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.topInfoText h1 {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    font-weight: 600;
+    line-height: 110%;
+
+}
+
+.topInfoText h6 {
+    color: #7bb730;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    line-height: normal;
+}
+
+.text p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    color: #6f6f6f;
+    line-height: 120%;
+
+
+}
+
+.bottomInfo {
+    padding: 25px;
+}
+
+.bottomInfo .button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+
+.bottomInfo .button ~ .gray {
+    color: #7bb730;
+}
+
+.bottomInfo p {
+    text-align: left;
+    color: #6f6f6f;
+    font-weight: 400;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+html {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.site {
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px 60px;
+    box-shadow: #ccc 0px 8px 24px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.site > * {
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+.site > header,
+.site > footer {
+    flex: 1 1 100%;
+}
+
+.site > main {
+    flex-grow: 7;
+}
+
+.site > aside {
+    flex-grow: 3;
+}
+
+.site.two > header {
+    order: 1;
+}
+
+.site.two > main {
+    order: 3;
+}
+
+.site.two > aside {
+    order: 2;
+}
+
+.site.two > footer {
+    order: 4;
+}

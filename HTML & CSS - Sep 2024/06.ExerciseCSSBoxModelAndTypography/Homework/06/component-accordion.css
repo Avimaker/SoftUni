@@ -1,0 +1,27 @@
+body {
+    font-family: "Lato", sans-serif;
+    /* font-weight: 400;
+    font-style: normal; */
+}
+
+.accordeon-container {
+    max-width: 70%;
+    margin: 30px auto;
+}
+
+.accordeon-container details {
+    border: 1px solid lightgrey;
+    padding: 20px;
+    border-bottom: 0;
+}
+
+/* така поправяме двийния бордер  */
+.accordeon-container details:last-child {
+    border-bottom: 1px solid lightgrey;;
+}
+
+.accordeon-container details summary {
+    font-weight: 700;
+    /* важно за изпита */
+    cursor: pointer;
+}

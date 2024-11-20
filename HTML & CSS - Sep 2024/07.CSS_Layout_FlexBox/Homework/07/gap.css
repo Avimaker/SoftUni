@@ -1,0 +1,133 @@
+.flex-container {
+    width: 400px;
+    padding: 1em;
+    border: 2px solid blue;
+    display: flex;
+    height: 200px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.flex-container .flex-item {
+    background-color: #eee;
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+/* flex: direction */
+/* default */
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.flex-direction-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.flex-direction-column-reverse {
+    flex-direction: column-reverse;
+}
+
+/* flex: wrap */
+/* default */
+.flex-wrap-nowrap {
+    flex-wrap: nowrap;
+}
+
+.flex-wrap-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+/* justify-content */
+/* default */
+.justify-content-flex-start {
+    justify-content: flex-start;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-flex-end {
+    justify-content: flex-end;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.justify-content-space-around {
+    justify-content: space-around;
+}
+
+.justify-content-space-evenly {
+    justify-content: space-evenly;
+}
+
+/* align-items */
+/* default */
+.align-items-stretch {
+    align-items: stretch;
+}
+
+.align-items-flex-start {
+    align-items: flex-start;
+}
+ 
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-flex-end {
+    align-items: flex-end;
+}
+
+.align-items-baseline {
+    align-items: baseline;
+}
+
+/* align-content */
+/* default */
+.align-content-flex-start {
+    align-content: flex-start;
+}
+
+.align-content-center {
+    align-content: center;
+}
+
+.align-content-flex-end {
+    align-content: flex-end;
+}
+
+.align-content-space-between {
+    align-content: space-between;
+}
+
+.align-content-space-around {
+    align-content: space-around;
+}
+
+/* gap */
+.gap-row {
+    height: auto;
+    gap: 2em 0;
+}
+
+.gap-column {
+    height: auto;
+    gap: 0 2em;
+}
+
+.gap {
+    height: auto;
+    gap: 2em;
+}

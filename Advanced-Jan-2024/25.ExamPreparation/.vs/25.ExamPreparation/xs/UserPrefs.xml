@@ -1,18 +1,13 @@
 ﻿<Properties StartupConfiguration="{E8747B0C-BA95-4FDA-9B91-BF1311FED7CD}|Default">
   <MonoDevelop.Ide.ItemProperties.02.Help-A-Mole FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.BaristaContest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.BaristaContest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="25.ExamPreparation" expanded="True">
-            <Node name="01.BaristaContest" expanded="True" />
+          <Node name="25.ExamPreparation">
             <Node name="02.Help-A-Mole">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -24,4 +19,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

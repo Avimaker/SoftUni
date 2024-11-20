@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+html {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+    padding: 5px;
+    box-shadow: #ccc 0px 8px 24px;
+    border-radius: 3px;
+}
+
+.calendar {
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin: 5px;
+    display: flex;
+}
+
+.calendar section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.week {
+    flex: 0 0 70%;
+    /* flex-grow: 7; */
+    border-right: 1px solid grey;
+}
+
+.note {
+    flex: 0 0 20%;
+    /* flex-grow: 3; */
+}
+
+/* to test */
+.test {
+    flex: 0 0 10%;
+    /* flex-grow: 1; */
+    flex-grow: 3;
+}
+
+/* to test */
+.test > div {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border: 1px solid grey;
+    padding: 20px;
+    /* text-align: center; */
+    flex: 1 1 auto;
+}
+
+.week > div, .note > div {
+    border: 1px solid grey;
+    padding: 20px;
+    text-align: center;
+    flex: 1 1 auto;
+}
+
+.week > div:nth-of-type(1) {
+    flex: 1 1 100%;
+}
+
+.week > div:nth-of-type(7) {
+    flex: 1 1 100%;
+}

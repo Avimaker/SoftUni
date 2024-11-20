@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.gap-30 {
+    gap: 30px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* start */
+/* header */
+
+body {
+    font-family: "PT Sans", sans-serif;
+    position: relative;
+}
+
+#imgbkg {
+    background: url("images/background.jpg"),  rgba(255, 255, 255, 0.218);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    min-height: 500px;
+}
+
+#navMenu {
+    margin-top: 30px;
+    width: 100%;
+}
+
+#logoHome img {
+    max-height: 100px;
+}
+
+#linksMenu {
+    font-weight: 800;
+}
