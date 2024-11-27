@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation</title>
+</head>
+
+<body>
+    <h1>DOM Manipulation</h1>
+
+    <h3>Movie List</h3>
+    <ul class="movie-list">
+        <li>The Matrix</li>
+        <li>Lord of the Rings</li>
+    </ul>
+
+    <script>
+        // Demo 1 - create element and append
+        // Select movie list element
+        const movieListElement = document.querySelector('ul.movie-list');
+
+        // Create new li element
+        const newMovieElement = document.createElement('li');
+
+        // Add content
+        newMovieElement.textContent = 'Man of Steel';
+
+        // Add to dom with delay
+        setTimeout(() => {
+            movieListElement.appendChild(newMovieElement); // insert as last child
+            // movieListElement.append(newMovieElement); // insert as last child
+            // movieListElement.prepend(newMovieElement); // it will insert as first child
+        }, 2000);
+
+        // Demo 2 - clone element and append
+        // Get first child of movie list
+        const firstMovieElement = movieListElement.children[0];
+
+        // Clone as new element
+        const firstMovieElementClone = firstMovieElement.cloneNode(true);
+
+        // Change text content
+        firstMovieElementClone.textContent = firstMovieElementClone.textContent + ' Clone';
+
+        // Append cloned element with delay
+        setTimeout(() => {
+            movieListElement.append(firstMovieElementClone);
+        }, 3000);
+
+        // Delete element
+        setTimeout(() => {
+            firstMovieElement.remove();
+            // firstMovieElement.parentElement.removeChild(firstMovieElement); // The old way
+        }, 4000);
+    </script>
+</body>
+
+</html>
