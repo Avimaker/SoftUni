@@ -1,0 +1,40 @@
+API Code
+
+    Load/Read list List of resources
+
+    Create single resource
+    Read single resource
+    Update single resource
+    Delete single resource
+
+DOM Code
+
+    Create Entry
+    Delte Entry
+    Update Entry = Delte Entry + Create Entry
+
+    Event Handlers
+ 
+    createHandler
+    changeHandler - go into edit mode
+    updateHandler - submit PUT request
+    deleteHandler
+
+
+
+
+
+
+// API functions
+
+// UTIL(create elements) functions
+
+function init() {
+    // Global variables
+    
+    // DOM Function
+
+    // Event handlers
+}
+
+document.addEventListener('DOMContentLoaded', init);
