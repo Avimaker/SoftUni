@@ -1,0 +1,145 @@
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.deps.json
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.pdb
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Azure.Core.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Azure.Identity.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Humanizer.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.CodeDom.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Text.Json.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.sourcelink.json
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.Up2Date
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/refint/ORM.dll
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.pdb
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/C# Entity Framework Core - Feb 2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ref/ORM.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.deps.json
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.runtimeconfig.json
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/ORM.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Azure.Core.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Azure.Identity.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Humanizer.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.CodeDom.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Text.Json.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/refint/ORM.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.genruntimeconfig.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ref/ORM.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/03.ORMFundamentals/ORM/ORM/obj/Debug/net6.0/ORM.csproj.CopyComplete

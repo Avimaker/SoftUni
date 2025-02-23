@@ -1,0 +1,32 @@
+7. Deposits Filter
+Select all deposit groups and their total deposit sums, but only for the wizards, who have their magic wands crafted by the Ollivander family. Filter total deposit amounts lower than 150000. Order by total deposit amount in descending order.
+Example
+DepositGroup	TotalSum
+Troll Chest	126585.18
+…	…
+
+
+С тази диаграма на базата данни
+
+erDiagram
+      
+"dbo.WizzardDeposits" {
+    int Id "PK"
+          varchar(50) FirstName ""
+          varchar(60) LastName ""
+          text(2147483647) Notes ""
+          int Age ""
+          varchar(100) MagicWandCreator ""
+          smallint MagicWandSize ""
+          varchar(20) DepositGroup ""
+          date DepositStartDate ""
+          decimal DepositAmount ""
+          decimal DepositInterest ""
+          decimal DepositCharge ""
+          date DepositExpirationDate ""
+          bit IsDepositExpired ""
+          
+}
+      
+
+

@@ -1,0 +1,12 @@
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/bin/Debug/net6.0/P02_FootballBetting.Common.deps.json
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/bin/Debug/net6.0/P02_FootballBetting.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/bin/Debug/net6.0/P02_FootballBetting.Common.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/refint/P02_FootballBetting.Common.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/P02_FootballBetting.Common.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Common/obj/Debug/net6.0/ref/P02_FootballBetting.Common.dll

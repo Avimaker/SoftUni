@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Y+ngX30L+DQ6FFuMAwXcKkRITq3+neWnNIF9+kHcBF4ecp7KkJRbwdq33EgEkqRk/kIRWKlV22EtWjoUIH6Ew==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/08.EntityRelations-Exercise/P02_FootballBetting.Data.Models/P02_FootballBetting.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
