@@ -1,0 +1,17 @@
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Initializer.deps.json
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Initializer.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Initializer.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Data.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Models.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Data.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/bin/Debug/net6.0/BookShop.Models.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.csproj.CopyComplete
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/refint/BookShop.Initializer.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/BookShop.Initializer.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Initializer/obj/Debug/net6.0/ref/BookShop.Initializer.dll

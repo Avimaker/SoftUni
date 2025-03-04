@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{17F99C5F-84C4-42AF-B026-99E6ABD2F534}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.SoftUni PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SoftUni/StartUp.cs">
     <Files>
-      <File FileName="SoftUni/StartUp.cs" Line="330" Column="1" />
+      <File FileName="SoftUni/StartUp.cs" Line="434" Column="40" />
       <File FileName="SoftUni/Data/SoftUniContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="06.EntityFrameworkIntroduction-Exercise" expanded="True">
-            <Node name="SoftUni">
+          <Node name="06.EntityFrameworkIntroduction-Exercise">
+            <Node name="SoftUni" expanded="True">
               <Node name="Data" expanded="True" />
+              <Node name="StartUp.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,8 +27,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

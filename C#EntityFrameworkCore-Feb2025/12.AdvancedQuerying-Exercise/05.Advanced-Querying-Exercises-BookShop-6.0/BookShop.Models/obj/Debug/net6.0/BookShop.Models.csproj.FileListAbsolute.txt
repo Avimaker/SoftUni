@@ -1,0 +1,12 @@
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/bin/Debug/net6.0/BookShop.Models.deps.json
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/bin/Debug/net6.0/BookShop.Models.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/bin/Debug/net6.0/BookShop.Models.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.csproj.AssemblyReference.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.AssemblyInfoInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.AssemblyInfo.cs
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.csproj.CoreCompileInputs.cache
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/refint/BookShop.Models.dll
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/BookShop.Models.pdb
+/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/obj/Debug/net6.0/ref/BookShop.Models.dll

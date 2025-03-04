@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|Default">
+  <MonoDevelop.Ide.ItemProperties.MusicHub PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicHub/StartUp.cs">
+    <Files>
+      <File FileName="MusicHub/StartUp.cs" Line="18" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicHub" expanded="True">
+            <Node name="MusicHub">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Configuration" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Enums" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Initializer" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MusicHub" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

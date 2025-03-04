@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4k1iTbu2OVTB5x/wHBpR8nSM7xAKqRt9yUmfNR1JAOOSawDre2EtJPe7e/PGFiIW007oyYER+d7S2IpYS3VacA==",
+  "success": true,
+  "projectFilePath": "/Users/avimaker/Projects/SoftUni/C#EntityFrameworkCore-Feb2025/12.AdvancedQuerying-Exercise/05.Advanced-Querying-Exercises-BookShop-6.0/BookShop.Models/BookShop.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/avimaker/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/avimaker/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
