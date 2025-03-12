@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductShop/Data/Configuration.cs">
+    <Files>
+      <File FileName="ProductShop/StartUp.cs" Line="67" Column="73" />
+      <File FileName="ProductShop/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="ProductShop/Models/CategoryProduct.cs" Line="1" Column="1" />
+      <File FileName="ProductShop/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="ProductShop/Models/User.cs" Line="18" Column="65" />
+      <File FileName="ProductShop/Data/ProductShopContext.cs" Line="1" Column="1" />
+      <File FileName="ProductShop/Data/Configuration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True">
+            <Node name="ProductShop" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Configuration.cs" selected="True" />
+              </Node>
+              <Node name="Datasets" expanded="True" />
+              <Node name="DTOs" expanded="True">
+                <Node name="Import" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Results" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProductShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

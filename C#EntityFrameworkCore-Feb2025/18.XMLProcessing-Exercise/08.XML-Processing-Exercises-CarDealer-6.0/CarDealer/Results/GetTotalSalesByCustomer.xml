@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<customers>
+  <customer full-name="Emmitt Benally" bought-cars="1" spent-money="4778.63" />
+  <customer full-name="Cinthia Lasala" bought-cars="1" spent-money="2839.08" />
+  <customer full-name="Marcelle Griego" bought-cars="1" spent-money="1741.55" />
+  <customer full-name="Daniele Zarate" bought-cars="1" spent-money="1729.06" />
+  <customer full-name="Garret Capron" bought-cars="1" spent-money="1663.55" />
+  <customer full-name="Natalie Poli" bought-cars="1" spent-money="958.07" />
+  <customer full-name="Johnette Derryberry" bought-cars="1" spent-money="816.84" />
+  <customer full-name="Hai Everton" bought-cars="1" spent-money="412.20" />
+  <customer full-name="Zada Attwood" bought-cars="1" spent-money="231.68" />
+</customers>

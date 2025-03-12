@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CF802316-8076-4136-9DD7-106F090420E4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarDealer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarDealer/StartUp.cs">
+    <Files>
+      <File FileName="CarDealer/StartUp.cs" Line="378" Column="5" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarDealer" expanded="True">
+            <Node name="CarDealer" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Datasets" expanded="True" />
+              <Node name="DTOs" expanded="True">
+                <Node name="Import" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
