@@ -1,14 +1,28 @@
 ﻿<Properties StartupConfiguration="{CF802316-8076-4136-9DD7-106F090420E4}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarDealer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarDealer/Utilities/XmlHelper.cs">
+    <Files>
+      <File FileName="CarDealer/StartUp.cs" Line="513" Column="10" />
+      <File FileName="CarDealer/DTOs/Export/ExportCarsOverDistanceDto.cs" Line="1" Column="1" />
+      <File FileName="CarDealer/Utilities/XmlHelper.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CarDealer" expanded="True">
-            <Node name="CarDealer" expanded="True">
-              <Node name="Utilities" expanded="True" selected="True" />
+            <Node name="CarDealer">
+              <Node name="DTOs" expanded="True">
+                <Node name="Export" expanded="True" />
+              </Node>
+              <Node name="Utilities" expanded="True">
+                <Node name="XmlHelper.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -18,8 +32,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CarDealer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

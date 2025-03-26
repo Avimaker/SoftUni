@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{EFDDF6DE-1557-4494-8CEE-0803A7C54E04}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelAgency" expanded="True">
+            <Node name="TravelAgency" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Enums" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ImportDtos" expanded="True">
+                  <Node name="CustomerImportDTO.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Migrations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TravelAgency PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

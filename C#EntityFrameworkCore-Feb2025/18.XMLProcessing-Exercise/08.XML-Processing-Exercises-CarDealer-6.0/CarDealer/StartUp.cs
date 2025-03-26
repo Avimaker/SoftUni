@@ -134,35 +134,41 @@ namespace CarDealer
         {
             string result = string.Empty;
 
+            //казваме към какво ще десериализираме данните
             //use dto that already create plus root name + XmlHelper
             ImportPartDto[]? partDtos = XmlHelper
                 .Deserialize<ImportPartDto[]>(inputXml, "Parts");
 
-            if (partDtos != null) //use for foreach
+            //проверяваме дали нещо се е десериализирало
+            if (partDtos != null) 
             {
+                //когато имаме нещо което трябва да се закачи към вече съществуващо в базата трябва да се направи спсисък с вече съществуващи в базата Ids
                 //If the supplierId doesn't exist, skip the record.
                 ICollection<int> dbSupplierIds = context
                     .Suppliers
                     .Select(s => s.Id)
                     .ToArray();
 
+                // правя колекция с валиди ...
                 ICollection<Part> validParts = new List<Part>();
 
+                //трябва да форийчнем десер.инфо и да направим валидации
                 foreach (ImportPartDto partDto in partDtos)
                 {
-                    //first check if the dto isValid
+                    //first check if the dto isValid, if not - skip
                     if (!IsValid(partDto))
                     {
                         continue;
                     }
 
-                    //if it is valid we have to check parse props from dto
+                    //if it's valid we have to check strings props from dto who have to parse
                     bool isPriceValid = decimal
                         .TryParse(partDto.Price, out decimal price);
                     bool isQuantityValid = int
                         .TryParse(partDto.Quantity, out int quantity);
                     bool isSupplierValid = int
                         .TryParse(partDto.SupplierId, out int supplierId);
+
                     //check if some of them are invalid we have to skip
                     if ((!isPriceValid) || (!isQuantityValid) || (!isSupplierValid))
                     {
@@ -170,7 +176,7 @@ namespace CarDealer
                         continue;
                     }
 
-                    // if they are valid and are parsed we have to check is there valid supplier in db to add to him
+                    // if they are valid and are parsed we have to check is there valid supplier in db to add to it
                     if (!dbSupplierIds.Contains(supplierId))
                     {
                         // Non-existing supplierId which would violate teh FK Contraint

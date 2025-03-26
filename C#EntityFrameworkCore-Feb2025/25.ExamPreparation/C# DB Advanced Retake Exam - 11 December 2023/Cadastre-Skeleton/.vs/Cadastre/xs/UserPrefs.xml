@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cadastre PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cadastre" expanded="True">
+            <Node name="Cadastre">
+              <Node name="ExportResults" expanded="True" />
+              <Node name="Utilities " expanded="True" />
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

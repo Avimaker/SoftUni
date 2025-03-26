@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{18488EE8-C545-489E-A587-DD442B107B10}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductShop/StartUp.cs">
+    <Files>
+      <File FileName="ProductShop/StartUp.cs" Line="409" Column="51" />
+      <File FileName="ProductShop/Utilities/XmlHelper.cs" Line="57" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True">
+            <Node name="ProductShop">
+              <Node name="DTOs">
+                <Node name="Import" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetPay" expanded="True">
+            <Node name="NetPay">
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ExportDtos" expanded="True">
+                  <Node name="HouseholdDto.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ExportResults" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetPay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

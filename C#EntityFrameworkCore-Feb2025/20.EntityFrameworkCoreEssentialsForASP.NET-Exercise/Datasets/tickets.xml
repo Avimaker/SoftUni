@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tickets>
+    <Ticket>
+        <Id>1a2b3c4d-5678-9101-1121-314151617181</Id>
+        <Price>12.50</Price>
+        <CinemaId>6D5ABDAB-5EEF-4CC7-B4CC-31AF546A1AF1</CinemaId>
+        <MovieId>AE50A5AB-9642-466F-B528-3CC61071BB4C</MovieId>
+        <UserId></UserId>
+    </Ticket>
+    <Ticket>
+        <Id>2b3c4d5e-6789-0123-4567-890123456789</Id>
+        <Price>15.00</Price>
+        <CinemaId>6D5ABDAB-5EEF-4CC7-B4CC-31AF546A1AF1</CinemaId>
+        <MovieId>02B52BB0-1C2B-49A4-BA66-6D33F81D38D1</MovieId>
+        <UserId></UserId>
+    </Ticket>
+    <Ticket>
+        <Id>3c4d5e6f-7890-1234-5678-901234567890</Id>
+        <Price>10.00</Price>
+        <CinemaId>281E2A3C-F026-469C-A50E-88BEC634793E</CinemaId>
+        <MovieId>16376CC6-B3E0-4BF7-A0E4-9CBD1490522C</MovieId>
+        <UserId></UserId>
+    </Ticket>
+</Tickets>

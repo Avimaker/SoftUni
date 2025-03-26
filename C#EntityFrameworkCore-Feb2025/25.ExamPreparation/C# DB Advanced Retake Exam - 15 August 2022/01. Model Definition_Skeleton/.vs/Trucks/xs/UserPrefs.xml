@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trucks" expanded="True">
+            <Node name="Trucks">
+              <Node name="Data" expanded="True" />
+              <Node name="DataProcessor">
+                <Node name="ImportDto" expanded="True" />
+                <Node name="Serializer.cs" selected="True" />
+              </Node>
+              <Node name="Datasets" expanded="True" />
+              <Node name="ExportResults" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Trucks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

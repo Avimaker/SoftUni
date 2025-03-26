@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetPay/DataProcessor/Serializer.cs">
+    <Files>
+      <File FileName="NetPay/DataProcessor/Serializer.cs" Line="70" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetPay" expanded="True">
+            <Node name="NetPay" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ExportDtos" expanded="True" />
+                <Node name="ImportDtos" expanded="True" />
+                <Node name="Serializer.cs" selected="True" />
+              </Node>
+              <Node name="Datasets" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="NetPay" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetPay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
